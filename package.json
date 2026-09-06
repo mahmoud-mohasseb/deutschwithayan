@@ -20,7 +20,6 @@
     "@types/three": "^0.185.4",
     "axios": "^1.20.0",
     "expo": "^57.0.0",
-    "expo-av": "~15.0.2",
     "expo-gl": "~57.0.2",
     "expo-haptics": "~57.0.2",
     "expo-image": "~57.0.4",
