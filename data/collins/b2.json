@@ -1,0 +1,722 @@
+[
+  {
+    "id": "col-boxen-to-box",
+    "german": "boxen",
+    "base": "boxen",
+    "english": "to box",
+    "arabic": "to box (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "German verb. Governed by the V2 rule in main declarative clauses, occupying Position 2. Conjugates with standard personal endings.",
+      "ar": "فعل ألماني. بيحتل دايماً المركز التاني (Position 2 / V2 Rule) في الجملة الخبرية، ويتصرف مع الضمائر بالنهايات المعروفة.",
+      "grammarTip": "V2 Rule: Verb occupies Position 2 in declarative main clauses."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen boxen.",
+      "en": "We would like to box together today.",
+      "ar": "حابين النهاردة نعمل to box (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-ringen-to-wrestle",
+    "german": "ringen",
+    "base": "ringen",
+    "english": "to wrestle",
+    "arabic": "to wrestle (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "German verb. Governed by the V2 rule in main declarative clauses, occupying Position 2. Conjugates with standard personal endings.",
+      "ar": "فعل ألماني. بيحتل دايماً المركز التاني (Position 2 / V2 Rule) في الجملة الخبرية، ويتصرف مع الضمائر بالنهايات المعروفة.",
+      "grammarTip": "V2 Rule: Verb occupies Position 2 in declarative main clauses."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen ringen.",
+      "en": "We would like to wrestle together today.",
+      "ar": "حابين النهاردة نعمل to wrestle (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-schlagen-to-punch",
+    "german": "schlagen",
+    "base": "schlagen",
+    "english": "to punch",
+    "arabic": "to punch (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "German verb. Governed by the V2 rule in main declarative clauses, occupying Position 2. Conjugates with standard personal endings.",
+      "ar": "فعل ألماني. بيحتل دايماً المركز التاني (Position 2 / V2 Rule) في الجملة الخبرية، ويتصرف مع الضمائر بالنهايات المعروفة.",
+      "grammarTip": "V2 Rule: Verb occupies Position 2 in declarative main clauses."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen schlagen.",
+      "en": "We would like to punch together today.",
+      "ar": "حابين النهاردة نعمل to punch (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-kicken-to-kick-2398",
+    "german": "kicken",
+    "base": "kicken",
+    "english": "to kick",
+    "arabic": "to kick (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "German verb. Governed by the V2 rule in main declarative clauses, occupying Position 2. Conjugates with standard personal endings.",
+      "ar": "فعل ألماني. بيحتل دايماً المركز التاني (Position 2 / V2 Rule) في الجملة الخبرية، ويتصرف مع الضمائر بالنهايات المعروفة.",
+      "grammarTip": "V2 Rule: Verb occupies Position 2 in declarative main clauses."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen kicken.",
+      "en": "We would like to kick together today.",
+      "ar": "حابين النهاردة نعمل to kick (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-zuschlagen-to-strike",
+    "german": "zuschlagen",
+    "base": "zuschlagen",
+    "english": "to strike",
+    "arabic": "to strike (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Separable prefix verb (trennbares Verb). The base verb sits in Position 2, while the prefix moves to the very end of the clause.",
+      "ar": "فعل منفصل (Trennbares Verb). في الجملة الرئيسية، جذر الفعل بييجي في المركز التاني، والسابقة بتطير لآخر الجملة.",
+      "grammarTip": "Separable Verb: prefix moves to the clause end."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen zuschlagen.",
+      "en": "We would like to strike together today.",
+      "ar": "حابين النهاردة نعمل to strike (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-sparren-to-spar",
+    "german": "sparren",
+    "base": "sparren",
+    "english": "to spar",
+    "arabic": "to spar (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "German verb. Governed by the V2 rule in main declarative clauses, occupying Position 2. Conjugates with standard personal endings.",
+      "ar": "فعل ألماني. بيحتل دايماً المركز التاني (Position 2 / V2 Rule) في الجملة الخبرية، ويتصرف مع الضمائر بالنهايات المعروفة.",
+      "grammarTip": "V2 Rule: Verb occupies Position 2 in declarative main clauses."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen sparren.",
+      "en": "We would like to spar together today.",
+      "ar": "حابين النهاردة نعمل to spar (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-fechten-to-fence",
+    "german": "fechten",
+    "base": "fechten",
+    "english": "to fence",
+    "arabic": "to fence (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "German verb. Governed by the V2 rule in main declarative clauses, occupying Position 2. Conjugates with standard personal endings.",
+      "ar": "فعل ألماني. بيحتل دايماً المركز التاني (Position 2 / V2 Rule) في الجملة الخبرية، ويتصرف مع الضمائر بالنهايات المعروفة.",
+      "grammarTip": "V2 Rule: Verb occupies Position 2 in declarative main clauses."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen fechten.",
+      "en": "We would like to fence together today.",
+      "ar": "حابين النهاردة نعمل to fence (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-k-o-schlagen-to-knock-out",
+    "german": "k.o. schlagen",
+    "base": "k.o. schlagen",
+    "english": "to knock out",
+    "arabic": "to knock out (فعل)",
+    "type": "verb",
+    "gender": null,
+    "article": null,
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "German verb. Governed by the V2 rule in main declarative clauses, occupying Position 2. Conjugates with standard personal endings.",
+      "ar": "فعل ألماني. بيحتل دايماً المركز التاني (Position 2 / V2 Rule) في الجملة الخبرية، ويتصرف مع الضمائر بالنهايات المعروفة.",
+      "grammarTip": "V2 Rule: Verb occupies Position 2 in declarative main clauses."
+    },
+    "example": {
+      "de": "Wir möchten heute gerne zusammen k.o..",
+      "en": "We would like to knock out together today.",
+      "ar": "حابين النهاردة نعمل to knock out (فعل) سوا."
+    }
+  },
+  {
+    "id": "col-die-boxhandschuhe-boxing-gloves",
+    "german": "die Boxhandschuhe (mpl)",
+    "base": "Boxhandschuhe",
+    "english": "boxing gloves",
+    "arabic": "boxing gloves (اسم)",
+    "type": "noun",
+    "gender": "plural",
+    "article": "die",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Plural noun with article 'die'. In the dative plural case, takes article 'den' and adds '-n' suffix.",
+      "ar": "اسم جمع (Plural) بياخد أداة التعريف 'die'. في حالة الجر (Dativ Plural) بيتحول إلى 'den' مع إضافة n لنهاية الاسم لو مش منتهية بـ n أو s.",
+      "grammarTip": "Art: die (Plural) | Dat Plural: den + (e)n"
+    },
+    "example": {
+      "de": "Wo befindet sich die Boxhandschuhe?",
+      "en": "Where is the boxing gloves located?",
+      "ar": "فين مكان boxing gloves (اسم)؟"
+    }
+  },
+  {
+    "id": "col-der-boxring-boxing-ring",
+    "german": "der Boxring",
+    "base": "Boxring",
+    "english": "boxing ring",
+    "arabic": "boxing ring (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Boxring gestern gesehen.",
+      "en": "I saw the boxing ring yesterday.",
+      "ar": "أنا شفت boxing ring (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-die-boxschuhe-mpl-boxing-shoes",
+    "german": "die Boxschuhe (mpl)",
+    "base": "Boxschuhe",
+    "english": "boxing shoes",
+    "arabic": "boxing shoes (اسم)",
+    "type": "noun",
+    "gender": "plural",
+    "article": "die",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Plural noun with article 'die'. In the dative plural case, takes article 'den' and adds '-n' suffix.",
+      "ar": "اسم جمع (Plural) بياخد أداة التعريف 'die'. في حالة الجر (Dativ Plural) بيتحول إلى 'den' مع إضافة n لنهاية الاسم لو مش منتهية بـ n أو s.",
+      "grammarTip": "Art: die (Plural) | Dat Plural: den + (e)n"
+    },
+    "example": {
+      "de": "Wo befindet sich die Boxschuhe?",
+      "en": "Where is the boxing shoes located?",
+      "ar": "فين مكان boxing shoes (اسم)؟"
+    }
+  },
+  {
+    "id": "col-der-kopfschutz-headguard",
+    "german": "der Kopfschutz",
+    "base": "Kopfschutz",
+    "english": "headguard",
+    "arabic": "headguard (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Kopfschutz gestern gesehen.",
+      "en": "I saw the headguard yesterday.",
+      "ar": "أنا شفت headguard (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-der-zahnschutz-mouthguard",
+    "german": "der Zahnschutz",
+    "base": "Zahnschutz",
+    "english": "mouthguard",
+    "arabic": "mouthguard (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Zahnschutz gestern gesehen.",
+      "en": "I saw the mouthguard yesterday.",
+      "ar": "أنا شفت mouthguard (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-der-sandsack-punchbag",
+    "german": "der Sandsack",
+    "base": "Sandsack",
+    "english": "punchbag",
+    "arabic": "punchbag (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Sandsack gestern gesehen.",
+      "en": "I saw the punchbag yesterday.",
+      "ar": "أنا شفت punchbag (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-das-fechten-fencing",
+    "german": "das Fechten",
+    "base": "Fechten",
+    "english": "fencing",
+    "arabic": "fencing (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Fechten gefällt mir wirklich gut.",
+      "en": "I really like the fencing.",
+      "ar": "fencing (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-das-judo-judo",
+    "german": "das Judo",
+    "base": "Judo",
+    "english": "judo",
+    "arabic": "judo (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Judo gefällt mir wirklich gut.",
+      "en": "I really like the judo.",
+      "ar": "judo (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-das-karate-karate",
+    "german": "das Karate",
+    "base": "Karate",
+    "english": "karate",
+    "arabic": "karate (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Karate gefällt mir wirklich gut.",
+      "en": "I really like the karate.",
+      "ar": "karate (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-das-kickboxen-kickboxing",
+    "german": "das Kickboxen",
+    "base": "Kickboxen",
+    "english": "kickboxing",
+    "arabic": "kickboxing (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Kickboxen gefällt mir wirklich gut.",
+      "en": "I really like the kickboxing.",
+      "ar": "kickboxing (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-das-kung-fu-kung-fu",
+    "german": "das Kung-Fu",
+    "base": "Kung-Fu",
+    "english": "kung fu",
+    "arabic": "kung fu (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Kung-Fu gefällt mir wirklich gut.",
+      "en": "I really like the kung fu.",
+      "ar": "kung fu (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-das-taekwondo-taekwondo",
+    "german": "das Taekwondo",
+    "base": "Taekwondo",
+    "english": "taekwondo",
+    "arabic": "taekwondo (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Taekwondo gefällt mir wirklich gut.",
+      "en": "I really like the taekwondo.",
+      "ar": "taekwondo (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-der-ringkampf-wrestling",
+    "german": "der Ringkampf",
+    "base": "Ringkampf",
+    "english": "wrestling",
+    "arabic": "wrestling (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Ringkampf gestern gesehen.",
+      "en": "I saw the wrestling yesterday.",
+      "ar": "أنا شفت wrestling (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-der-l-ufer-die-l-runner",
+    "german": "der Läufer / die Läuferin",
+    "base": "Läufer",
+    "english": "runner",
+    "arabic": "runner (تعبير)",
+    "type": "phrase",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Conversational German phrase from Collins 3000. Used regularly in everyday spoken German.",
+      "ar": "تعبير محادثة يومي ومهم جداً من كولينز 3000، بيستخدمه الألمان في الحياة اليومية والتعاملات.",
+      "grammarTip": "Everyday colloquial spoken German idiom."
+    },
+    "example": {
+      "de": "der Läufer / die Läuferin",
+      "en": "runner",
+      "ar": "runner (تعبير)"
+    }
+  },
+  {
+    "id": "col-das-rennen-race",
+    "german": "das Rennen",
+    "base": "Rennen",
+    "english": "race",
+    "arabic": "race (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Rennen gefällt mir wirklich gut.",
+      "en": "I really like the race.",
+      "ar": "race (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-der-marathon-marathon",
+    "german": "der Marathon",
+    "base": "Marathon",
+    "english": "marathon",
+    "arabic": "marathon (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Marathon gestern gesehen.",
+      "en": "I saw the marathon yesterday.",
+      "ar": "أنا شفت marathon (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-der-sprint-sprint",
+    "german": "der Sprint",
+    "base": "Sprint",
+    "english": "sprint",
+    "arabic": "sprint (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Sprint gestern gesehen.",
+      "en": "I saw the sprint yesterday.",
+      "ar": "أنا شفت sprint (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-der-staffellauf-relay",
+    "german": "der Staffellauf",
+    "base": "Staffellauf",
+    "english": "relay",
+    "arabic": "relay (اسم)",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Masculine noun with article 'der'. Changes to 'den' in the accusative case (direct object) and 'dem' in the dative case (indirect object).",
+      "ar": "اسم مذكر (Maskulin) بيأخذ أداة التعريف 'der'. في حالة المفعول به (Akkusativ) بيتحول إلى 'den'، وفي المجرور (Dativ) بيتحول إلى 'dem'.",
+      "grammarTip": "Art: der | Akk: den | Dat: dem"
+    },
+    "example": {
+      "de": "Ich habe den Staffellauf gestern gesehen.",
+      "en": "I saw the relay yesterday.",
+      "ar": "أنا شفت relay (اسم) إمبارح."
+    }
+  },
+  {
+    "id": "col-die-spur-lane-2421",
+    "german": "die Spur",
+    "base": "Spur",
+    "english": "lane",
+    "arabic": "lane (اسم)",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "category": "boxing",
+    "subCategory": "other combat sports",
+    "level": "B2",
+    "page": 90,
+    "explanation": {
+      "en": "Feminine noun with article 'die'. Remains 'die' in the accusative case and changes to 'der' in the dative case.",
+      "ar": "اسم مؤنث (Feminin) بيأخذ أداة التعريف 'die'. بيفضل 'die' في حالة المفعول (Akkusativ)، وبيتحول لـ 'der' في حالة الجر (Dativ).",
+      "grammarTip": "Art: die | Akk: die | Dat: der"
+    },
+    "example": {
+      "de": "Wo befindet sich die Spur?",
+      "en": "Where is the lane located?",
+      "ar": "فين مكان lane (اسم)؟"
+    }
+  },
+  {
+    "id": "col-die-feder-feather-3118",
+    "german": "die Feder",
+    "base": "Feder",
+    "english": "feather",
+    "arabic": "feather (اسم)",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "category": "celebrations and festivals",
+    "subCategory": "feste und festtage",
+    "level": "B2",
+    "page": 117,
+    "explanation": {
+      "en": "Feminine noun with article 'die'. Remains 'die' in the accusative case and changes to 'der' in the dative case.",
+      "ar": "اسم مؤنث (Feminin) بيأخذ أداة التعريف 'die'. بيفضل 'die' في حالة المفعول (Akkusativ)، وبيتحول لـ 'der' في حالة الجر (Dativ).",
+      "grammarTip": "Art: die | Akk: die | Dat: der"
+    },
+    "example": {
+      "de": "Wo befindet sich die Feder?",
+      "en": "Where is the feather located?",
+      "ar": "فين مكان feather (اسم)؟"
+    }
+  },
+  {
+    "id": "col-das-kost-m-costume",
+    "german": "das Kostüm",
+    "base": "Kostüm",
+    "english": "costume",
+    "arabic": "costume (اسم)",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "category": "celebrations and festivals",
+    "subCategory": "feste und festtage",
+    "level": "B2",
+    "page": 117,
+    "explanation": {
+      "en": "Neuter noun with article 'das'. Remains 'das' in the accusative case and changes to 'dem' in the dative case.",
+      "ar": "اسم محايد (Neutrum) بيأخذ أداة التعريف 'das'. بيفضل 'das' في المفعول (Akkusativ)، وبيتحول لـ 'dem' في حالة الجر (Dativ).",
+      "grammarTip": "Art: das | Akk: das | Dat: dem"
+    },
+    "example": {
+      "de": "das Kostüm gefällt mir wirklich gut.",
+      "en": "I really like the costume.",
+      "ar": "costume (اسم) عاجبني جداً بصراحة."
+    }
+  },
+  {
+    "id": "col-die-maske-mask",
+    "german": "die Maske",
+    "base": "Maske",
+    "english": "mask",
+    "arabic": "mask (اسم)",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "category": "celebrations and festivals",
+    "subCategory": "feste und festtage",
+    "level": "B2",
+    "page": 117,
+    "explanation": {
+      "en": "Feminine noun with article 'die'. Remains 'die' in the accusative case and changes to 'der' in the dative case.",
+      "ar": "اسم مؤنث (Feminin) بيأخذ أداة التعريف 'die'. بيفضل 'die' في حالة المفعول (Akkusativ)، وبيتحول لـ 'der' في حالة الجر (Dativ).",
+      "grammarTip": "Art: die | Akk: die | Dat: der"
+    },
+    "example": {
+      "de": "Wo befindet sich die Maske?",
+      "en": "Where is the mask located?",
+      "ar": "فين مكان mask (اسم)؟"
+    }
+  }
+]

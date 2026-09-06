@@ -1,0 +1,817 @@
+{
+  "MEMORY_PAIRS_ITEMS": [
+    { "id": "m1", "german": "der Hund", "english": "the dog", "arabic": "الكلب 🐶", "emoji": "🐶", "category": "animals" },
+    { "id": "m2", "german": "die Katze", "english": "the cat", "arabic": "القطة 🐱", "emoji": "🐱", "category": "animals" },
+    { "id": "m3", "german": "der Apfel", "english": "the apple", "arabic": "التفاحة 🍎", "emoji": "🍎", "category": "food" },
+    { "id": "m4", "german": "das Brot", "english": "the bread", "arabic": "العيش / الخبز 🍞", "emoji": "🍞", "category": "food" },
+    { "id": "m5", "german": "das Auto", "english": "the car", "arabic": "العربية / السيارة 🚗", "emoji": "🚗", "category": "travel" },
+    { "id": "m6", "german": "das Buch", "english": "the book", "arabic": "الكتاب 📚", "emoji": "📚", "category": "objects" },
+    { "id": "m7", "german": "die Sonne", "english": "the sun", "arabic": "الشمس ☀️", "emoji": "☀️", "category": "nature" },
+    { "id": "m8", "german": "der Mond", "english": "the moon", "arabic": "القمر 🌙", "emoji": "🌙", "category": "nature" },
+    { "id": "m9", "german": "das Haus", "english": "the house", "arabic": "البيت / المنزل 🏠", "emoji": "🏠", "category": "objects" },
+    { "id": "m10", "german": "das Wasser", "english": "the water", "arabic": "المية / الماء 💧", "emoji": "💧", "category": "food" },
+    { "id": "m11", "german": "die Blume", "english": "the flower", "arabic": "الوردة 🌸", "emoji": "🌸", "category": "nature" },
+    { "id": "m12", "german": "der Vogel", "english": "the bird", "arabic": "العصفور 🐦", "emoji": "🐦", "category": "animals" },
+    { "id": "m13", "german": "der Fisch", "english": "the fish", "arabic": "السمكة 🐟", "emoji": "🐟", "category": "animals" },
+    { "id": "m14", "german": "die Milch", "english": "the milk", "arabic": "اللبن / الحليب 🥛", "emoji": "🥛", "category": "food" },
+    { "id": "m15", "german": "der Baum", "english": "the tree", "arabic": "الشجرة 🌳", "emoji": "🌳", "category": "nature" },
+    { "id": "m16", "german": "das Flugzeug", "english": "the airplane", "arabic": "الطيارة ✈️", "emoji": "✈️", "category": "travel" },
+    { "id": "m17", "german": "der Zug", "english": "the train", "arabic": "القطر / القطار 🚆", "emoji": "🚆", "category": "travel" },
+    { "id": "m18", "german": "die Schule", "english": "the school", "arabic": "المدرسة 🏫", "emoji": "🏫", "category": "objects" },
+    { "id": "m19", "german": "die Familie", "english": "the family", "arabic": "العيلة / الأسرة 👨‍👩‍👧", "emoji": "👨‍👩‍👧", "category": "family" },
+    { "id": "m20", "german": "das Telefon", "english": "the phone", "arabic": "الموبايل / التليفون 📱", "emoji": "📱", "category": "objects" },
+    { "id": "m21", "german": "der Kaffee", "english": "the coffee", "arabic": "القهوة ☕", "emoji": "☕", "category": "food" },
+    { "id": "m22", "german": "der Stern", "english": "the star", "arabic": "النجمة ⭐", "emoji": "⭐", "category": "nature" },
+    { "id": "m23", "german": "das Kind", "english": "the child", "arabic": "الطفل 🧒", "emoji": "🧒", "category": "family" },
+    { "id": "m24", "german": "die Musik", "english": "the music", "arabic": "المزيكا / الموسيقى 🎵", "emoji": "🎵", "category": "objects" }
+  ],
+  "KIDS_FUN_ITEMS": [
+    { "id": "k1", "german": "der Löwe", "english": "the lion", "arabic": "الأسد 🦁", "emoji": "🦁", "sound": "Roar!", "funFact": "Der Löwe ist der König der Tiere!" },
+    { "id": "k2", "german": "der Elefant", "english": "the elephant", "arabic": "الفيل 🐘", "emoji": "🐘", "sound": "Pawoo!", "funFact": "Elefanten haben einen langen Rüssel!" },
+    { "id": "k3", "german": "der Affe", "english": "the monkey", "arabic": "القرد 🐒", "emoji": "🐒", "sound": "Ooh-aah!", "funFact": "Affen lieben leckere Bananen!" },
+    { "id": "k4", "german": "das Pferd", "english": "the horse", "arabic": "الحصان 🐴", "emoji": "🐴", "sound": "Neigh!", "funFact": "Pferde können sehr schnell rennen!" },
+    { "id": "k5", "german": "Rot", "english": "Red", "arabic": "أحمر 🔴", "emoji": "🔴", "sound": "Rot", "funFact": "Äpfel und Erdbeeren sind oft rot!" },
+    { "id": "k6", "german": "Blau", "english": "Blue", "arabic": "أزرق 🔵", "emoji": "🔵", "sound": "Blau", "funFact": "Der Himmel und das Meer sind blau!" },
+    { "id": "k7", "german": "Gelb", "english": "Yellow", "arabic": "أصفر 🟡", "emoji": "🟡", "sound": "Gelb", "funFact": "Die Sonne und Bananen sind gelb!" },
+    { "id": "k8", "german": "Grün", "english": "Green", "arabic": "أخضر 🟢", "emoji": "🟢", "sound": "Grün", "funFact": "Gras und Blätter sind grün!" },
+    { "id": "k9", "german": "die Familie", "english": "the family", "arabic": "العائلة 👨‍👩‍👧‍👦", "emoji": "👨‍👩‍👧‍👦", "sound": "Familie", "funFact": "Mama, Papa, Bruder und Schwester!" },
+    { "id": "k10", "german": "das Eis", "english": "the ice cream", "arabic": "الآيس كريم 🍦", "emoji": "🍦", "sound": "Mmmh!", "funFact": "Eis schmeckt im Sommer besonders gut!" },
+    { "id": "k11", "german": "der Bär", "english": "the bear", "arabic": "الدب 🐻", "emoji": "🐻", "sound": "Grrr!", "funFact": "Bären lieben süßen Honig!" },
+    { "id": "k12", "german": "der Frosch", "english": "the frog", "arabic": "الضفدع 🐸", "emoji": "🐸", "sound": "Ribbit!", "funFact": "Frösche können riesige Sprünge machen!" },
+    { "id": "k13", "german": "der Pinguin", "english": "the penguin", "arabic": "البطريق 🐧", "emoji": "🐧", "sound": "Waddle!", "funFact": "Pinguine leben im kalten Eis und schwimmen schnell!" },
+    { "id": "k14", "german": "die Ente", "english": "the duck", "arabic": "البطة 🦆", "emoji": "🦆", "sound": "Quack!", "funFact": "Enten schwimmen gerne im Parkteich!" },
+    { "id": "k15", "german": "das Schaf", "english": "the sheep", "arabic": "الخروف 🐑", "emoji": "🐑", "sound": "Baaa!", "funFact": "Schafe geben uns warme Wolle!" },
+    { "id": "k16", "german": "die Kuh", "english": "the cow", "arabic": "البقرة 🐮", "emoji": "🐮", "sound": "Moo!", "funFact": "Kühe geben uns frische Milch!" },
+    { "id": "k17", "german": "der Ball", "english": "the ball", "arabic": "الكورة ⚽", "emoji": "⚽", "sound": "Boing!", "funFact": "Fußball spielen macht riesigen Spaß!" },
+    { "id": "k18", "german": "das Geschenk", "english": "the gift", "arabic": "الهدية 🎁", "emoji": "🎁", "sound": "Surprise!", "funFact": "Geschenke zum Geburtstag machen glücklich!" }
+  ],
+  "ARTICLE_BATTLE_ITEMS": [
+    {
+      "id": "ab-1",
+      "word": "Tisch",
+      "correct": "der",
+      "emoji": "🪑",
+      "translation": { "en": "table", "ar": "ترابيزة / طاولة" },
+      "rule": {
+        "de": "Maskulin: Die meisten Möbelstücke und Gegenstände auf -el, -en, -er sind maskulin.",
+        "en": "Masculine: \"der Tisch\" is grammatically masculine.",
+        "ar": "مذكر: كلمة \"der Tisch\" مذكرة نحوياً في الألمانية."
+      }
+    },
+    {
+      "id": "ab-2",
+      "word": "Sonne",
+      "correct": "die",
+      "emoji": "☀️",
+      "translation": { "en": "sun", "ar": "شمس" },
+      "rule": {
+        "de": "Feminin: \"die Sonne\" ist feminin (oft Nomen auf -e).",
+        "en": "Feminine: \"die Sonne\". About 90% of German nouns ending in -e are feminine.",
+        "ar": "مؤنث: \"die Sonne\". نحو 90% من الأسماء المنتهية بـ -e مؤنثة."
+      }
+    },
+    {
+      "id": "ab-3",
+      "word": "Haus",
+      "correct": "das",
+      "emoji": "🏠",
+      "translation": { "en": "house", "ar": "بيت / منزل" },
+      "rule": {
+        "de": "Neutral: \"das Haus\" ist neutral.",
+        "en": "Neuter: \"das Haus\" is neuter.",
+        "ar": "محايد: \"das Haus\" اسم محايد في الألمانية."
+      }
+    },
+    {
+      "id": "ab-4",
+      "word": "Zeitung",
+      "correct": "die",
+      "emoji": "📰",
+      "translation": { "en": "newspaper", "ar": "جريدة / جورنال" },
+      "rule": {
+        "de": "Feminin: Alle Nomen mit der Endung \"-ung\" sind immer feminin (die).",
+        "en": "Feminine: 100% of nouns ending in \"-ung\" are feminine (die)!",
+        "ar": "مؤنث: جميع الأسماء المنتهية بـ \"-ung\" مؤنثة دائماً (die)!"
+      }
+    },
+    {
+      "id": "ab-5",
+      "word": "Mädchen",
+      "correct": "das",
+      "emoji": "👧",
+      "translation": { "en": "girl", "ar": "بنت / فتاة" },
+      "rule": {
+        "de": "Neutral: Alle Verkleinerungsformen auf \"-chen\" oder \"-lein\" sind neutral (das).",
+        "en": "Neuter: Diminutives ending in \"-chen\" or \"-lein\" are ALWAYS neuter (das)!",
+        "ar": "محايد: صيغ التصغير المنتهية بـ \"-chen\" أو \"-lein\" محايدة دائماً (das)!"
+      }
+    },
+    {
+      "id": "ab-6",
+      "word": "Kaffee",
+      "correct": "der",
+      "emoji": "☕",
+      "translation": { "en": "coffee", "ar": "قهوة" },
+      "rule": {
+        "de": "Maskulin: \"der Kaffee\" ist maskulin.",
+        "en": "Masculine: \"der Kaffee\" is masculine.",
+        "ar": "مذكر: \"der Kaffee\" مذكر نحوياً."
+      }
+    },
+    {
+      "id": "ab-7",
+      "word": "Wasser",
+      "correct": "das",
+      "emoji": "💧",
+      "translation": { "en": "water", "ar": "مية / ماء" },
+      "rule": {
+        "de": "Neutral: \"das Wasser\" ist neutral.",
+        "en": "Neuter: \"das Wasser\" is neuter.",
+        "ar": "محايد: \"das Wasser\" محايد نحوياً."
+      }
+    },
+    {
+      "id": "ab-8",
+      "word": "Freiheit",
+      "correct": "die",
+      "emoji": "🕊️",
+      "translation": { "en": "freedom", "ar": "حرية" },
+      "rule": {
+        "de": "Feminin: Alle Nomen auf \"-heit\" oder \"-keit\" sind immer feminin.",
+        "en": "Feminine: All nouns ending in \"-heit\" or \"-keit\" are always feminine.",
+        "ar": "مؤنث: كل الأسماء المنتهية بـ \"-heit\" أو \"-keit\" مؤنثة دائماً."
+      }
+    },
+    {
+      "id": "ab-9",
+      "word": "Apfel",
+      "correct": "der",
+      "emoji": "🍎",
+      "translation": { "en": "apple", "ar": "تفاحة" },
+      "rule": {
+        "de": "Maskulin: \"der Apfel\" ist maskulin.",
+        "en": "Masculine: Most fruit trees and specific fruits like \"der Apfel\" are masculine.",
+        "ar": "مذكر: تفاحة \"der Apfel\" اسم مذكر."
+      }
+    },
+    {
+      "id": "ab-10",
+      "word": "Auto",
+      "correct": "das",
+      "emoji": "🚗",
+      "translation": { "en": "car", "ar": "عربية / سيارة" },
+      "rule": {
+        "de": "Neutral: \"das Auto\" (aus dem Englischen / Internationalismus).",
+        "en": "Neuter: \"das Auto\" is neuter.",
+        "ar": "محايد: \"das Auto\" اسم محايد."
+      }
+    },
+    {
+      "id": "ab-11",
+      "word": "Katze",
+      "correct": "die",
+      "emoji": "🐱",
+      "translation": { "en": "cat", "ar": "قطة" },
+      "rule": {
+        "de": "Feminin: Endung auf -e → meist feminin.",
+        "en": "Feminine: Noun ends in -e, almost always feminine.",
+        "ar": "مؤنث: ينتهي بـ -e ومعظمها مؤنث."
+      }
+    },
+    {
+      "id": "ab-12",
+      "word": "Buch",
+      "correct": "das",
+      "emoji": "📖",
+      "translation": { "en": "book", "ar": "كتاب" },
+      "rule": {
+        "de": "Neutral: \"das Buch\" ist neutral.",
+        "en": "Neuter: \"das Buch\" is neuter.",
+        "ar": "محايد: \"das Buch\" محايد."
+      }
+    },
+    {
+      "id": "ab-13",
+      "word": "Computer",
+      "correct": "der",
+      "emoji": "💻",
+      "translation": { "en": "computer", "ar": "كمبيوتر / حاسوب" },
+      "rule": {
+        "de": "Maskulin: Nomen auf \"-er\" für Geräte und Personen sind meist maskulin.",
+        "en": "Masculine: Nouns ending in \"-er\" for agents/devices are usually masculine.",
+        "ar": "مذكر: الأسماء المنتهية بـ \"-er\" للأجهزة والفاعلين غالباً مذكرة."
+      }
+    },
+    {
+      "id": "ab-14",
+      "word": "Musik",
+      "correct": "die",
+      "emoji": "🎶",
+      "translation": { "en": "music", "ar": "موسيقى" },
+      "rule": {
+        "de": "Feminin: Nomen mit Fremdwort-Endung \"-ik\" sind immer feminin (die Musik, die Politik).",
+        "en": "Feminine: Loan words ending in \"-ik\" are always feminine.",
+        "ar": "مؤنث: الأسماء المنتهية بـ \"-ik\" مؤنثة دائماً مثل die Musik و die Politik."
+      }
+    },
+    {
+      "id": "ab-15",
+      "word": "Kind",
+      "correct": "das",
+      "emoji": "🧒",
+      "translation": { "en": "child", "ar": "طفل / عيل" },
+      "rule": {
+        "de": "Neutral: \"das Kind\" ist neutral.",
+        "en": "Neuter: \"das Kind\" is neuter in German.",
+        "ar": "محايد: \"das Kind\" محايد نحوياً."
+      }
+    },
+    {
+      "id": "ab-16",
+      "word": "Bäckerei",
+      "correct": "die",
+      "emoji": "🥐",
+      "translation": { "en": "bakery", "ar": "مخبز / فرن" },
+      "rule": {
+        "de": "Feminin: Endungen auf \"-ei\" für Geschäfte und Tätigkeiten sind immer feminin.",
+        "en": "Feminine: Endings with \"-ei\" for shops/trades are always feminine (die Bäckerei, die Druckerei).",
+        "ar": "مؤنث: الأسماء المنتهية بـ \"-ei\" للمحلات والحرف مؤنثة دائماً."
+      }
+    },
+    {
+      "id": "ab-17",
+      "word": "Kugelschreiber",
+      "correct": "der",
+      "emoji": "🖊️",
+      "translation": { "en": "ballpoint pen", "ar": "قلم جاف" },
+      "rule": {
+        "de": "Maskulin: Bestimmt durch das Grundwort \"der Schreiber\" (auf -er).",
+        "en": "Masculine: Compound noun takes the gender of the final word \"der Schreiber\".",
+        "ar": "مذكر: الاسم المركب يأخذ أداة الكلمة الأخيرة \"der Schreiber\"."
+      }
+    },
+    {
+      "id": "ab-18",
+      "word": "Universität",
+      "correct": "die",
+      "emoji": "🏛️",
+      "translation": { "en": "university", "ar": "جامعة" },
+      "rule": {
+        "de": "Feminin: Endung \"-tät\" ist zu 100% feminin (die Realität, die Qualität).",
+        "en": "Feminine: Endings on \"-tät\" are 100% feminine.",
+        "ar": "مؤنث: جميع الأسماء المنتهية بـ \"-tät\" مؤنثة دائماً."
+      }
+    },
+    {
+      "id": "ab-19",
+      "word": "Museum",
+      "correct": "das",
+      "emoji": "🏛️",
+      "translation": { "en": "museum", "ar": "متحف" },
+      "rule": {
+        "de": "Neutral: Lateinische Fremdwörter auf \"-um\" sind immer neutral (das Museum, das Zentrum).",
+        "en": "Neuter: Latin-origin nouns ending in \"-um\" are always neuter.",
+        "ar": "محايد: الكلمات اللاتينية المنتهية بـ \"-um\" محايدة دائماً."
+      }
+    },
+    {
+      "id": "ab-20",
+      "word": "Lehrer",
+      "correct": "der",
+      "emoji": "👨‍🏫",
+      "translation": { "en": "male teacher", "ar": "مدرس / معلم" },
+      "rule": {
+        "de": "Maskulin: Männliche Berufsbezeichnungen auf \"-er\" sind maskulin.",
+        "en": "Masculine: Male professions ending in \"-er\" are masculine.",
+        "ar": "مذكر: المهن الذكورية المنتهية بـ \"-er\" مذكرة دائماً."
+      }
+    }
+  ],
+  "CASE_DETECTIVE_ITEMS": [
+    {
+      "id": "cd-1",
+      "sentence": "Der Mann sieht den Hund.",
+      "highlight": "den Hund",
+      "translation": { "en": "The man sees the dog.", "ar": "الراجل شايف الكلب 🐶." },
+      "question": {
+        "de": "In welchem Fall steht \"den Hund\"?",
+        "en": "What case is \"den Hund\" in, and why?",
+        "ar": "ما هي حالة إعراب \"den Hund\" ولماذا؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 1,
+      "explanation": {
+        "de": "\"den Hund\" ist das direkte Objekt des Verbs \"sehen\". Maskuline Nomen ändern im Akkusativ: der → den.",
+        "en": "\"den Hund\" is the direct object receiving the action of \"sehen\" (to see). Masculine articles change: der → den.",
+        "ar": "\"den Hund\" هو المفعول به المباشر للفعل \"sehen\" (يرى). مقالة المذكر تتغير في حالة النصب من der إلى den."
+      }
+    },
+    {
+      "id": "cd-2",
+      "sentence": "Ich gebe dem Mann das Buch.",
+      "highlight": "dem Mann",
+      "translation": { "en": "I give the man the book.", "ar": "أنا بدي الراجل الكتاب 📖." },
+      "question": {
+        "de": "In welchem Fall steht \"dem Mann\"?",
+        "en": "What case is \"dem Mann\" in?",
+        "ar": "ما هي حالة إعراب \"dem Mann\"؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 2,
+      "explanation": {
+        "de": "\"dem Mann\" ist das indirekte Objekt (der Empfänger) → Dativ (der → dem).",
+        "en": "\"dem Mann\" is the indirect object (the receiver) → Dative case (der becomes dem).",
+        "ar": "\"dem Mann\" هو المفعول به غير المباشر (المستلم) → حالة الجر Dativ (der تصبح dem)."
+      }
+    },
+    {
+      "id": "cd-3",
+      "sentence": "Das Auto des Vaters ist neu.",
+      "highlight": "des Vaters",
+      "translation": { "en": "The father's car is new.", "ar": "عربية الوالد جديدة 🚗." },
+      "question": {
+        "de": "In welchem Fall steht \"des Vaters\"?",
+        "en": "What case is \"des Vaters\" in?",
+        "ar": "ما هي حالة إعراب \"des Vaters\"؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 3,
+      "explanation": {
+        "de": "\"des Vaters\" zeigt Besitz an → Genitiv (der → des + -s am Nomen).",
+        "en": "\"des Vaters\" shows possession (of the father) → Genitive case.",
+        "ar": "\"des Vaters\" تدل على الملكية والإضافة → حالة الإضافة Genitiv (تصبح des ويضاف s للاسم)."
+      }
+    },
+    {
+      "id": "cd-4",
+      "sentence": "Die Frau liest einen Roman.",
+      "highlight": "Die Frau",
+      "translation": { "en": "The woman is reading a novel.", "ar": "الست بتقرأ رواية 📚." },
+      "question": {
+        "de": "In welchem Fall steht \"Die Frau\"?",
+        "en": "What case is \"Die Frau\" in?",
+        "ar": "ما هي حالة إعراب \"Die Frau\"؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 0,
+      "explanation": {
+        "de": "\"Die Frau\" ist das Subjekt, das die Handlung ausführt → Nominativ.",
+        "en": "\"Die Frau\" is the subject performing the action → Nominative case.",
+        "ar": "\"Die Frau\" هي الفاعل الذي يقوم بالفعل → حالة الرفع Nominativ."
+      }
+    },
+    {
+      "id": "cd-5",
+      "sentence": "Wir helfen der Mutter in der Küche.",
+      "highlight": "der Mutter",
+      "translation": { "en": "We help the mother in the kitchen.", "ar": "إحنا بنساعد ماما في المطبخ 👩‍🍳." },
+      "question": {
+        "de": "In welchem Fall steht \"der Mutter\"?",
+        "en": "What case is \"der Mutter\" following \"helfen\"?",
+        "ar": "ما هي حالة إعراب \"der Mutter\" بعد الفعل helfen؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 2,
+      "explanation": {
+        "de": "Das Verb \"helfen\" verlangt zwingend den Dativ! Feminin: die → der.",
+        "en": "The verb \"helfen\" (to help) always triggers the Dative! Feminine article becomes \"der\".",
+        "ar": "الفعل \"helfen\" (يساعد) يجر دائماً المفعول به Dativ! أداة المؤنث تتحول من die إلى der."
+      }
+    },
+    {
+      "id": "cd-6",
+      "sentence": "Ich kaufe einen neuen Tisch.",
+      "highlight": "einen neuen Tisch",
+      "translation": { "en": "I buy a new table.", "ar": "أنا هشتري ترابيزة جديدة 🪑." },
+      "question": {
+        "de": "In welchem Fall steht \"einen neuen Tisch\"?",
+        "en": "What case is \"einen neuen Tisch\" in?",
+        "ar": "ما هي حالة إعراب \"einen neuen Tisch\"؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 1,
+      "explanation": {
+        "de": "\"kaufen\" verlangt den Akkusativ für das gekaufte Objekt. Ein → einen.",
+        "en": "\"kaufen\" triggers Akkusativ for the item bought. \"ein\" becomes \"einen\".",
+        "ar": "الفعل \"kaufen\" (يشتري) ينصب المفعول به Akkusativ. أداة النكرة للمذكر تصبح einen."
+      }
+    },
+    {
+      "id": "cd-7",
+      "sentence": "Das ist das Haus meiner Großeltern.",
+      "highlight": "meiner Großeltern",
+      "translation": { "en": "That is the house of my grandparents.", "ar": "ده بيت جدي وجدتي 🏡." },
+      "question": {
+        "de": "In welchem Fall steht \"meiner Großeltern\"?",
+        "en": "What case is \"meiner Großeltern\"?",
+        "ar": "ما هي حالة إعراب \"meiner Großeltern\"؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 3,
+      "explanation": {
+        "de": "Plural Genitiv: \"meine\" wird zu \"meiner\" (Besitzanzeige).",
+        "en": "Plural Genitive: \"meine\" becomes \"meiner\" to express belonging.",
+        "ar": "حالة الإضافة للجمع Genitiv: تتحول أداة الملكية meine إلى meiner."
+      }
+    },
+    {
+      "id": "cd-8",
+      "sentence": "Der Kaffee schmeckt mir gut.",
+      "highlight": "Der Kaffee",
+      "translation": { "en": "The coffee tastes good to me.", "ar": "القهوة طعمها عاجبني ☕." },
+      "question": {
+        "de": "In welchem Fall steht \"Der Kaffee\"?",
+        "en": "What case is \"Der Kaffee\" in this sentence?",
+        "ar": "ما هي حالة إعراب \"Der Kaffee\" في هذه الجملة؟"
+      },
+      "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "correctIndex": 0,
+      "explanation": {
+        "de": "\"Der Kaffee\" ist das grammatische Subjekt des Satzes → Nominativ.",
+        "en": "\"Der Kaffee\" is the grammatical subject performing the action of \"schmecken\" → Nominative.",
+        "ar": "\"Der Kaffee\" هو الفاعل النحوي للجملة → حالة الرفع Nominativ."
+      }
+    }
+  ],
+  "SENTENCE_BUILDER_ITEMS": [
+    {
+      "id": "sb-1",
+      "instruction": {
+        "de": "Baue den Satz: Verb muss an Position 2!",
+        "en": "Build the sentence: Verb must stay in position 2!",
+        "ar": "كوّن الجملة: الفعل لازم يكون في المكان التاني V2!"
+      },
+      "chips": ["Heute", "gehe", "ich", "ins", "Kino."],
+      "targetSentence": "Heute gehe ich ins Kino.",
+      "translation": {
+        "en": "Today I am going to the cinema.",
+        "ar": "النهارده أنا رايح السينما 🎬."
+      },
+      "ruleNote": {
+        "en": "In German main clauses, the conjugated verb ALWAYS sits in position 2 (V2 rule)!",
+        "ar": "في الجملة الرئيسية الألمانية، الفعل المتصرف يأتي دائماً في المقعد الثاني (قاعدة V2)!"
+      }
+    },
+    {
+      "id": "sb-2",
+      "instruction": {
+        "de": "Trennbare Verben: Präfix ans Satzende!",
+        "en": "Separable verbs: Prefix goes to the very end!",
+        "ar": "الأفعال المنفصلة: البادئة تذهب لآخر الجملة!"
+      },
+      "chips": ["Er", "steht", "jeden", "Morgen", "um", "7 Uhr", "auf."],
+      "targetSentence": "Er steht jeden Morgen um 7 Uhr auf.",
+      "translation": {
+        "en": "He gets up at 7 AM every morning.",
+        "ar": "هو بيصحى كل يوم الصبح الساعة سبعة ⏰."
+      },
+      "ruleNote": {
+        "en": "\"aufstehen\" separates: \"steht\" in position 2, and \"auf\" flies to the final spot.",
+        "ar": "الفعل المنفصل \"aufstehen\": \"steht\" في المقعد الثاني، والبادئة \"auf\" في نهاية الجملة."
+      }
+    },
+    {
+      "id": "sb-3",
+      "instruction": {
+        "de": "Modalverben: Infinitiv ans Satzende!",
+        "en": "Modal verbs: Infinitive verb waits at the end!",
+        "ar": "الأفعال الناقصة: الفعل المصدر ينتظر في آخر الجملة!"
+      },
+      "chips": ["Wir", "können", "sehr", "gut", "Deutsch", "sprechen."],
+      "targetSentence": "Wir können sehr gut Deutsch sprechen.",
+      "translation": {
+        "en": "We can speak German very well.",
+        "ar": "إحنا نقدر نتكلم ألماني كويس جداً 🇩🇪."
+      },
+      "ruleNote": {
+        "en": "Modal \"können\" is conjugated in position 2, and \"sprechen\" waits at the very end in infinitive.",
+        "ar": "الفعل المساعد \"können\" يتصرف في المقعد الثاني، والمصدر \"sprechen\" في نهاية الجملة."
+      }
+    },
+    {
+      "id": "sb-4",
+      "instruction": {
+        "de": "Nebensatz mit \"weil\": Verb ans Satzende!",
+        "en": "Subordinate clause with \"weil\": Verb to the end!",
+        "ar": "الجملة الفرعية بـ \"weil\": الفعل يذهب إلى نهاية الجملة!"
+      },
+      "chips": ["Ich", "lerne,", "weil", "es", "Spaß", "macht."],
+      "targetSentence": "Ich lerne, weil es Spaß macht.",
+      "translation": {
+        "en": "I study because it is fun.",
+        "ar": "أنا بتعلم عشان ده ممتع وجميل 🌟."
+      },
+      "ruleNote": {
+        "en": "\"weil\" sends the conjugated verb \"macht\" to the very end of the clause.",
+        "ar": "\"weil\" ترسل الفعل المتصرف \"macht\" إلى نهاية الجملة الفرعية تماماً."
+      }
+    },
+    {
+      "id": "sb-5",
+      "instruction": {
+        "de": "W-Frage: Fragewort auf Position 1, Verb auf Position 2!",
+        "en": "W-Question: Question word first, verb second!",
+        "ar": "سؤال بأداة الاستفهام: الأداة أولاً والفعل ثانياً!"
+      },
+      "chips": ["Woher", "kommst", "du", "eigentlich?"],
+      "targetSentence": "Woher kommst du eigentlich?",
+      "translation": {
+        "en": "Where do you actually come from?",
+        "ar": "أنت منين في الأصل؟ 🌍"
+      },
+      "ruleNote": {
+        "en": "In W-questions, \"Woher\" is in position 1 and the conjugated verb \"kommst\" is in position 2.",
+        "ar": "في أسئلة W-Frage، أداة الاستفهام في المقعد الأول والفعل في المقعد الثاني."
+      }
+    },
+    {
+      "id": "sb-6",
+      "instruction": {
+        "de": "Ja/Nein-Frage: Verb steht auf Position 1!",
+        "en": "Yes/No Question: Verb starts at Position 1!",
+        "ar": "سؤال هل (نعم/لا): الفعل يبدأ في المقعد الأول!"
+      },
+      "chips": ["Hast", "du", "heute", "Zeit", "für", "mich?"],
+      "targetSentence": "Hast du heute Zeit für mich?",
+      "translation": {
+        "en": "Do you have time for me today?",
+        "ar": "هل عندك وقت ليا النهارده؟ ☕"
+      },
+      "ruleNote": {
+        "en": "In German Yes/No questions, the verb \"Hast\" leads the sentence in position 1.",
+        "ar": "في أسئلة نعم/لا الألمانية، الفعل \"Hast\" يأتي أول كلمة في الجملة."
+      }
+    },
+    {
+      "id": "sb-7",
+      "instruction": {
+        "de": "Nebensatz mit \"dass\": Verb wandert ans Ende!",
+        "en": "Subordinate clause with \"dass\": Verb goes to the end!",
+        "ar": "الجملة الفرعية بـ \"dass\": الفعل يذهب إلى النهاية!"
+      },
+      "chips": ["Ich", "weiß,", "dass", "du", "fleißig", "bist."],
+      "targetSentence": "Ich weiß, dass du fleißig bist.",
+      "translation": {
+        "en": "I know that you are hardworking.",
+        "ar": "أنا عارف إنك شاطر ومجتهد 👏."
+      },
+      "ruleNote": {
+        "en": "\"dass\" (that) pushes the auxiliary/verb \"bist\" to the final position.",
+        "ar": "الرابط \"dass\" (أن) ينقل الفعل المتصرف \"bist\" إلى نهاية الجملة."
+      }
+    },
+    {
+      "id": "sb-8",
+      "instruction": {
+        "de": "Perfekt-Satz: Hilfsverb auf 2, Partizip II am Ende!",
+        "en": "Past Perfect: Auxiliary verb at 2, Participle II at the end!",
+        "ar": "الماضي التام Perfekt: الفعل المساعد في 2 والتصريف الثالث في النهاية!"
+      },
+      "chips": ["Gestern", "habe", "ich", "einen", "Film", "gesehen."],
+      "targetSentence": "Gestern habe ich einen Film gesehen.",
+      "translation": {
+        "en": "Yesterday I watched a movie.",
+        "ar": "إمبارح أنا اتفرجت على فيلم 🍿."
+      },
+      "ruleNote": {
+        "en": "The auxiliary \"habe\" is at position 2, and the Partizip II \"gesehen\" anchors the end.",
+        "ar": "الفعل المساعد \"habe\" في المقعد الثاني، والتصريف الثالث \"gesehen\" في نهاية الجملة."
+      }
+    }
+  ],
+  "VERB_RACE_ITEMS": [
+    {
+      "id": "vr-1",
+      "verbInfinitive": "gehen (to go)",
+      "pronoun": "du",
+      "options": ["gehst", "geht", "gehe", "gehen"],
+      "correct": "gehst",
+      "translation": { "en": "you go", "ar": "أنت تذهب / رايح" }
+    },
+    {
+      "id": "vr-2",
+      "verbInfinitive": "sein (to be)",
+      "pronoun": "wir",
+      "options": ["sind", "seid", "ist", "bin"],
+      "correct": "sind",
+      "translation": { "en": "we are", "ar": "نحن نكون / إحنا" }
+    },
+    {
+      "id": "vr-3",
+      "verbInfinitive": "haben (to have)",
+      "pronoun": "er / sie",
+      "options": ["hat", "hast", "habt", "haben"],
+      "correct": "hat",
+      "translation": { "en": "he / she has", "ar": "هو / هي عنده أو بيملك" }
+    },
+    {
+      "id": "vr-4",
+      "verbInfinitive": "sprechen (to speak)",
+      "pronoun": "du",
+      "options": ["sprichst", "sprecht", "spreche", "spricht"],
+      "correct": "sprichst",
+      "translation": { "en": "you speak (vowel change e→i)", "ar": "أنت تتحدث (تغير الحرف الصوتي e→i)" }
+    },
+    {
+      "id": "vr-5",
+      "verbInfinitive": "fahren (to drive/travel)",
+      "pronoun": "er",
+      "options": ["fährt", "fahrt", "fahre", "fährst"],
+      "correct": "fährt",
+      "translation": { "en": "he drives (umlaut a→ä)", "ar": "هو يسافر / يسوق (أوملاوت a→ä)" }
+    },
+    {
+      "id": "vr-6",
+      "verbInfinitive": "lesen (to read)",
+      "pronoun": "du",
+      "options": ["liest", "lest", "lese", "lesen"],
+      "correct": "liest",
+      "translation": { "en": "you read (e→ie)", "ar": "أنت تقرأ (تغير e→ie)" }
+    },
+    {
+      "id": "vr-7",
+      "verbInfinitive": "helfen (to help)",
+      "pronoun": "er",
+      "options": ["hilft", "helft", "helfe", "hilfst"],
+      "correct": "hilft",
+      "translation": { "en": "he helps (e→i)", "ar": "هو يساعد (e→i)" }
+    },
+    {
+      "id": "vr-8",
+      "verbInfinitive": "essen (to eat)",
+      "pronoun": "du",
+      "options": ["isst", "esst", "esse", "essen"],
+      "correct": "isst",
+      "translation": { "en": "you eat (e→i)", "ar": "أنت تأكل / بتاكل" }
+    },
+    {
+      "id": "vr-9",
+      "verbInfinitive": "schlafen (to sleep)",
+      "pronoun": "du",
+      "options": ["schläfst", "schlaft", "schlafe", "schläft"],
+      "correct": "schläfst",
+      "translation": { "en": "you sleep (a→ä)", "ar": "أنت تنام / نايم" }
+    },
+    {
+      "id": "vr-10",
+      "verbInfinitive": "können (can / to be able)",
+      "pronoun": "ich",
+      "options": ["kann", "kannst", "könne", "könnt"],
+      "correct": "kann",
+      "translation": { "en": "I can", "ar": "أنا أستطيع / أقدر" }
+    },
+    {
+      "id": "vr-11",
+      "verbInfinitive": "wollen (to want)",
+      "pronoun": "wir",
+      "options": ["wollen", "will", "wollt", "willst"],
+      "correct": "wollen",
+      "translation": { "en": "we want", "ar": "نحن نريد / عاوزين" }
+    },
+    {
+      "id": "vr-12",
+      "verbInfinitive": "müssen (must / to have to)",
+      "pronoun": "er",
+      "options": ["muss", "musst", "müsst", "müssen"],
+      "correct": "muss",
+      "translation": { "en": "he must", "ar": "هو يجب عليه / لازم" }
+    }
+  ],
+  "GRAMMAR_BOSS_ENCOUNTERS": [
+    {
+      "id": "boss-1",
+      "bossName": "Grammar Golem",
+      "avatar": "👹",
+      "hp": 100,
+      "rounds": [
+        {
+          "round": 1,
+          "damage": 35,
+          "bossMistake": "Ich habe ein Hund gekauft.",
+          "correctionOptions": [
+            "Ich habe einen Hund gekauft.",
+            "Ich habe einem Hund gekauft.",
+            "Ich habe der Hund gekauft."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "\"der Hund\" is masculine and direct object of \"gekauft\" → Akkusativ \"einen Hund\".",
+            "ar": "\"der Hund\" مذكر ومفعول به مباشر للفعل اشترى → حالة النصب Akkusativ \"einen Hund\"."
+          }
+        },
+        {
+          "round": 2,
+          "damage": 35,
+          "bossMistake": "Gestern ich ging in die Schule.",
+          "correctionOptions": [
+            "Gestern ging ich in die Schule.",
+            "Gestern ich gehen in die Schule.",
+            "Gestern gehe ich in die Schule."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "German V2 rule: Verb must be in position 2, so \"ging\" comes right after \"Gestern\".",
+            "ar": "قاعدة المقعد الثاني V2: الفعل \"ging\" يجب أن يأتي مباشرة بعد كلمة \"Gestern\"."
+          }
+        },
+        {
+          "round": 3,
+          "damage": 30,
+          "bossMistake": "Ich helfe der Mann.",
+          "correctionOptions": [
+            "Ich helfe dem Mann.",
+            "Ich helfe den Mann.",
+            "Ich helfe des Mannes."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "\"helfen\" requires the Dative case: der Mann → dem Mann.",
+            "ar": "الفعل \"helfen\" يتطلب دائماً حالة الجر Dativ: فتتحول der Mann إلى dem Mann."
+          }
+        }
+      ]
+    }
+  ],
+  "AUDIO_DETECTIVE_ITEMS": [
+    {
+      "id": "aud-1",
+      "speaker": "Lukas (Berlin)",
+      "audioTranscript": "Guten Tag! Ich hätte gerne einen Kaffee und ein Croissant, bitte.",
+      "question": {
+        "en": "What did Lukas order at the café?",
+        "ar": "ماذا طلب لوكاس في المقهى؟ ☕"
+      },
+      "options": [
+        "A coffee and a croissant",
+        "A tea and a sandwich",
+        "An orange juice and an apple",
+        "Just a glass of water"
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Lukas said: \"einen Kaffee und ein Croissant\" (a coffee and a croissant).",
+        "ar": "قال لوكاس: \"einen Kaffee und ein Croissant\" (قهوة وكرواسون)."
+      }
+    },
+    {
+      "id": "aud-2",
+      "speaker": "Frau Weber (Munich)",
+      "audioTranscript": "Entschuldigung, wie komme ich zum Hauptbahnhof?",
+      "question": {
+        "en": "What is Frau Weber asking for?",
+        "ar": "عن ماذا تسأل السيدة فيبر؟ 🚆"
+      },
+      "options": [
+        "Directions to the central station",
+        "The price of a train ticket",
+        "What time the museum opens",
+        "Where the nearest pharmacy is"
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "\"wie komme ich zum Hauptbahnhof\" means \"how do I get to the central train station?\".",
+        "ar": "\"wie komme ich zum Hauptbahnhof\" تعني كيف أصل إلى محطة القطار المركزية؟"
+      }
+    },
+    {
+      "id": "aud-3",
+      "speaker": "Sarah (Hamburg)",
+      "audioTranscript": "Heute ist das Wetter herrlich! Die Sonne scheint und es ist warm.",
+      "question": {
+        "en": "How is the weather today according to Sarah?",
+        "ar": "كيف يصف سارة الطقس اليوم؟ ☀️"
+      },
+      "options": [
+        "Sunny and warm",
+        "Rainy and cold",
+        "Snowy and windy",
+        "Cloudy with thunderstorms"
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "\"Die Sonne scheint und es ist warm\" means the sun is shining and it is warm.",
+        "ar": "\"Die Sonne scheint und es ist warm\" تعني الشمس مشرقة والجو دافئ."
+      }
+    },
+    {
+      "id": "aud-4",
+      "speaker": "Maximilian (Frankfurt)",
+      "audioTranscript": "Ich lerne seit drei Monaten Deutsch, weil ich in Deutschland studieren möchte.",
+      "question": {
+        "en": "Why is Maximilian learning German?",
+        "ar": "لماذا يتعلم ماكسيميليان اللغة الألمانية؟ 🎓"
+      },
+      "options": [
+        "He wants to study in Germany",
+        "He is going on vacation",
+        "His parents live in Austria",
+        "He works for an airline"
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "\"weil ich in Deutschland studieren möchte\" = because I want to study in Germany.",
+        "ar": "\"weil ich in Deutschland studieren möchte\" = لأنه يريد الدراسة في ألمانيا."
+      }
+    }
+  ]
+}

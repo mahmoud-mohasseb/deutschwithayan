@@ -1,0 +1,510 @@
+[
+  {
+    "id": "zuhause",
+    "name": {
+      "de": "Zuhause",
+      "en": "Home",
+      "ar": "المنزل"
+    },
+    "level": "A1",
+    "icon": "🏠",
+    "color": "#3B82F6",
+    "x": 18,
+    "y": 82,
+    "unlocked": true,
+    "completedQuests": 3,
+    "totalQuests": 3,
+    "description": {
+      "de": "Lerne Familie, Möbel und Begrüßungen.",
+      "en": "Learn family members, furniture, and daily greetings.",
+      "ar": "تعلم أفراد العائلة، الأثاث، والتحيات اليومية."
+    },
+    "quests": [
+      {
+        "id": "q-home-1",
+        "title": "Begrüßung & Familie",
+        "type": "vocab",
+        "xp": 30,
+        "completed": true
+      },
+      {
+        "id": "q-home-2",
+        "title": "Mein Zimmer (Möbel)",
+        "type": "object_hunt",
+        "xp": 40,
+        "completed": true
+      },
+      {
+        "id": "q-home-3",
+        "title": "sein + haben Challenge",
+        "type": "grammar",
+        "xp": 50,
+        "completed": true
+      }
+    ]
+  },
+  {
+    "id": "schule",
+    "name": {
+      "de": "Schule",
+      "en": "School",
+      "ar": "المدرسة"
+    },
+    "level": "A1",
+    "icon": "🏫",
+    "color": "#10B981",
+    "x": 48,
+    "y": 78,
+    "unlocked": true,
+    "completedQuests": 2,
+    "totalQuests": 3,
+    "description": {
+      "de": "Zahlen, Farben, Wochentage und Schulsachen.",
+      "en": "Numbers, colors, weekdays, and school stationery.",
+      "ar": "الأرقام، الألوان، أيام الأسبوع، والأدوات المدرسية."
+    },
+    "quests": [
+      {
+        "id": "q-sch-1",
+        "title": "Zahlen 1-100 & Farben",
+        "type": "vocab",
+        "xp": 35,
+        "completed": true
+      },
+      {
+        "id": "q-sch-2",
+        "title": "Im Klassenzimmer",
+        "type": "listen",
+        "xp": 40,
+        "completed": true
+      },
+      {
+        "id": "q-sch-3",
+        "title": "Grammatik: W-Fragen",
+        "type": "grammar",
+        "xp": 45,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "supermarkt",
+    "name": {
+      "de": "Supermarkt",
+      "en": "Supermarket",
+      "ar": "السوبرماركت"
+    },
+    "level": "A1",
+    "icon": "🛒",
+    "color": "#F59E0B",
+    "x": 78,
+    "y": 74,
+    "unlocked": true,
+    "completedQuests": 1,
+    "totalQuests": 3,
+    "description": {
+      "de": "Lebensmittel einkaufen und Preise verstehen.",
+      "en": "Groceries, food vocabulary, and prices.",
+      "ar": "شراء البقالة، مفردات الأطعمة، والأسعار."
+    },
+    "quests": [
+      {
+        "id": "q-sup-1",
+        "title": "Obst & Gemüse",
+        "type": "vocab",
+        "xp": 35,
+        "completed": true
+      },
+      {
+        "id": "q-sup-2",
+        "title": "Wie viel kostet das?",
+        "type": "speak",
+        "xp": 40,
+        "completed": false
+      },
+      {
+        "id": "q-sup-3",
+        "title": "der/die/das beim Einkauf",
+        "type": "article_battle",
+        "xp": 50,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "restaurant",
+    "name": {
+      "de": "Restaurant",
+      "en": "Restaurant",
+      "ar": "المطعم"
+    },
+    "level": "A1",
+    "icon": "🍔",
+    "color": "#EC4899",
+    "x": 32,
+    "y": 60,
+    "unlocked": true,
+    "completedQuests": 0,
+    "totalQuests": 4,
+    "isFeatured": true,
+    "description": {
+      "de": "Essen bestellen, bezahlen und Akkusativ meistern!",
+      "en": "Order food, pay the bill, and master Akkusativ!",
+      "ar": "طلب الوجبات، دفع الفاتورة، وإتقان حالة النصب Akkusativ!"
+    },
+    "quests": [
+      {
+        "id": "q-res-1",
+        "title": "Speisekarte & Vokabeln",
+        "type": "vocab",
+        "xp": 30,
+        "completed": false
+      },
+      {
+        "id": "q-res-2",
+        "title": "3D Restaurant Object Hunt",
+        "type": "3d_hunt",
+        "xp": 45,
+        "completed": false
+      },
+      {
+        "id": "q-res-3",
+        "title": "Grammatik: Ich möchte + Akkusativ",
+        "type": "grammar",
+        "xp": 50,
+        "completed": false
+      },
+      {
+        "id": "q-res-4",
+        "title": "🎮 Waiter NPC Boss Challenge",
+        "type": "boss",
+        "xp": 60,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "bahnhof",
+    "name": {
+      "de": "Bahnhof",
+      "en": "Train Station",
+      "ar": "محطة القطار"
+    },
+    "level": "A2",
+    "icon": "🚉",
+    "color": "#8B5CF6",
+    "x": 65,
+    "y": 52,
+    "unlocked": true,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Uhrzeiten, Fahrkarten, Durchsagen und Dativ.",
+      "en": "Telling time, buying tickets, announcements, and Dativ.",
+      "ar": "أوقات السفر، تذاكر القطار، الإعلانات الصوتية، وحالة الجر Dativ."
+    },
+    "quests": [
+      {
+        "id": "q-bahn-1",
+        "title": "Fahrkarten & Gleise",
+        "type": "listen",
+        "xp": 45,
+        "completed": false
+      },
+      {
+        "id": "q-bahn-2",
+        "title": "Wechselpräpositionen",
+        "type": "grammar",
+        "xp": 55,
+        "completed": false
+      },
+      {
+        "id": "q-bahn-3",
+        "title": "Reise-Mission: Nach Berlin",
+        "type": "quest",
+        "xp": 60,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "krankenhaus",
+    "name": {
+      "de": "Krankenhaus",
+      "en": "Hospital & Health",
+      "ar": "المستشفى والصحة"
+    },
+    "level": "A2",
+    "icon": "🏥",
+    "color": "#EF4444",
+    "x": 20,
+    "y": 44,
+    "unlocked": false,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Körperteile, Schmerzen beschreiben, beim Arzt.",
+      "en": "Body parts, describing symptoms, at the clinic.",
+      "ar": "أعضاء الجسم، وصف الأعراض، والحديث مع الطبيب."
+    },
+    "quests": [
+      {
+        "id": "q-kh-1",
+        "title": "Körperteile & Beschwerden",
+        "type": "vocab",
+        "xp": 40,
+        "completed": false
+      },
+      {
+        "id": "q-kh-2",
+        "title": "Beim Arzt (Dialog)",
+        "type": "conversation",
+        "xp": 50,
+        "completed": false
+      },
+      {
+        "id": "q-kh-3",
+        "title": "Modalverben: müssen & sollen",
+        "type": "grammar",
+        "xp": 55,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "buero",
+    "name": {
+      "de": "Büro",
+      "en": "Workplace & Office",
+      "ar": "المكتب والعمل"
+    },
+    "level": "B1",
+    "icon": "🏢",
+    "color": "#0EA5E9",
+    "x": 75,
+    "y": 38,
+    "unlocked": false,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Berufsdeutsch, E-Mails schreiben, Kollegen anrufen.",
+      "en": "Business German, formal emails, calling colleagues.",
+      "ar": "ألمانية العمل، كتابة الرسائل الرسمية، والمكالمات المهنية."
+    },
+    "quests": [
+      {
+        "id": "q-buer-1",
+        "title": "Geschäfts-E-Mails verfassen",
+        "type": "write",
+        "xp": 60,
+        "completed": false
+      },
+      {
+        "id": "q-buer-2",
+        "title": "Konjunktiv II (Höflichkeit)",
+        "type": "grammar",
+        "xp": 65,
+        "completed": false
+      },
+      {
+        "id": "q-buer-3",
+        "title": "Das Meeting (Diskussion)",
+        "type": "speak",
+        "xp": 70,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "stadt",
+    "name": {
+      "de": "Stadtleben",
+      "en": "City Life",
+      "ar": "حياة المدينة"
+    },
+    "level": "B1",
+    "icon": "🏙️",
+    "color": "#14B8A6",
+    "x": 45,
+    "y": 34,
+    "unlocked": false,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Wohnungssuche, Verträge, Freizeit in Berlin.",
+      "en": "Apartment hunting, city leisure, culture in Berlin.",
+      "ar": "البحث عن سكن، عقود الإيجار، والأنشطة الثقافية."
+    },
+    "quests": [
+      {
+        "id": "q-stadt-1",
+        "title": "Wohnungsanzeigen verstehen",
+        "type": "read",
+        "xp": 60,
+        "completed": false
+      },
+      {
+        "id": "q-stadt-2",
+        "title": "Relativsätze im Alltag",
+        "type": "grammar",
+        "xp": 65,
+        "completed": false
+      },
+      {
+        "id": "q-stadt-3",
+        "title": "Stadt-Rätsel lösen",
+        "type": "quest",
+        "xp": 70,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "flughafen",
+    "name": {
+      "de": "Flughafen",
+      "en": "Airport & Travel",
+      "ar": "المطار والسفر"
+    },
+    "level": "B1",
+    "icon": "✈️",
+    "color": "#6366F1",
+    "x": 80,
+    "y": 24,
+    "unlocked": false,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Internationale Reisen, Zoll, Reiseberichte.",
+      "en": "International travel, customs, flight announcements.",
+      "ar": "السفر الدولي، الجمارك، وتتبع الرحلات."
+    },
+    "quests": [
+      {
+        "id": "q-flug-1",
+        "title": "Am Check-in & Sicherheitskontrolle",
+        "type": "speak",
+        "xp": 65,
+        "completed": false
+      },
+      {
+        "id": "q-flug-2",
+        "title": "Passiv: Wie ein Flugzeug vorbereitet wird",
+        "type": "grammar",
+        "xp": 70,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "business",
+    "name": {
+      "de": "Business District",
+      "en": "Business & Media",
+      "ar": "حي الأعمال والإعلام"
+    },
+    "level": "B2",
+    "icon": "💼",
+    "color": "#D97706",
+    "x": 25,
+    "y": 20,
+    "unlocked": false,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Debatten, Wirtschaftsnachrichten, Verhandlungen.",
+      "en": "Debates, economic news, negotiations, and reports.",
+      "ar": "المناظرات، أخبار الاقتصاد، والتفاوض التجاري المتقدم."
+    },
+    "quests": [
+      {
+        "id": "q-biz-1",
+        "title": "Wirtschaftsnachrichten analysieren",
+        "type": "read",
+        "xp": 80,
+        "completed": false
+      },
+      {
+        "id": "q-biz-2",
+        "title": "Konjunktiv I & Indirekte Rede",
+        "type": "grammar",
+        "xp": 85,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "universitaet",
+    "name": {
+      "de": "Universität",
+      "en": "University & Science",
+      "ar": "الجامعة والعلوم"
+    },
+    "level": "C1",
+    "icon": "🎓",
+    "color": "#7C3AED",
+    "x": 52,
+    "y": 12,
+    "unlocked": false,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Wissenschaftssprache, Fachvorträge, Essays verfassen.",
+      "en": "Academic German, scientific papers, university lectures.",
+      "ar": "اللغة الأكاديمية التخصصية، المحاضرات، وكتابة الأوراق العلمية."
+    },
+    "quests": [
+      {
+        "id": "q-uni-1",
+        "title": "Akademische Nominalisierung",
+        "type": "grammar",
+        "xp": 95,
+        "completed": false
+      },
+      {
+        "id": "q-uni-2",
+        "title": "Wissenschaftlichen Vortrag halten",
+        "type": "speak",
+        "xp": 100,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "schloss",
+    "name": {
+      "de": "Schloss C2",
+      "en": "Castle of Mastery",
+      "ar": "قلعة الإتقان الشامل"
+    },
+    "level": "C2",
+    "icon": "🏰",
+    "color": "#E11D48",
+    "x": 82,
+    "y": 6,
+    "unlocked": false,
+    "completedQuests": 0,
+    "totalQuests": 3,
+    "description": {
+      "de": "Stilistische Nuancen, Literatur, muttersprachliche Meisterschaft.",
+      "en": "Stylistic nuances, literature, near-native mastery.",
+      "ar": "الدقة الأسلوبية البلاغية، الأدب الرفيع، ومستوى التحدث كالناطق الأصلي."
+    },
+    "quests": [
+      {
+        "id": "q-schloss-1",
+        "title": "Literarische Nuancen & Register",
+        "type": "grammar",
+        "xp": 120,
+        "completed": false
+      },
+      {
+        "id": "q-schloss-2",
+        "title": "Meister-Diplomatie Quest",
+        "type": "boss",
+        "xp": 150,
+        "completed": false
+      }
+    ]
+  }
+]

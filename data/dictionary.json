@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "tisch",
+    "german": "der Tisch",
+    "base": "Tisch",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Tische",
+    "phonetic": "tɪʃ",
+    "english": "table",
+    "arabic": "طاولة / مائدة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Tisch",
+      "akkusativ": "den Tisch",
+      "dativ": "dem Tisch",
+      "genitiv": "des Tisches"
+    },
+    "example": {
+      "de": "Der Tisch steht im Wohnzimmer.",
+      "en": "The table is in the living room.",
+      "ar": "الطاولة موجودة في غرفة المعيشة."
+    }
+  },
+  {
+    "id": "stuhl",
+    "german": "der Stuhl",
+    "base": "Stuhl",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Stühle",
+    "phonetic": "ʃtuːl",
+    "english": "chair",
+    "arabic": "كرسي",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Stuhl",
+      "akkusativ": "den Stuhl",
+      "dativ": "dem Stuhl",
+      "genitiv": "des Stuhles"
+    },
+    "example": {
+      "de": "Bitte setzen Sie sich auf den Stuhl.",
+      "en": "Please sit on the chair.",
+      "ar": "تفضل بالجلوس على الكرسي."
+    }
+  },
+  {
+    "id": "schluessel",
+    "german": "der Schlüssel",
+    "base": "Schlüssel",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Schlüssel",
+    "phonetic": "ˈʃlʏsl̩",
+    "english": "key",
+    "arabic": "مفتاح",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Schlüssel",
+      "akkusativ": "den Schlüssel",
+      "dativ": "dem Schlüssel",
+      "genitiv": "des Schlüssels"
+    },
+    "example": {
+      "de": "Wo ist mein Schlüssel für die Wohnung?",
+      "en": "Where is my key for the apartment?",
+      "ar": "أين مفتاحي الخاص بالشقة؟"
+    }
+  },
+  {
+    "id": "wohnung",
+    "german": "die Wohnung",
+    "base": "Wohnung",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Wohnungen",
+    "phonetic": "ˈvoːnʊŋ",
+    "english": "apartment / flat",
+    "arabic": "شقة سكنية",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Wohnung",
+      "akkusativ": "die Wohnung",
+      "dativ": "der Wohnung",
+      "genitiv": "der Wohnung"
+    },
+    "example": {
+      "de": "Die neue Wohnung ist hell und modern.",
+      "en": "The new apartment is bright and modern.",
+      "ar": "الشقة الجديدة مضيئة وعصرية."
+    }
+  },
+  {
+    "id": "kueche",
+    "german": "die Küche",
+    "base": "Küche",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Küchen",
+    "phonetic": "ˈkʏçə",
+    "english": "kitchen",
+    "arabic": "مطبخ",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Küche",
+      "akkusativ": "die Küche",
+      "dativ": "der Küche",
+      "genitiv": "der Küche"
+    },
+    "example": {
+      "de": "Wir kochen heute Abend in der Küche.",
+      "en": "We are cooking this evening in the kitchen.",
+      "ar": "نحن نطبخ هذا المساء في المطبخ."
+    }
+  },
+  {
+    "id": "tuer",
+    "german": "die Tür",
+    "base": "Tür",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Türen",
+    "phonetic": "tyːɐ̯",
+    "english": "door",
+    "arabic": "باب",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Tür",
+      "akkusativ": "die Tür",
+      "dativ": "der Tür",
+      "genitiv": "der Tür"
+    },
+    "example": {
+      "de": "Schließen Sie bitte die Tür.",
+      "en": "Please close the door.",
+      "ar": "يرجى إغلاق الباب."
+    }
+  },
+  {
+    "id": "zimmer",
+    "german": "das Zimmer",
+    "base": "Zimmer",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Zimmer",
+    "phonetic": "ˈt͡sɪmɐ",
+    "english": "room",
+    "arabic": "غرفة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Zimmer",
+      "akkusativ": "das Zimmer",
+      "dativ": "dem Zimmer",
+      "genitiv": "des Zimmers"
+    },
+    "example": {
+      "de": "Das Zimmer hat ein großes Fenster.",
+      "en": "The room has a big window.",
+      "ar": "الغرفة تحتوي على نافذة كبيرة."
+    }
+  },
+  {
+    "id": "fenster",
+    "german": "das Fenster",
+    "base": "Fenster",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Fenster",
+    "phonetic": "ˈfɛnstɐ",
+    "english": "window",
+    "arabic": "نافذة / شباك",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Fenster",
+      "akkusativ": "das Fenster",
+      "dativ": "dem Fenster",
+      "genitiv": "des Fensters"
+    },
+    "example": {
+      "de": "Ich öffne das Fenster am Morgen.",
+      "en": "I open the window in the morning.",
+      "ar": "أفتح النافذة في الصباح."
+    }
+  },
+  {
+    "id": "bett",
+    "german": "das Bett",
+    "base": "Bett",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Betten",
+    "phonetic": "bɛt",
+    "english": "bed",
+    "arabic": "سرير",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Bett",
+      "akkusativ": "das Bett",
+      "dativ": "dem Bett",
+      "genitiv": "des Bettes"
+    },
+    "example": {
+      "de": "Das Kind schläft ruhig im Bett.",
+      "en": "The child sleeps quietly in bed.",
+      "ar": "الطفل ينام بهدوء في السرير."
+    }
+  },
+  {
+    "id": "kaffee",
+    "german": "der Kaffee",
+    "base": "Kaffee",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Kaffees",
+    "phonetic": "ˈkafe",
+    "english": "coffee",
+    "arabic": "قهوة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Kaffee",
+      "akkusativ": "den Kaffee",
+      "dativ": "dem Kaffee",
+      "genitiv": "des Kaffees"
+    },
+    "example": {
+      "de": "Ich trinke morgens einen heißen Kaffee.",
+      "en": "I drink a hot coffee in the morning.",
+      "ar": "أشرب قهوة ساخنة في الصباح."
+    }
+  },
+  {
+    "id": "tee",
+    "german": "der Tee",
+    "base": "Tee",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Tees",
+    "phonetic": "teː",
+    "english": "tea",
+    "arabic": "شاي",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Tee",
+      "akkusativ": "den Tee",
+      "dativ": "dem Tee",
+      "genitiv": "des Tees"
+    },
+    "example": {
+      "de": "Möchten Sie eine Tasse Tee mit Zitrone?",
+      "en": "Would you like a cup of tea with lemon?",
+      "ar": "هل تود فنجاناً من الشاي مع الليمون؟"
+    }
+  },
+  {
+    "id": "apfel",
+    "german": "der Apfel",
+    "base": "Apfel",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Äpfel",
+    "phonetic": "ˈapfl̩",
+    "english": "apple",
+    "arabic": "تفاحة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Apfel",
+      "akkusativ": "den Apfel",
+      "dativ": "dem Apfel",
+      "genitiv": "des Apfels"
+    },
+    "example": {
+      "de": "Der grüne Apfel schmeckt frisch und süß.",
+      "en": "The green apple tastes fresh and sweet.",
+      "ar": "التفاحة الخضراء طعمها طازج وحلو."
+    }
+  },
+  {
+    "id": "pizza",
+    "german": "die Pizza",
+    "base": "Pizza",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Pizzen",
+    "phonetic": "ˈpɪt͡sa",
+    "english": "pizza",
+    "arabic": "بيتزا",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Pizza",
+      "akkusativ": "die Pizza",
+      "dativ": "der Pizza",
+      "genitiv": "der Pizza"
+    },
+    "example": {
+      "de": "Wir bestellen eine italienische Pizza.",
+      "en": "We are ordering an Italian pizza.",
+      "ar": "نحن نطلب بيتزا إيطالية."
+    }
+  },
+  {
+    "id": "rechnung",
+    "german": "die Rechnung",
+    "base": "Rechnung",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Rechnungen",
+    "phonetic": "ˈʁɛçnʊŋ",
+    "english": "bill / check",
+    "arabic": "فاتورة / الحساب",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Rechnung",
+      "akkusativ": "die Rechnung",
+      "dativ": "der Rechnung",
+      "genitiv": "der Rechnung"
+    },
+    "example": {
+      "de": "Die Rechnung, bitte! Wir möchten zahlen.",
+      "en": "The bill, please! We would like to pay.",
+      "ar": "الحساب من فضلك! نود الدفع."
+    }
+  },
+  {
+    "id": "wasser",
+    "german": "das Wasser",
+    "base": "Wasser",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Wässer",
+    "phonetic": "ˈvasɐ",
+    "english": "water",
+    "arabic": "ماء",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Wasser",
+      "akkusativ": "das Wasser",
+      "dativ": "dem Wasser",
+      "genitiv": "des Wassers"
+    },
+    "example": {
+      "de": "Ein Glas kaltes Wasser, bitte.",
+      "en": "A glass of cold water, please.",
+      "ar": "كوب من الماء البارد، من فضلك."
+    }
+  },
+  {
+    "id": "brot",
+    "german": "das Brot",
+    "base": "Brot",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Brote",
+    "phonetic": "bʁoːt",
+    "english": "bread",
+    "arabic": "خبز",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Brot",
+      "akkusativ": "das Brot",
+      "dativ": "dem Brot",
+      "genitiv": "des Brotes"
+    },
+    "example": {
+      "de": "Deutsches Brot ist weltweit bekannt.",
+      "en": "German bread is world famous.",
+      "ar": "الخبز الألماني مشهور عالمياً."
+    }
+  },
+  {
+    "id": "bahnhof",
+    "german": "der Bahnhof",
+    "base": "Bahnhof",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Bahnhöfe",
+    "phonetic": "ˈbaːnhoːf",
+    "english": "train station",
+    "arabic": "محطة القطار",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Bahnhof",
+      "akkusativ": "den Bahnhof",
+      "dativ": "dem Bahnhof",
+      "genitiv": "des Bahnhofs"
+    },
+    "example": {
+      "de": "Wir treffen uns direkt am Bahnhof.",
+      "en": "We meet directly at the train station.",
+      "ar": "نلتقي مباشرة في محطة القطار."
+    }
+  },
+  {
+    "id": "zug",
+    "german": "der Zug",
+    "base": "Zug",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Züge",
+    "phonetic": "t͡suːk",
+    "english": "train",
+    "arabic": "قطار",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Zug",
+      "akkusativ": "den Zug",
+      "dativ": "dem Zug",
+      "genitiv": "des Zuges"
+    },
+    "example": {
+      "de": "Der Zug nach München fährt um 14:00 Uhr ab.",
+      "en": "The train to Munich departs at 2:00 PM.",
+      "ar": "القطار إلى ميونخ ينطلق في الساعة 14:00."
+    }
+  },
+  {
+    "id": "flughafen",
+    "german": "der Flughafen",
+    "base": "Flughafen",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Flughäfen",
+    "phonetic": "ˈfluːkhaːfn̩",
+    "english": "airport",
+    "arabic": "مطار",
+    "cefr": "A2",
+    "declension": {
+      "nominativ": "der Flughafen",
+      "akkusativ": "den Flughafen",
+      "dativ": "dem Flughafen",
+      "genitiv": "des Flughafens"
+    },
+    "example": {
+      "de": "Das Taxi fährt schnell zum Flughafen.",
+      "en": "The taxi drives quickly to the airport.",
+      "ar": "التاكسي يتجه بسرعة إلى المطار."
+    }
+  },
+  {
+    "id": "strasse",
+    "german": "die Straße",
+    "base": "Straße",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Straßen",
+    "phonetic": "ˈʃtʁaːsə",
+    "english": "street / road",
+    "arabic": "شارع / طريق",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Straße",
+      "akkusativ": "die Straße",
+      "dativ": "der Straße",
+      "genitiv": "der Straße"
+    },
+    "example": {
+      "de": "In welcher Straße wohnst du?",
+      "en": "On which street do you live?",
+      "ar": "في أي شارع تسكن؟"
+    }
+  },
+  {
+    "id": "auto",
+    "german": "das Auto",
+    "base": "Auto",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Autos",
+    "phonetic": "ˈaʊ̯to",
+    "english": "car",
+    "arabic": "سيارة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Auto",
+      "akkusativ": "das Auto",
+      "dativ": "dem Auto",
+      "genitiv": "des Autos"
+    },
+    "example": {
+      "de": "Das Auto fährt sehr leise und sauber.",
+      "en": "The car drives very quietly and cleanly.",
+      "ar": "السيارة تسير بهدوء ونظافة تامة."
+    }
+  },
+  {
+    "id": "ticket",
+    "german": "das Ticket",
+    "base": "Ticket",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Tickets",
+    "phonetic": "ˈtɪkət",
+    "english": "ticket",
+    "arabic": "تذكرة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Ticket",
+      "akkusativ": "das Ticket",
+      "dativ": "dem Ticket",
+      "genitiv": "des Tickets"
+    },
+    "example": {
+      "de": "Ich kaufe das Ticket am Fahrkartenautomaten.",
+      "en": "I buy the ticket at the ticket machine.",
+      "ar": "أشتري التذكرة من ماكينة بيع التذاكر."
+    }
+  },
+  {
+    "id": "beruf",
+    "german": "der Beruf",
+    "base": "Beruf",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Berufe",
+    "phonetic": "bəˈʁuːf",
+    "english": "profession / job",
+    "arabic": "مهنة / وظيفة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Beruf",
+      "akkusativ": "den Beruf",
+      "dativ": "dem Beruf",
+      "genitiv": "des Berufes"
+    },
+    "example": {
+      "de": "Was sind Sie von Beruf?",
+      "en": "What is your profession?",
+      "ar": "ما هي مهنتك؟"
+    }
+  },
+  {
+    "id": "computer",
+    "german": "der Computer",
+    "base": "Computer",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Computer",
+    "phonetic": "kɔmˈpjuːtɐ",
+    "english": "computer",
+    "arabic": "حاسوب / كمبيوتر",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "der Computer",
+      "akkusativ": "den Computer",
+      "dativ": "dem Computer",
+      "genitiv": "des Computers"
+    },
+    "example": {
+      "de": "Er arbeitet jeden Tag am Computer.",
+      "en": "He works on the computer every day.",
+      "ar": "هو يعمل كل يوم على الحاسوب."
+    }
+  },
+  {
+    "id": "arbeit",
+    "german": "die Arbeit",
+    "base": "Arbeit",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Arbeiten",
+    "phonetic": "ˈaʁbaɪ̯t",
+    "english": "work",
+    "arabic": "عمل / وظيفة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Arbeit",
+      "akkusativ": "die Arbeit",
+      "dativ": "der Arbeit",
+      "genitiv": "der Arbeit"
+    },
+    "example": {
+      "de": "Die Arbeit im Team macht viel Spaß.",
+      "en": "Working in a team is a lot of fun.",
+      "ar": "العمل الجماعي ممتع للغاية."
+    }
+  },
+  {
+    "id": "schule",
+    "german": "die Schule",
+    "base": "Schule",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Schulen",
+    "phonetic": "ˈʃuːlə",
+    "english": "school",
+    "arabic": "مدرسة",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Schule",
+      "akkusativ": "die Schule",
+      "dativ": "der Schule",
+      "genitiv": "der Schule"
+    },
+    "example": {
+      "de": "Die Kinder gehen gerne in die Schule.",
+      "en": "The children like going to school.",
+      "ar": "الأطفال يذهبون إلى المدرسة بكل سرور."
+    }
+  },
+  {
+    "id": "buch",
+    "german": "das Buch",
+    "base": "Buch",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Bücher",
+    "phonetic": "buːx",
+    "english": "book",
+    "arabic": "كتاب",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Buch",
+      "akkusativ": "das Buch",
+      "dativ": "dem Buch",
+      "genitiv": "des Buches"
+    },
+    "example": {
+      "de": "Dieses Buch erklärt die deutsche Grammatik leicht.",
+      "en": "This book explains German grammar easily.",
+      "ar": "هذا الكتاب يشرح القواعد الألمانية ببساطة."
+    }
+  },
+  {
+    "id": "handy",
+    "german": "das Handy",
+    "base": "Handy",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Handys",
+    "phonetic": "ˈhɛndi",
+    "english": "mobile phone / smartphone",
+    "arabic": "هاتف محمول / جوال",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "das Handy",
+      "akkusativ": "das Handy",
+      "dativ": "dem Handy",
+      "genitiv": "des Handys"
+    },
+    "example": {
+      "de": "Ich lerne Deutsch mit meinem Handy.",
+      "en": "I learn German with my mobile phone.",
+      "ar": "أتعلم الألمانية عبر هاتفي المحمول."
+    }
+  },
+  {
+    "id": "sein",
+    "german": "sein",
+    "base": "sein",
+    "type": "verb",
+    "auxiliary": "sein",
+    "phonetic": "zaɪ̯n",
+    "english": "to be",
+    "arabic": "يكون / هو",
+    "cefr": "A1",
+    "conjugation": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie_Sie": "sind",
+      "perfekt": "gewesen (ist)"
+    },
+    "example": {
+      "de": "Ich bin sehr motiviert, Deutsch zu lernen.",
+      "en": "I am very motivated to learn German.",
+      "ar": "أنا متحمس جداً لتعلم الألمانية."
+    }
+  },
+  {
+    "id": "haben",
+    "german": "haben",
+    "base": "haben",
+    "type": "verb",
+    "auxiliary": "haben",
+    "phonetic": "ˈhaːbn̩",
+    "english": "to have",
+    "arabic": "يملك / لديه",
+    "cefr": "A1",
+    "conjugation": {
+      "ich": "habe",
+      "du": "hast",
+      "er_sie_es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie_Sie": "haben",
+      "perfekt": "gehabt (hat)"
+    },
+    "example": {
+      "de": "Wir haben heute viel Zeit zum Üben.",
+      "en": "We have a lot of time to practice today.",
+      "ar": "لدينا اليوم وقت كافٍ للتدريب."
+    }
+  },
+  {
+    "id": "lernen",
+    "german": "lernen",
+    "base": "lernen",
+    "type": "verb",
+    "auxiliary": "haben",
+    "phonetic": "ˈlɛʁnən",
+    "english": "to learn / study",
+    "arabic": "يتعلم / يدرس",
+    "cefr": "A1",
+    "conjugation": {
+      "ich": "lerne",
+      "du": "lernst",
+      "er_sie_es": "lernt",
+      "wir": "lernen",
+      "ihr": "lernt",
+      "sie_Sie": "lernen",
+      "perfekt": "gelernt (hat)"
+    },
+    "example": {
+      "de": "Sie lernt jeden Tag zehn neue Wörter.",
+      "en": "She learns ten new words every day.",
+      "ar": "هي تتعلم كل يوم عشر كلمات جديدة."
+    }
+  },
+  {
+    "id": "sprechen",
+    "german": "sprechen",
+    "base": "sprechen",
+    "type": "verb",
+    "auxiliary": "haben",
+    "phonetic": "ˈʃpʁɛçn̩",
+    "english": "to speak",
+    "arabic": "يتحدث / يتكلم",
+    "cefr": "A1",
+    "conjugation": {
+      "ich": "spreche",
+      "du": "sprichst (Vokalwechsel e➔i)",
+      "er_sie_es": "spricht",
+      "wir": "sprechen",
+      "ihr": "sprecht",
+      "sie_Sie": "sprechen",
+      "perfekt": "gesprochen (hat)"
+    },
+    "example": {
+      "de": "Er spricht fließend Deutsch und Englisch.",
+      "en": "He speaks fluent German and English.",
+      "ar": "هو يتحدث الألمانية والإنجليزية بطلاقة."
+    }
+  },
+  {
+    "id": "verstehen",
+    "german": "verstehen",
+    "base": "verstehen",
+    "type": "verb",
+    "auxiliary": "haben",
+    "phonetic": "fɛɐ̯ˈʃteːən",
+    "english": "to understand",
+    "arabic": "يفهم / يستوعب",
+    "cefr": "A1",
+    "conjugation": {
+      "ich": "verstehe",
+      "du": "verstehst",
+      "er_sie_es": "versteht",
+      "wir": "verstehen",
+      "ihr": "versteht",
+      "sie_Sie": "verstehen",
+      "perfekt": "verstanden (hat)"
+    },
+    "example": {
+      "de": "Ich verstehe die grammatische Regel jetzt genau.",
+      "en": "I understand the grammatical rule exactly now.",
+      "ar": "أفهم القاعدة النحوية تماماً الآن."
+    }
+  },
+  {
+    "id": "helfen",
+    "german": "helfen",
+    "base": "helfen",
+    "type": "verb",
+    "case": "Dativ",
+    "auxiliary": "haben",
+    "phonetic": "ˈhɛlfn̩",
+    "english": "to help (+ Dative)",
+    "arabic": "يساعد (+ حالة المجرور Dativ)",
+    "cefr": "A2",
+    "conjugation": {
+      "ich": "helfe",
+      "du": "hilfst (e➔i)",
+      "er_sie_es": "hilft",
+      "wir": "helfen",
+      "ihr": "helft",
+      "sie_Sie": "helfen",
+      "perfekt": "geholfen (hat)"
+    },
+    "example": {
+      "de": "Kann ich Ihnen bitte helfen?",
+      "en": "Can I please help you?",
+      "ar": "هل يمكنني مساعدتك من فضلك؟"
+    }
+  },
+  {
+    "id": "fahren",
+    "german": "fahren",
+    "base": "fahren",
+    "type": "verb",
+    "auxiliary": "sein",
+    "phonetic": "ˈfaːʁən",
+    "english": "to drive / ride / travel",
+    "arabic": "يسافر / يقود",
+    "cefr": "A1",
+    "conjugation": {
+      "ich": "fahre",
+      "du": "fährst (a➔ä)",
+      "er_sie_es": "fährt",
+      "wir": "fahren",
+      "ihr": "fahrt",
+      "sie_Sie": "fahren",
+      "perfekt": "gefahren (ist)"
+    },
+    "example": {
+      "de": "Wir fahren am Wochenende nach Hamburg.",
+      "en": "We are travelling to Hamburg at the weekend.",
+      "ar": "نحن مسافرون في عطلة نهاية الأسبوع إلى هامبورغ."
+    }
+  },
+  {
+    "id": "weil",
+    "german": "weil",
+    "base": "weil",
+    "type": "conjunction",
+    "phonetic": "vaɪ̯l",
+    "english": "because (Verb at the END)",
+    "arabic": "لأن / بسبب (الفعل في نهاية الجملة)",
+    "cefr": "A2",
+    "grammarRule": {
+      "de": "Subjunktion: Das konjugierte Verb wandert ans Ende des Nebensatzes.",
+      "en": "Subordinating conjunction: The conjugated verb moves to the END of the clause.",
+      "ar": "أداة ربط فرعية: الفعل المصرف ينتقل إلى نهاية الجملة."
+    },
+    "example": {
+      "de": "Ich lerne Deutsch, weil ich in Deutschland studieren will.",
+      "en": "I am learning German because I want to study in Germany.",
+      "ar": "أتعلم الألمانية لأنني أريد الدراسة في ألمانيا."
+    }
+  },
+  {
+    "id": "obwohl",
+    "german": "obwohl",
+    "base": "obwohl",
+    "type": "conjunction",
+    "phonetic": "ɔpˈvoːl",
+    "english": "although / even though (Verb at the END)",
+    "arabic": "رغم أن / على الرغم من (الفعل في النهاية)",
+    "cefr": "B1",
+    "grammarRule": {
+      "de": "Konzessivsatz: Das Verb steht am Satzende.",
+      "en": "Concessive clause: The verb stands at the end of the clause.",
+      "ar": "جملة تناقضية: الفعل يأتي في نهاية الجملة الفرعية."
+    },
+    "example": {
+      "de": "Er geht spazieren, obwohl es stark regnet.",
+      "en": "He goes for a walk although it is raining heavily.",
+      "ar": "هو يذهب في نزهة على الرغم من هطول المطر بغزارة."
+    }
+  },
+  {
+    "id": "mit",
+    "german": "mit",
+    "base": "mit",
+    "type": "preposition",
+    "case": "Dativ",
+    "phonetic": "mɪt",
+    "english": "with (+ Dative always)",
+    "arabic": "مع / بواسطة (+ Dativ دائماً)",
+    "cefr": "A1",
+    "grammarRule": {
+      "de": "Präposition mit festem Dativ: mit dem, mit der, mit den.",
+      "en": "Preposition strictly demanding Dative: mit dem (m/n), mit der (f), mit den (pl).",
+      "ar": "حرف جر يفرض حالة المجرور Dativ دائماً: mit dem, mit der, mit den."
+    },
+    "example": {
+      "de": "Ich fahre mit dem Bus zur Arbeit.",
+      "en": "I travel by bus to work.",
+      "ar": "أسافر بالحافلة إلى العمل."
+    }
+  },
+  {
+    "id": "fuer",
+    "german": "für",
+    "base": "für",
+    "type": "preposition",
+    "case": "Akkusativ",
+    "phonetic": "fyːɐ̯",
+    "english": "for (+ Accusative always)",
+    "arabic": "من أجل / لـ (+ Akkusativ دائماً)",
+    "cefr": "A1",
+    "grammarRule": {
+      "de": "Präposition mit festem Akkusativ: für den, für die, für das.",
+      "en": "Preposition strictly demanding Accusative: für den (m), für die (f), für das (n).",
+      "ar": "حرف جر يفرض حالة النصب Akkusativ دائماً."
+    },
+    "example": {
+      "de": "Das Geschenk ist für meinen besten Freund.",
+      "en": "The gift is for my best friend.",
+      "ar": "هذه الهدية لأفضل صديق لدي."
+    }
+  },
+  {
+    "id": "wohnung-2",
+    "german": "die Wohnung",
+    "base": "Wohnung",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Wohnungen",
+    "phonetic": "ˈvoːnʊŋ",
+    "english": "apartment / flat",
+    "arabic": "شقة سكنية 🇪🇬",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Wohnung",
+      "akkusativ": "die Wohnung",
+      "dativ": "der Wohnung",
+      "genitiv": "der Wohnung"
+    },
+    "example": {
+      "de": "Die Wohnung hat drei helle Zimmer.",
+      "en": "The apartment has three bright rooms.",
+      "ar": "الشقة فيها 3 غرف منورة 🇪🇬."
+    }
+  },
+  {
+    "id": "arbeit-2",
+    "german": "die Arbeit",
+    "base": "Arbeit",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Arbeiten",
+    "phonetic": "ˈaʁbaɪ̯t",
+    "english": "work / job",
+    "arabic": "العمل / الشغل 🇪🇬",
+    "cefr": "A1",
+    "declension": {
+      "nominativ": "die Arbeit",
+      "akkusativ": "die Arbeit",
+      "dativ": "der Arbeit",
+      "genitiv": "der Arbeit"
+    },
+    "example": {
+      "de": "Ich fahre jeden Morgen zur Arbeit.",
+      "en": "I commute to work every morning.",
+      "ar": "أنا بروح الشغل كل يوم الصبح 🇪🇬."
+    }
+  },
+  {
+    "id": "entscheidung",
+    "german": "die Entscheidung",
+    "base": "Entscheidung",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Entscheidungen",
+    "phonetic": "ɛntˈʃaɪ̯dʊŋ",
+    "english": "decision",
+    "arabic": "القرار 🇪🇬",
+    "cefr": "B1",
+    "declension": {
+      "nominativ": "die Entscheidung",
+      "akkusativ": "die Entscheidung",
+      "dativ": "der Entscheidung",
+      "genitiv": "der Entscheidung"
+    },
+    "example": {
+      "de": "Das war eine kluge Entscheidung.",
+      "en": "That was a wise decision.",
+      "ar": "ده كان قرار حكيم وممتاز 🇪🇬."
+    }
+  },
+  {
+    "id": "vorstellungsgespraech",
+    "german": "das Vorstellungsgespräch",
+    "base": "Vorstellungsgespräch",
+    "type": "noun",
+    "gender": "neutral",
+    "article": "das",
+    "plural": "die Vorstellungsgespräche",
+    "phonetic": "ˈfoːɐ̯ʃtɛlʊŋsɡəˌʃpʁɛːç",
+    "english": "job interview",
+    "arabic": "مقابلة العمل / الإنترفيو 🇪🇬",
+    "cefr": "B2",
+    "declension": {
+      "nominativ": "das Vorstellungsgespräch",
+      "akkusativ": "das Vorstellungsgespräch",
+      "dativ": "dem Vorstellungsgespräch",
+      "genitiv": "des Vorstellungsgespräches"
+    },
+    "example": {
+      "de": "Ich bereite mich auf das Vorstellungsgespräch vor.",
+      "en": "I am preparing for the job interview.",
+      "ar": "أنا بجهّز لمقابلة العمل 🇪🇬."
+    }
+  },
+  {
+    "id": "herausforderung",
+    "german": "die Herausforderung",
+    "base": "Herausforderung",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Herausforderungen",
+    "phonetic": "hɛˈʁaʊ̯sˌfɔʁdəʁʊŋ",
+    "english": "challenge",
+    "arabic": "التحدي 🇪🇬",
+    "cefr": "B2",
+    "declension": {
+      "nominativ": "die Herausforderung",
+      "akkusativ": "die Herausforderung",
+      "dativ": "der Herausforderung",
+      "genitiv": "der Herausforderung"
+    },
+    "example": {
+      "de": "Neue Sprachen zu lernen ist eine spannende Herausforderung.",
+      "en": "Learning new languages is an exciting challenge.",
+      "ar": "تعلم لغات جديدة تحدي ممتع ومثير 🇪🇬."
+    }
+  },
+  {
+    "id": "nachhaltigkeit",
+    "german": "die Nachhaltigkeit",
+    "base": "Nachhaltigkeit",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "kein Plural",
+    "phonetic": "ˈnaːxˌhaltɪçkaɪ̯t",
+    "english": "sustainability",
+    "arabic": "الاستدامة والحفاظ على البيئة 🇪🇬",
+    "cefr": "C1",
+    "declension": {
+      "nominativ": "die Nachhaltigkeit",
+      "akkusativ": "die Nachhaltigkeit",
+      "dativ": "der Nachhaltigkeit",
+      "genitiv": "der Nachhaltigkeit"
+    },
+    "example": {
+      "de": "Nachhaltigkeit spielt in der modernen Wirtschaft eine zentrale Rolle.",
+      "en": "Sustainability plays a central role in the modern economy.",
+      "ar": "الاستدامة بتلعب دور محوري في الاقتصاد الحديث 🇪🇬."
+    }
+  },
+  {
+    "id": "erfolg",
+    "german": "der Erfolg",
+    "base": "Erfolg",
+    "type": "noun",
+    "gender": "masculine",
+    "article": "der",
+    "plural": "die Erfolge",
+    "phonetic": "ɛɐ̯ˈfɔlk",
+    "english": "success",
+    "arabic": "النجاح / التوفيق 🇪🇬",
+    "cefr": "B1",
+    "declension": {
+      "nominativ": "der Erfolg",
+      "akkusativ": "den Erfolg",
+      "dativ": "dem Erfolg",
+      "genitiv": "des Erfolgs"
+    },
+    "example": {
+      "de": "Viel Erfolg bei deiner Prüfung!",
+      "en": "Much success on your exam!",
+      "ar": "بالتوفيق والنجاح في امتحانك!"
+    }
+  },
+  {
+    "id": "erfahrung",
+    "german": "die Erfahrung",
+    "base": "Erfahrung",
+    "type": "noun",
+    "gender": "feminine",
+    "article": "die",
+    "plural": "die Erfahrungen",
+    "phonetic": "ɛɐ̯ˈfaːʁʊŋ",
+    "english": "experience",
+    "arabic": "الخبرة / التجربة 🇪🇬",
+    "cefr": "B1",
+    "declension": {
+      "nominativ": "die Erfahrung",
+      "akkusativ": "die Erfahrung",
+      "dativ": "der Erfahrung",
+      "genitiv": "der Erfahrung"
+    },
+    "example": {
+      "de": "Aus Fehlern sammelt man Erfahrung.",
+      "en": "One gathers experience from mistakes.",
+      "ar": "من الأخطاء يكتسب الإنسان الخبرة."
+    }
+  },
+  {
+    "id": "ziel",
+    "german": "das Ziel",
+    "base": "Ziel",
+    "type": "noun",
+    "gender": "neuter",
+    "article": "das",
+    "plural": "die Ziele",
+    "phonetic": "tsiːl",
+    "english": "goal / destination",
+    "arabic": "الهدف / الوجهة 🇪🇬",
+    "cefr": "A2",
+    "declension": {
+      "nominativ": "das Ziel",
+      "akkusativ": "das Ziel",
+      "dativ": "dem Ziel",
+      "genitiv": "des Ziels"
+    },
+    "example": {
+      "de": "Wir haben unser Ziel pünktlich erreicht.",
+      "en": "We reached our destination on time.",
+      "ar": "وصلنا إلى وجهتنا في الوقت المحدد."
+    }
+  },
+  {
+    "id": "entwickeln",
+    "german": "entwickeln",
+    "base": "entwickeln",
+    "type": "verb",
+    "phonetic": "ɛntˈvɪkln̩",
+    "english": "to develop",
+    "arabic": "يطوّر / ينمّي 🇪🇬",
+    "cefr": "B1",
+    "conjugation": {
+      "ich": "entwickle",
+      "du": "entwickelst",
+      "er_sie_es": "entwickelt",
+      "wir": "entwickeln",
+      "ihr": "entwickelt",
+      "sie_Sie": "entwickeln"
+    },
+    "example": {
+      "de": "Das Team entwickelt eine innovative App.",
+      "en": "The team develops an innovative app.",
+      "ar": "الفريق يطور تطبيقاً مبتكراً."
+    }
+  },
+  {
+    "id": "verhandeln",
+    "german": "verhandeln",
+    "base": "verhandeln",
+    "type": "verb",
+    "phonetic": "fɛɐ̯ˈhandl̩n",
+    "english": "to negotiate",
+    "arabic": "يتفاوض / يناقش 🇪🇬",
+    "cefr": "B2",
+    "conjugation": {
+      "ich": "verhandle",
+      "du": "verhandelst",
+      "er_sie_es": "verhandelt",
+      "wir": "verhandeln",
+      "ihr": "verhandelt",
+      "sie_Sie": "verhandeln"
+    },
+    "example": {
+      "de": "Sie verhandeln über das Gehalt und die Arbeitszeiten.",
+      "en": "They negotiate about salary and working hours.",
+      "ar": "يتفاوضون حول الراتب وساعات العمل."
+    }
+  },
+  {
+    "id": "nachhaltig",
+    "german": "nachhaltig",
+    "base": "nachhaltig",
+    "type": "adjective",
+    "phonetic": "ˈnaːxˌhaltɪç",
+    "english": "sustainable / enduring",
+    "arabic": "مستدام / صديق للبيئة 🇪🇬",
+    "cefr": "B2",
+    "example": {
+      "de": "Nachhaltige Energie schützt die Umwelt.",
+      "en": "Sustainable energy protects the environment.",
+      "ar": "الطاقة المستدامة تحمي البيئة."
+    }
+  },
+  {
+    "id": "begeistert",
+    "german": "begeistert",
+    "base": "begeistert",
+    "type": "adjective",
+    "phonetic": "bəˈɡaɪ̯stɐt",
+    "english": "enthusiastic / thrilled",
+    "arabic": "متحمس / منبهر 🇪🇬",
+    "cefr": "B1",
+    "example": {
+      "de": "Ich bin begeistert von diesem Deutschkurs!",
+      "en": "I am thrilled by this German course!",
+      "ar": "أنا منبهر ومتحمس جداً لهذا الكورس الألماني!"
+    }
+  }
+]

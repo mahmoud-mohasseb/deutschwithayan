@@ -1,0 +1,2829 @@
+{
+  "CEFR_LEVELS": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "GRAMMAR_TOPICS": {
+    "A1": [
+      {
+        "id": "a1-alphabet",
+        "level": "A1",
+        "order": 1,
+        "title": {
+          "de": "Alphabet & Aussprache",
+          "en": "Alphabet & Pronunciation",
+          "ar": "الأبجدية والنطق"
+        },
+        "explanation": {
+          "de": "Das deutsche Alphabet hat 26 Buchstaben plus 4 Sonderbuchstaben: Ä, Ö, Ü und ß.",
+          "en": "The German alphabet has 26 letters plus 4 special letters: Ä, Ö, Ü, and ß (sharp s). Most letters are pronounced similar to English, but some key differences exist.",
+          "ar": "الأبجدية الألمانية تحتوي على 26 حرفاً بالإضافة إلى 4 حروف خاصة: Ä و Ö و Ü وß. معظم الحروف تُنطق بشكل مشابه للعربية في بعض النواحي."
+        },
+        "examples": [
+          {
+            "de": "A wie Apfel",
+            "en": "A as in Apple",
+            "ar": "A مثل تفاحة"
+          },
+          {
+            "de": "Ä wie Äpfel",
+            "en": "Ä as in plural of Apfel (umlaut)",
+            "ar": "Ä مثل جمع كلمة تفاح"
+          },
+          {
+            "de": "ß = ss (scharf)",
+            "en": "ß sounds like double-s",
+            "ar": "ß تُنطق مثل حرف S مضاعف"
+          }
+        ],
+        "grammarTerms": [],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "de": "Wie viele Sonderbuchstaben hat das deutsche Alphabet?",
+              "en": "How many special letters does the German alphabet have?",
+              "ar": "كم عدد الحروف الخاصة في الأبجدية الألمانية؟"
+            },
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "German has 4 special letters: Ä, Ö, Ü, ß",
+              "ar": "الألمانية تحتوي على 4 حروف خاصة: Ä و Ö و Ü وß"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-sentence-structure",
+        "level": "A1",
+        "order": 2,
+        "title": {
+          "de": "Satzstruktur: Subjekt + Verb",
+          "en": "Sentence Structure: Subject + Verb",
+          "ar": "بنية الجملة: الفاعل + الفعل"
+        },
+        "explanation": {
+          "de": "Im deutschen Hauptsatz steht das Verb immer an zweiter Stelle. Das ist die wichtigste Regel!",
+          "en": "In a German main clause, the verb ALWAYS comes in second position. This is the most important word-order rule in German.",
+          "ar": "في الجملة الألمانية الرئيسية، يأتي الفعل دائماً في المرتبة الثانية. هذه أهم قاعدة في ترتيب الكلمات في الألمانية. الفعل يشغل المقعد الثاني دائماً!"
+        },
+        "examples": [
+          {
+            "de": "Ich bin müde.",
+            "en": "I am tired.",
+            "ar": "أنا متعب.",
+            "note": {
+              "en": "Subject → Verb (position 2)",
+              "ar": "الفاعل → الفعل في المرتبة الثانية"
+            }
+          },
+          {
+            "de": "Heute bin ich müde.",
+            "en": "Today I am tired.",
+            "ar": "اليوم أنا متعب.",
+            "note": {
+              "en": "\"Heute\" takes position 1, so verb \"bin\" stays in position 2, before \"ich\"",
+              "ar": "\"Heute\" في المرتبة الأولى، لذا يأتي الفعل قبل الضمير"
+            }
+          },
+          {
+            "de": "Das Buch ist interessant.",
+            "en": "The book is interesting.",
+            "ar": "الكتاب مثير للاهتمام."
+          }
+        ],
+        "grammarTerms": [
+          {
+            "de": "Subjekt",
+            "en": "Subject",
+            "ar": "الفاعل"
+          },
+          {
+            "de": "Prädikat",
+            "en": "Predicate / Verb",
+            "ar": "الفعل / المسند"
+          },
+          {
+            "de": "Objekt",
+            "en": "Object",
+            "ar": "المفعول به"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "sentence_builder",
+            "instruction": {
+              "en": "Arrange the words to form a correct German sentence.",
+              "ar": "رتّب الكلمات لتكوين جملة ألمانية صحيحة."
+            },
+            "words": [
+              "Heute",
+              "ich",
+              "esse",
+              "Brot"
+            ],
+            "correct": "Heute esse ich Brot.",
+            "explanation": {
+              "en": "\"Heute\" takes position 1, verb \"esse\" must be in position 2.",
+              "ar": "\"Heute\" في المرتبة الأولى، الفعل يجب أن يكون في المرتبة الثانية."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-pronouns",
+        "level": "A1",
+        "order": 3,
+        "title": {
+          "de": "Personalpronomen",
+          "en": "Personal Pronouns",
+          "ar": "الضمائر الشخصية"
+        },
+        "explanation": {
+          "de": "Deutsche Personalpronomen sind: ich, du, er/sie/es, wir, ihr, sie/Sie.",
+          "en": "German personal pronouns: ich (I), du (you-informal), er/sie/es (he/she/it), wir (we), ihr (you-plural), sie (they), Sie (you-formal).",
+          "ar": "الضمائر الشخصية في الألمانية: ich (أنا)، du (أنتَ/أنتِ - غير رسمي)، er/sie/es (هو/هي/هو للأشياء)، wir (نحن)، ihr (أنتم)، sie (هم)، Sie (حضرتك - رسمي)."
+        },
+        "examples": [
+          {
+            "de": "Ich lerne Deutsch.",
+            "en": "I am learning German.",
+            "ar": "أنا أتعلم الألمانية."
+          },
+          {
+            "de": "Du bist nett.",
+            "en": "You are nice.",
+            "ar": "أنتَ/أنتِ لطيف/لطيفة."
+          },
+          {
+            "de": "Er spielt Fußball.",
+            "en": "He plays football.",
+            "ar": "هو يلعب كرة القدم."
+          },
+          {
+            "de": "Wir gehen ins Kino.",
+            "en": "We are going to the cinema.",
+            "ar": "نحن نذهب إلى السينما."
+          }
+        ],
+        "pronounTable": [
+          {
+            "pronoun": "ich",
+            "en": "I",
+            "ar": "أنا"
+          },
+          {
+            "pronoun": "du",
+            "en": "you (informal)",
+            "ar": "أنتَ/أنتِ (غير رسمي)"
+          },
+          {
+            "pronoun": "er",
+            "en": "he",
+            "ar": "هو"
+          },
+          {
+            "pronoun": "sie",
+            "en": "she",
+            "ar": "هي"
+          },
+          {
+            "pronoun": "es",
+            "en": "it",
+            "ar": "هو/هي (للأشياء المحايدة)"
+          },
+          {
+            "pronoun": "wir",
+            "en": "we",
+            "ar": "نحن"
+          },
+          {
+            "pronoun": "ihr",
+            "en": "you all (informal)",
+            "ar": "أنتم (غير رسمي)"
+          },
+          {
+            "pronoun": "sie",
+            "en": "they",
+            "ar": "هم"
+          },
+          {
+            "pronoun": "Sie",
+            "en": "you (formal)",
+            "ar": "حضرتك (رسمي)"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which pronoun do you use formally for \"you\"?",
+              "ar": "ما هو الضمير الرسمي لـ \"أنت\"؟"
+            },
+            "options": [
+              "du",
+              "ihr",
+              "Sie",
+              "wir"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "\"Sie\" (capital S) is the formal \"you\" in German — used with strangers, elders, or in professional settings.",
+              "ar": "\"Sie\" بالحرف الكبير هو الضمير الرسمي — يُستخدم مع الغرباء والكبار وفي السياقات الرسمية."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-du-sie",
+        "level": "A1",
+        "order": 4,
+        "title": {
+          "de": "Du vs. Sie: Formell und informell",
+          "en": "Du vs. Sie: Formal and Informal",
+          "ar": "du مقابل Sie: الرسمي وغير الرسمي"
+        },
+        "explanation": {
+          "de": "Im Deutschen gibt es zwei Formen von \"du\": das informelle \"du\" und das formelle \"Sie\".",
+          "en": "German has two ways to say \"you\": informal \"du\" (friends, family, children) and formal \"Sie\" (strangers, bosses, officials). \"Sie\" is always capitalized.",
+          "ar": "في الألمانية، هناك طريقتان لقول \"أنت\": غير رسمي \"du\" مع الأصدقاء والعائلة، ورسمي \"Sie\" مع الغرباء والرؤساء والمسؤولين. \"Sie\" دائماً يُكتب بحرف كبير."
+        },
+        "examples": [
+          {
+            "de": "Wie heißt du?",
+            "en": "What is your name? (informal)",
+            "ar": "ما اسمك؟ (غير رسمي)"
+          },
+          {
+            "de": "Wie heißen Sie?",
+            "en": "What is your name? (formal)",
+            "ar": "ما اسمك حضرتك؟ (رسمي)"
+          },
+          {
+            "de": "Bist du müde?",
+            "en": "Are you tired? (to a friend)",
+            "ar": "هل أنت متعب؟ (لصديق)"
+          },
+          {
+            "de": "Sind Sie müde?",
+            "en": "Are you tired? (formal)",
+            "ar": "هل أنتم/حضرتك متعب؟ (رسمي)"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "You are meeting your boss for the first time. Which do you use?",
+              "ar": "أنت تقابل مديرك للمرة الأولى. أيهما تستخدم؟"
+            },
+            "options": [
+              "du",
+              "Sie",
+              "ihr",
+              "wir"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Always use \"Sie\" with your boss, especially when meeting for the first time.",
+              "ar": "استخدم دائماً \"Sie\" مع مديرك، خاصة عند اللقاء الأول."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-yesno-questions",
+        "level": "A1",
+        "order": 5,
+        "title": {
+          "de": "Ja/Nein-Fragen",
+          "en": "Yes/No Questions",
+          "ar": "أسئلة نعم/لا"
+        },
+        "explanation": {
+          "de": "Bei Ja/Nein-Fragen kommt das Verb an die erste Stelle.",
+          "en": "For yes/no questions, the verb moves to the FIRST position (before the subject). This is called \"inversion\" — the subject and verb swap places.",
+          "ar": "في أسئلة نعم/لا، يتقدم الفعل إلى المرتبة الأولى (قبل الفاعل). هذا ما يُسمى \"القلب\" — يتبادل الفاعل والفعل مواقعهما."
+        },
+        "examples": [
+          {
+            "de": "Du bist müde. → Bist du müde?",
+            "en": "You are tired. → Are you tired?",
+            "ar": "أنت متعب. → هل أنت متعب؟"
+          },
+          {
+            "de": "Er spielt Fußball. → Spielt er Fußball?",
+            "en": "He plays football. → Does he play football?",
+            "ar": "هو يلعب كرة القدم. → هل يلعب كرة القدم؟"
+          },
+          {
+            "de": "Sie kommt morgen. → Kommt sie morgen?",
+            "en": "She is coming tomorrow. → Is she coming tomorrow?",
+            "ar": "هي قادمة غداً. → هل هي قادمة غداً؟"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "How do you turn \"Du lernst Deutsch.\" into a yes/no question?",
+              "ar": "كيف تحوّل \"Du lernst Deutsch.\" إلى سؤال نعم/لا؟"
+            },
+            "options": [
+              "Du lernst Deutsch?",
+              "Lernst du Deutsch?",
+              "Deutsch lernst du?",
+              "Lernst Deutsch du?"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "The verb \"lernst\" moves to position 1, and \"du\" follows in position 2.",
+              "ar": "الفعل \"lernst\" ينتقل إلى المرتبة الأولى، ويتبعه \"du\" في المرتبة الثانية."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-w-questions",
+        "level": "A1",
+        "order": 6,
+        "title": {
+          "de": "W-Fragen",
+          "en": "W-Questions (Question Words)",
+          "ar": "أسئلة W (كلمات الاستفهام)"
+        },
+        "explanation": {
+          "de": "W-Fragen beginnen mit einem Fragewort: Wer, Was, Wo, Wann, Warum, Wie, Welch-",
+          "en": "W-questions start with a question word. The verb is always in position 2 (right after the question word). Common question words: Wer (who), Was (what), Wo (where), Wann (when), Warum (why), Wie (how), Welch- (which).",
+          "ar": "أسئلة W تبدأ بكلمة استفهام. الفعل دائماً في المرتبة الثانية (مباشرة بعد كلمة الاستفهام). كلمات الاستفهام الشائعة: Wer (من)، Was (ماذا)، Wo (أين)، Wann (متى)، Warum (لماذا)، Wie (كيف)، Welch- (أي)."
+        },
+        "examples": [
+          {
+            "de": "Wer bist du?",
+            "en": "Who are you?",
+            "ar": "من أنت؟"
+          },
+          {
+            "de": "Was machst du?",
+            "en": "What are you doing?",
+            "ar": "ماذا تفعل؟"
+          },
+          {
+            "de": "Wo wohnst du?",
+            "en": "Where do you live?",
+            "ar": "أين تسكن؟"
+          },
+          {
+            "de": "Wann kommst du?",
+            "en": "When are you coming?",
+            "ar": "متى ستأتي؟"
+          },
+          {
+            "de": "Wie heißt du?",
+            "en": "What is your name?",
+            "ar": "ما اسمك؟"
+          },
+          {
+            "de": "Warum lernst du Deutsch?",
+            "en": "Why are you learning German?",
+            "ar": "لماذا تتعلم الألمانية؟"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "___ heißt du?",
+              "en": "Complete: ___ is your name?",
+              "ar": "أكمل: ___ اسمك؟"
+            },
+            "correct": "Wie",
+            "options": [
+              "Wer",
+              "Wie",
+              "Was",
+              "Wo"
+            ],
+            "explanation": {
+              "en": "\"Wie heißt du?\" is the fixed phrase for asking someone's name.",
+              "ar": "\"Wie heißt du?\" هي العبارة الثابتة للسؤال عن اسم شخص."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-sein",
+        "level": "A1",
+        "order": 7,
+        "title": {
+          "de": "Das Verb \"sein\"",
+          "en": "The Verb \"sein\" (to be)",
+          "ar": "الفعل \"sein\" (يكون/هو)"
+        },
+        "explanation": {
+          "de": "\"Sein\" ist das wichtigste Verb im Deutschen. Es ist unregelmäßig und muss auswendig gelernt werden.",
+          "en": "\"Sein\" (to be) is the most important verb in German. It is irregular — you must memorize all its forms. It is used with adjectives, professions, nationalities, and locations.",
+          "ar": "\"sein\" (يكون) هو أهم فعل في الألمانية. إنه غير منتظم — يجب حفظ جميع أشكاله. يُستخدم مع الصفات والمهن والجنسيات والأماكن."
+        },
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bin",
+            "en": "I am",
+            "ar": "أنا أكون/أنا"
+          },
+          {
+            "pronoun": "du",
+            "form": "bist",
+            "en": "you are",
+            "ar": "أنت تكون"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "ist",
+            "en": "he/she/it is",
+            "ar": "هو/هي يكون"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sind",
+            "en": "we are",
+            "ar": "نحن نكون"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "seid",
+            "en": "you all are",
+            "ar": "أنتم تكونون"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sind",
+            "en": "they/you (formal) are",
+            "ar": "هم يكونون / حضرتك تكون"
+          }
+        ],
+        "examples": [
+          {
+            "de": "Ich bin müde.",
+            "en": "I am tired.",
+            "ar": "أنا متعب."
+          },
+          {
+            "de": "Er ist Lehrer.",
+            "en": "He is a teacher.",
+            "ar": "هو مدرس."
+          },
+          {
+            "de": "Wir sind in Berlin.",
+            "en": "We are in Berlin.",
+            "ar": "نحن في برلين."
+          },
+          {
+            "de": "Bist du Arzt?",
+            "en": "Are you a doctor?",
+            "ar": "هل أنت طبيب؟"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "Er ___ Student.",
+              "en": "Fill in: Er ___ Student.",
+              "ar": "أكمل: Er ___ Student."
+            },
+            "correct": "ist",
+            "options": [
+              "bin",
+              "bist",
+              "ist",
+              "sind"
+            ],
+            "explanation": {
+              "en": "For \"er\" (he), the form of \"sein\" is \"ist\".",
+              "ar": "مع \"er\" (هو)، شكل \"sein\" هو \"ist\"."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-haben",
+        "level": "A1",
+        "order": 8,
+        "title": {
+          "de": "Das Verb \"haben\"",
+          "en": "The Verb \"haben\" (to have)",
+          "ar": "الفعل \"haben\" (يملك/لديه)"
+        },
+        "explanation": {
+          "de": "\"Haben\" ist das zweite wichtige Hilfsverb. Es ist ebenfalls unregelmäßig.",
+          "en": "\"Haben\" (to have) is the second most important auxiliary verb. It is irregular and used for possession, and later to form the Perfekt tense.",
+          "ar": "\"haben\" (لديه/يملك) هو ثاني أهم فعل مساعد. إنه غير منتظم، يُستخدم للملكية وأيضاً لتكوين زمن الماضي (Perfekt)."
+        },
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "habe",
+            "en": "I have",
+            "ar": "أنا أملك / لدي"
+          },
+          {
+            "pronoun": "du",
+            "form": "hast",
+            "en": "you have",
+            "ar": "أنت تملك / لديك"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "hat",
+            "en": "he/she/it has",
+            "ar": "هو/هي يملك / لديه"
+          },
+          {
+            "pronoun": "wir",
+            "form": "haben",
+            "en": "we have",
+            "ar": "نحن نملك / لدينا"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "habt",
+            "en": "you all have",
+            "ar": "أنتم تملكون / لديكم"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "haben",
+            "en": "they/you (formal) have",
+            "ar": "هم يملكون / لديهم"
+          }
+        ],
+        "examples": [
+          {
+            "de": "Ich habe einen Hund.",
+            "en": "I have a dog.",
+            "ar": "لدي كلب."
+          },
+          {
+            "de": "Sie hat zwei Kinder.",
+            "en": "She has two children.",
+            "ar": "لديها طفلان."
+          },
+          {
+            "de": "Hast du Zeit?",
+            "en": "Do you have time?",
+            "ar": "هل لديك وقت؟"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "Wir ___ ein Auto.",
+              "en": "Fill in: Wir ___ ein Auto.",
+              "ar": "أكمل: Wir ___ ein Auto."
+            },
+            "correct": "haben",
+            "options": [
+              "habe",
+              "hast",
+              "hat",
+              "haben"
+            ],
+            "explanation": {
+              "en": "For \"wir\" (we), the form of \"haben\" is \"haben\".",
+              "ar": "مع \"wir\" (نحن)، شكل \"haben\" هو \"haben\"."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-regular-verbs",
+        "level": "A1",
+        "order": 9,
+        "title": {
+          "de": "Regelmäßige Verben im Präsens",
+          "en": "Regular Verbs in Present Tense",
+          "ar": "الأفعال المنتظمة في المضارع"
+        },
+        "explanation": {
+          "de": "Regelmäßige Verben folgen einem festen Muster: Stamm + Endung.",
+          "en": "Regular German verbs follow a predictable pattern: take the verb stem (infinitive minus -en) and add the ending for each pronoun. Pattern: -e, -st, -t, -en, -t, -en.",
+          "ar": "الأفعال الألمانية المنتظمة تتبع نمطاً ثابتاً: جذر الفعل + اللاحقة. النمط: -e، -st، -t، -en، -t، -en."
+        },
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "ending": "-e",
+            "example": "lerne",
+            "en": "I learn",
+            "ar": "أنا أتعلم"
+          },
+          {
+            "pronoun": "du",
+            "ending": "-st",
+            "example": "lernst",
+            "en": "you learn",
+            "ar": "أنت تتعلم"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "ending": "-t",
+            "example": "lernt",
+            "en": "he/she/it learns",
+            "ar": "هو/هي يتعلم"
+          },
+          {
+            "pronoun": "wir",
+            "ending": "-en",
+            "example": "lernen",
+            "en": "we learn",
+            "ar": "نحن نتعلم"
+          },
+          {
+            "pronoun": "ihr",
+            "ending": "-t",
+            "example": "lernt",
+            "en": "you all learn",
+            "ar": "أنتم تتعلمون"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "ending": "-en",
+            "example": "lernen",
+            "en": "they/you (formal) learn",
+            "ar": "هم يتعلمون"
+          }
+        ],
+        "examples": [
+          {
+            "de": "Ich lerne Deutsch.",
+            "en": "I learn German.",
+            "ar": "أنا أتعلم الألمانية."
+          },
+          {
+            "de": "Du spielst Gitarre.",
+            "en": "You play guitar.",
+            "ar": "أنت تعزف الغيتار."
+          },
+          {
+            "de": "Er arbeitet viel.",
+            "en": "He works a lot.",
+            "ar": "هو يعمل كثيراً."
+          },
+          {
+            "de": "Wir wohnen in München.",
+            "en": "We live in Munich.",
+            "ar": "نحن نسكن في ميونيخ."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "Sie (wohnen) in Hamburg. → Sie ___ in Hamburg.",
+              "en": "Conjugate: Sie (wohnen) in Hamburg.",
+              "ar": "تصريف: Sie (wohnen) in Hamburg."
+            },
+            "correct": "wohnen",
+            "options": [
+              "wohne",
+              "wohnst",
+              "wohnt",
+              "wohnen"
+            ],
+            "explanation": {
+              "en": "For \"sie\" (they) or \"Sie\" (formal), the ending is -en: wohnen.",
+              "ar": "مع \"sie\" (هم) أو \"Sie\" (رسمي)، اللاحقة هي -en: wohnen."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-irregular-verbs",
+        "level": "A1",
+        "order": 10,
+        "title": {
+          "de": "Häufige unregelmäßige Verben",
+          "en": "Common Irregular Verbs",
+          "ar": "الأفعال الشائعة غير المنتظمة"
+        },
+        "explanation": {
+          "de": "Einige sehr häufige Verben sind unregelmäßig. Sie verändern den Stammvokal bei du und er/sie/es.",
+          "en": "Some very common German verbs are irregular — they change their stem vowel for \"du\" and \"er/sie/es\" forms. The most important ones at A1: fahren, laufen, schlafen, lesen, essen, sprechen, sehen.",
+          "ar": "بعض الأفعال الألمانية الشائعة جداً غير منتظمة — تغير حرف العلة في جذرها لصيغتَي \"du\" و\"er/sie/es\". الأهم عند مستوى A1: fahren وlaufen وschlafen وlesen وessen وsprechen وsehen."
+        },
+        "examples": [
+          {
+            "de": "Er fährt nach Berlin. (fahren → fährt)",
+            "en": "He drives to Berlin.",
+            "ar": "هو يسافر إلى برلين."
+          },
+          {
+            "de": "Sie liest ein Buch. (lesen → liest)",
+            "en": "She reads a book.",
+            "ar": "هي تقرأ كتاباً."
+          },
+          {
+            "de": "Du isst Pizza. (essen → isst)",
+            "en": "You eat pizza.",
+            "ar": "أنت تأكل بيتزا."
+          },
+          {
+            "de": "Er spricht Deutsch. (sprechen → spricht)",
+            "en": "He speaks German.",
+            "ar": "هو يتحدث الألمانية."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which form of \"lesen\" is correct for \"er\"?",
+              "ar": "ما الشكل الصحيح لـ\"lesen\" مع \"er\"؟"
+            },
+            "options": [
+              "leset",
+              "lesen",
+              "liest",
+              "lese"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "\"lesen\" is irregular: er liest (vowel change e→ie).",
+              "ar": "\"lesen\" غير منتظم: er liest (تغيير حرف العلة e→ie)."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-verb-position",
+        "level": "A1",
+        "order": 11,
+        "title": {
+          "de": "Verbstellung im Satz",
+          "en": "Verb Position in a Sentence",
+          "ar": "موضع الفعل في الجملة"
+        },
+        "explanation": {
+          "de": "Das Verb steht immer an der zweiten Position im Hauptsatz, egal was an erster Position steht.",
+          "en": "The conjugated verb ALWAYS occupies the SECOND POSITION in a German main clause. No matter what comes first (subject, time, place), the verb stays second. This is called the \"verb-second\" (V2) rule.",
+          "ar": "الفعل المتصرف يحتل دائماً المرتبة الثانية في الجملة الألمانية الرئيسية. بغض النظر عمّا يأتي أولاً (الفاعل أو الوقت أو المكان)، يبقى الفعل ثانياً. تُسمى هذه القاعدة \"V2\"."
+        },
+        "examples": [
+          {
+            "de": "Ich gehe heute ins Kino.",
+            "en": "I go to the cinema today.",
+            "ar": "أنا أذهب إلى السينما اليوم.",
+            "note": {
+              "en": "Normal order: Subject (1) + Verb (2)",
+              "ar": "الترتيب الطبيعي: الفاعل (1) + الفعل (2)"
+            }
+          },
+          {
+            "de": "Heute gehe ich ins Kino.",
+            "en": "Today I go to the cinema.",
+            "ar": "اليوم أذهب إلى السينما.",
+            "note": {
+              "en": "Time (1) + Verb (2) + Subject (3) — verb stays in position 2!",
+              "ar": "الوقت (1) + الفعل (2) + الفاعل (3) — الفعل يبقى في المرتبة الثانية!"
+            }
+          },
+          {
+            "de": "Ins Kino gehe ich heute.",
+            "en": "To the cinema, I go today.",
+            "ar": "إلى السينما أذهب اليوم.",
+            "note": {
+              "en": "Place (1) + Verb (2) — still V2!",
+              "ar": "المكان (1) + الفعل (2) — لا تزال V2!"
+            }
+          }
+        ],
+        "exercises": [
+          {
+            "type": "sentence_builder",
+            "instruction": {
+              "en": "Arrange correctly (verb must be in position 2).",
+              "ar": "رتّب بشكل صحيح (الفعل يجب أن يكون في المرتبة الثانية)."
+            },
+            "words": [
+              "Morgen",
+              "wir",
+              "nach",
+              "fahren",
+              "Berlin"
+            ],
+            "correct": "Morgen fahren wir nach Berlin.",
+            "explanation": {
+              "en": "\"Morgen\" (tomorrow) is in position 1, \"fahren\" must be in position 2.",
+              "ar": "\"Morgen\" (غداً) في المرتبة الأولى، \"fahren\" يجب أن يكون في المرتبة الثانية."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-modal-verbs",
+        "level": "A1",
+        "order": 12,
+        "title": {
+          "de": "Modalverben (Einführung)",
+          "en": "Modal Verbs (Introduction)",
+          "ar": "الأفعال الشرطية / المساعدة (مقدمة)"
+        },
+        "explanation": {
+          "de": "Modalverben drücken Fähigkeit, Wunsch, Erlaubnis oder Notwendigkeit aus. Die wichtigsten: können, wollen, müssen, dürfen, sollen, mögen.",
+          "en": "Modal verbs express ability, desire, permission, or necessity. They work with a second verb in the INFINITIVE at the END of the sentence. Key modals: können (can/be able), wollen (want), müssen (must/have to), dürfen (may/allowed to), sollen (should/supposed to), mögen (like).",
+          "ar": "الأفعال المساعدة تعبر عن القدرة والرغبة والإذن أو الضرورة. تعمل مع فعل ثانٍ بصيغة المصدر في نهاية الجملة. الأفعال الرئيسية: können (أستطيع)، wollen (أريد)، müssen (يجب)، dürfen (يُسمح)، sollen (من المفترض)، mögen (يعجبني)."
+        },
+        "examples": [
+          {
+            "de": "Ich kann Deutsch sprechen.",
+            "en": "I can speak German.",
+            "ar": "أستطيع التحدث بالألمانية."
+          },
+          {
+            "de": "Du musst jetzt lernen.",
+            "en": "You must study now.",
+            "ar": "يجب عليك الدراسة الآن."
+          },
+          {
+            "de": "Wir wollen Pizza essen.",
+            "en": "We want to eat pizza.",
+            "ar": "نحن نريد أكل البيتزا."
+          },
+          {
+            "de": "Er darf hier nicht rauchen.",
+            "en": "He is not allowed to smoke here.",
+            "ar": "لا يُسمح له بالتدخين هنا."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Where does the infinitive go with modal verbs?",
+              "ar": "أين يذهب المصدر مع الأفعال المساعدة؟"
+            },
+            "options": [
+              "At the beginning",
+              "After the modal verb",
+              "At the end of the sentence",
+              "Before the subject"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "With modal verbs, the infinitive always goes to the END: \"Ich kann Deutsch SPRECHEN.\"",
+              "ar": "مع الأفعال المساعدة، المصدر يذهب دائماً إلى النهاية: \"Ich kann Deutsch SPRECHEN.\""
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-der-die-das",
+        "level": "A1",
+        "order": 13,
+        "title": {
+          "de": "Artikel: der, die, das",
+          "en": "Articles: der, die, das (Grammatical Gender)",
+          "ar": "المقالات: der، die، das (الجنس النحوي)"
+        },
+        "explanation": {
+          "de": "Im Deutschen hat jedes Nomen ein grammatisches Geschlecht: maskulin (der), feminin (die) oder neutral (das).",
+          "en": "Every German noun has a grammatical gender: masculine (der), feminine (die), or neuter (das). This MUST be learned with every noun. There is no simple rule — memorize the article as part of the word.",
+          "ar": "كل اسم ألماني له جنس نحوي: مذكر (der) أو مؤنث (die) أو محايد (das). يجب تعلم الجنس مع كل اسم. لا توجد قاعدة بسيطة — احفظ المقالة كجزء من الكلمة. ملاحظة: الجنس النحوي في الألمانية لا يعني بالضرورة الجنس الحقيقي!"
+        },
+        "examples": [
+          {
+            "de": "der Mann (maskulin)",
+            "en": "the man (masculine)",
+            "ar": "الرجل (مذكر)"
+          },
+          {
+            "de": "die Frau (feminin)",
+            "en": "the woman (feminine)",
+            "ar": "المرأة (مؤنث)"
+          },
+          {
+            "de": "das Kind (neutral)",
+            "en": "the child (neuter)",
+            "ar": "الطفل (محايد)"
+          },
+          {
+            "de": "der Tisch (maskulin)",
+            "en": "the table (masculine) — not because it's \"male\"!",
+            "ar": "الطاولة (مذكر) — ليس لأنها \"ذكر\"!"
+          },
+          {
+            "de": "die Sonne (feminin)",
+            "en": "the sun (feminine)",
+            "ar": "الشمس (مؤنث)"
+          },
+          {
+            "de": "das Haus (neutral)",
+            "en": "the house (neuter)",
+            "ar": "المنزل (محايد)"
+          }
+        ],
+        "tips": [
+          {
+            "en": "Words ending in -ung, -heit, -keit are usually feminine (die)",
+            "ar": "الأسماء المنتهية بـ -ung أو -heit أو -keit عادةً مؤنثة (die)"
+          },
+          {
+            "en": "Words ending in -chen or -lein are always neuter (das)",
+            "ar": "الأسماء المنتهية بـ -chen أو -lein دائماً محايدة (das)"
+          },
+          {
+            "en": "Male persons are usually masculine (der)",
+            "ar": "الأشخاص الذكور عادةً مذكر (der)"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "article_battle",
+            "word": "Tisch",
+            "correct": "der",
+            "options": [
+              "der",
+              "die",
+              "das"
+            ],
+            "explanation": {
+              "en": "Tisch (table) is masculine: der Tisch.",
+              "ar": "Tisch (طاولة) مذكر: der Tisch."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-plural",
+        "level": "A1",
+        "order": 14,
+        "title": {
+          "de": "Pluralformen",
+          "en": "Plural Forms",
+          "ar": "صيغ الجمع"
+        },
+        "explanation": {
+          "de": "Der Plural im Deutschen ist komplex. Die häufigsten Endungen sind: -e, -en, -er, -(e)s, und kein Zusatz (mit Umlaut).",
+          "en": "German plural forms are complex and must be memorized with each noun. Common endings: -e (der Tisch → die Tische), -en (die Frau → die Frauen), -er (das Kind → die Kinder), -s (das Auto → die Autos), no ending (der Lehrer → die Lehrer). In the plural, the article is always \"die\".",
+          "ar": "صيغ الجمع في الألمانية معقدة ويجب حفظها مع كل اسم. اللاحقات الشائعة: -e (Tisch → Tische)، -en (Frau → Frauen)، -er (Kind → Kinder)، -s (Auto → Autos)، بدون لاحقة (Lehrer → Lehrer). في الجمع، المقالة دائماً \"die\"."
+        },
+        "examples": [
+          {
+            "de": "der Tisch → die Tische",
+            "en": "table → tables",
+            "ar": "طاولة → طاولات"
+          },
+          {
+            "de": "die Frau → die Frauen",
+            "en": "woman → women",
+            "ar": "امرأة → نساء"
+          },
+          {
+            "de": "das Kind → die Kinder",
+            "en": "child → children",
+            "ar": "طفل → أطفال"
+          },
+          {
+            "de": "das Auto → die Autos",
+            "en": "car → cars",
+            "ar": "سيارة → سيارات"
+          },
+          {
+            "de": "der Lehrer → die Lehrer",
+            "en": "teacher → teachers",
+            "ar": "معلم → معلمون"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "What is the plural article for ALL German nouns?",
+              "ar": "ما مقالة الجمع لجميع الأسماء الألمانية؟"
+            },
+            "options": [
+              "der",
+              "die",
+              "das",
+              "den"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "All German nouns use \"die\" in the plural, regardless of their singular gender.",
+              "ar": "جميع الأسماء الألمانية تستخدم \"die\" في الجمع، بغض النظر عن جنسها المفرد."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-nominativ",
+        "level": "A1",
+        "order": 15,
+        "title": {
+          "de": "Nominativ",
+          "en": "The Nominative Case",
+          "ar": "حالة الرفع (Nominativ)"
+        },
+        "explanation": {
+          "de": "Der Nominativ ist der Fall des Subjekts — die Person oder Sache, die etwas tut.",
+          "en": "The Nominative case marks the SUBJECT of the sentence — the person or thing doing the action. The articles are: der (m), die (f), das (n), die (pl). This is the \"dictionary form\" of German nouns.",
+          "ar": "حالة الرفع (Nominativ) تُحدد الفاعل في الجملة — الشخص أو الشيء الذي يقوم بالفعل. المقالات: der (مذكر)، die (مؤنث)، das (محايد)، die (جمع). هذا هو الشكل الأساسي للأسماء في القاموس."
+        },
+        "caseTable": {
+          "masculine": {
+            "nominativ": "der",
+            "akkusativ": "den",
+            "dativ": "dem",
+            "genitiv": "des"
+          },
+          "feminine": {
+            "nominativ": "die",
+            "akkusativ": "die",
+            "dativ": "der",
+            "genitiv": "der"
+          },
+          "neuter": {
+            "nominativ": "das",
+            "akkusativ": "das",
+            "dativ": "dem",
+            "genitiv": "des"
+          },
+          "plural": {
+            "nominativ": "die",
+            "akkusativ": "die",
+            "dativ": "den",
+            "genitiv": "der"
+          }
+        },
+        "examples": [
+          {
+            "de": "Der Mann ist nett.",
+            "en": "The man is nice.",
+            "ar": "الرجل لطيف.",
+            "note": {
+              "en": "\"Der Mann\" = subject (Nominative)",
+              "ar": "\"Der Mann\" = الفاعل (حالة الرفع)"
+            }
+          },
+          {
+            "de": "Die Frau liest ein Buch.",
+            "en": "The woman reads a book.",
+            "ar": "المرأة تقرأ كتاباً.",
+            "note": {
+              "en": "\"Die Frau\" = subject (Nominative)",
+              "ar": "\"Die Frau\" = الفاعل (حالة الرفع)"
+            }
+          },
+          {
+            "de": "Das Kind schläft.",
+            "en": "The child is sleeping.",
+            "ar": "الطفل نائم."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "case_detective",
+            "sentence": {
+              "de": "Die Katze schläft auf dem Sofa.",
+              "en": "The cat sleeps on the sofa.",
+              "ar": "القطة تنام على الأريكة."
+            },
+            "question": {
+              "en": "What case is \"Die Katze\" in?",
+              "ar": "ما حالة \"Die Katze\"؟"
+            },
+            "options": [
+              "Nominativ",
+              "Akkusativ",
+              "Dativ",
+              "Genitiv"
+            ],
+            "correct": 0,
+            "explanation": {
+              "en": "\"Die Katze\" is the subject doing the sleeping → Nominative case.",
+              "ar": "\"Die Katze\" هي الفاعل الذي ينام → حالة الرفع."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-akkusativ",
+        "level": "A1",
+        "order": 16,
+        "title": {
+          "de": "Akkusativ",
+          "en": "The Accusative Case",
+          "ar": "حالة النصب (Akkusativ)"
+        },
+        "explanation": {
+          "de": "Der Akkusativ markiert das direkte Objekt — die Person oder Sache, die die Handlung empfängt. Nur der maskuline Artikel ändert sich: der → den.",
+          "en": "The Accusative case marks the DIRECT OBJECT — the person or thing receiving the action. Good news: only the MASCULINE article changes: der → den. Feminine, neuter, and plural stay the same as Nominative.",
+          "ar": "حالة النصب (Akkusativ) تُحدد المفعول به المباشر — الشخص أو الشيء الذي يتلقى الفعل. الخبر الجيد: فقط المذكر يتغير: der → den. المؤنث والمحايد والجمع تبقى كما في حالة الرفع."
+        },
+        "examples": [
+          {
+            "de": "Ich sehe den Mann.",
+            "en": "I see the man.",
+            "ar": "أنا أرى الرجل.",
+            "note": {
+              "en": "\"den Mann\" = direct object (Accusative). der → den for masculine!",
+              "ar": "\"den Mann\" = المفعول به المباشر (حالة النصب). der → den للمذكر!"
+            }
+          },
+          {
+            "de": "Er kauft die Zeitung.",
+            "en": "He buys the newspaper.",
+            "ar": "هو يشتري الجريدة.",
+            "note": {
+              "en": "\"die Zeitung\" = Accusative feminine (no change!)",
+              "ar": "\"die Zeitung\" = مؤنث في حالة النصب (لا تغيير!)"
+            }
+          },
+          {
+            "de": "Sie hat das Buch.",
+            "en": "She has the book.",
+            "ar": "هي لديها الكتاب.",
+            "note": {
+              "en": "\"das Buch\" = Accusative neuter (no change!)",
+              "ar": "\"das Buch\" = محايد في حالة النصب (لا تغيير!)"
+            }
+          },
+          {
+            "de": "Ich habe einen Hund.",
+            "en": "I have a dog.",
+            "ar": "لدي كلب.",
+            "note": {
+              "en": "\"einen Hund\" — ein → einen for masculine Accusative",
+              "ar": "\"einen Hund\" — ein → einen للمذكر في حالة النصب"
+            }
+          }
+        ],
+        "exercises": [
+          {
+            "type": "case_detective",
+            "sentence": {
+              "de": "Der Mann sieht den Hund.",
+              "en": "The man sees the dog.",
+              "ar": "الرجل يرى الكلب."
+            },
+            "question": {
+              "en": "Why is it \"den Hund\" and not \"der Hund\"?",
+              "ar": "لماذا \"den Hund\" وليس \"der Hund\"؟"
+            },
+            "options": [
+              "Because Hund is feminine",
+              "Because Hund is the direct object (Accusative)",
+              "Because Hund is plural",
+              "Random rule"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "\"Hund\" is the direct object (receiving the action of seeing) → Accusative → der → den.",
+              "ar": "\"Hund\" هو المفعول به المباشر (يتلقى فعل الرؤية) → حالة النصب → der → den."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-articles",
+        "level": "A1",
+        "order": 17,
+        "title": {
+          "de": "Bestimmte & unbestimmte Artikel",
+          "en": "Definite & Indefinite Articles",
+          "ar": "المقالة المعرفة والنكرة"
+        },
+        "explanation": {
+          "de": "Bestimmte Artikel: der/die/das (the). Unbestimmte Artikel: ein/eine/ein (a/an).",
+          "en": "Definite articles (the): der (m), die (f), das (n). Indefinite articles (a/an): ein (m), eine (f), ein (n). Note: feminine indefinite \"eine\" is different from masculine/neuter \"ein\".",
+          "ar": "المقالات المعرفة (الـ): der (مذكر)، die (مؤنث)، das (محايد). المقالات النكرة (a/an): ein (مذكر)، eine (مؤنث)، ein (محايد). ملاحظة: المؤنث eine يختلف عن المذكر/المحايد ein."
+        },
+        "examples": [
+          {
+            "de": "der Hund → ein Hund",
+            "en": "the dog → a dog",
+            "ar": "الكلب → كلب"
+          },
+          {
+            "de": "die Katze → eine Katze",
+            "en": "the cat → a cat",
+            "ar": "القطة → قطة"
+          },
+          {
+            "de": "das Haus → ein Haus",
+            "en": "the house → a house",
+            "ar": "المنزل → منزل"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "Das ist ___ Buch. (neuter)",
+              "en": "Fill in the indefinite article for a neuter noun.",
+              "ar": "أكمل بالمقالة النكرة للاسم المحايد."
+            },
+            "correct": "ein",
+            "options": [
+              "der",
+              "die",
+              "ein",
+              "eine"
+            ],
+            "explanation": {
+              "en": "Neuter nouns use \"ein\" for the indefinite article.",
+              "ar": "الأسماء المحايدة تستخدم \"ein\" للمقالة النكرة."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-negation",
+        "level": "A1",
+        "order": 18,
+        "title": {
+          "de": "Verneinung: nicht & kein",
+          "en": "Negation: nicht & kein",
+          "ar": "النفي: nicht و kein"
+        },
+        "explanation": {
+          "de": "\"Nicht\" verneint Verben, Adjektive und Adverbien. \"Kein\" verneint Nomen mit unbestimmtem Artikel.",
+          "en": "\"Nicht\" negates verbs, adjectives, and adverbs. \"Kein\" negates nouns (replaces ein/eine/ein in negative sentences). Think: \"kein\" = not a / no.",
+          "ar": "\"Nicht\" ينفي الأفعال والصفات والظروف. \"Kein\" ينفي الأسماء (يحل محل ein/eine/ein في الجمل المنفية). فكّر: \"kein\" = لا / لا يوجد."
+        },
+        "examples": [
+          {
+            "de": "Ich bin nicht müde.",
+            "en": "I am not tired.",
+            "ar": "أنا لست متعباً."
+          },
+          {
+            "de": "Er kommt nicht.",
+            "en": "He is not coming.",
+            "ar": "هو لن يأتي."
+          },
+          {
+            "de": "Ich habe kein Auto.",
+            "en": "I have no car. / I don't have a car.",
+            "ar": "لا أملك سيارة."
+          },
+          {
+            "de": "Sie hat keine Zeit.",
+            "en": "She has no time.",
+            "ar": "ليس لديها وقت."
+          },
+          {
+            "de": "Das ist kein Hund — das ist eine Katze!",
+            "en": "That is not a dog — that is a cat!",
+            "ar": "هذا ليس كلباً — هذه قطة!"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "How do you say \"I don't have a sister\" in German?",
+              "ar": "كيف تقول \"ليس لدي أخت\" بالألمانية؟"
+            },
+            "options": [
+              "Ich habe nicht eine Schwester.",
+              "Ich habe keine Schwester.",
+              "Ich habe kein Schwester.",
+              "Nicht ich habe Schwester."
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Use \"kein/keine\" to negate a noun. \"Schwester\" is feminine → \"keine Schwester\".",
+              "ar": "استخدم \"kein/keine\" لنفي الاسم. \"Schwester\" مؤنث → \"keine Schwester\"."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-possessives",
+        "level": "A1",
+        "order": 19,
+        "title": {
+          "de": "Possessivartikel",
+          "en": "Possessive Articles",
+          "ar": "مقالات الملكية"
+        },
+        "explanation": {
+          "de": "Possessivartikel zeigen, wem etwas gehört: mein, dein, sein, ihr, unser, euer, ihr/Ihr.",
+          "en": "Possessive articles show ownership. They work like \"kein\" — they take the same endings as ein/eine/ein: mein (my), dein (your-inf), sein (his), ihr (her), unser (our), euer (your-pl), ihr/Ihr (their/your-formal).",
+          "ar": "مقالات الملكية تُظهر الملكية. تعمل مثل \"kein\" — تأخذ نفس لاحقات ein/eine/ein: mein (ملكي)، dein (ملكك - غير رسمي)، sein (ملكه)، ihr (ملكها)، unser (ملكنا)، euer (ملككم)، ihr/Ihr (ملكهم / ملك حضرتك)."
+        },
+        "examples": [
+          {
+            "de": "mein Bruder (m)",
+            "en": "my brother",
+            "ar": "أخي"
+          },
+          {
+            "de": "meine Schwester (f)",
+            "en": "my sister",
+            "ar": "أختي"
+          },
+          {
+            "de": "mein Haus (n)",
+            "en": "my house",
+            "ar": "بيتي"
+          },
+          {
+            "de": "sein Auto",
+            "en": "his car",
+            "ar": "سيارته"
+          },
+          {
+            "de": "ihr Kind",
+            "en": "her child",
+            "ar": "طفلها"
+          },
+          {
+            "de": "Ist das dein Hund?",
+            "en": "Is that your dog?",
+            "ar": "هل هذا كلبك؟"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "Das ist ___ (mein) Buch. (neuter)",
+              "en": "My book (neuter noun)",
+              "ar": "كتابي (اسم محايد)"
+            },
+            "correct": "mein",
+            "options": [
+              "mein",
+              "meine",
+              "meiner",
+              "meinen"
+            ],
+            "explanation": {
+              "en": "\"Buch\" is neuter → \"mein Buch\" (no -e ending for neuter Nominative).",
+              "ar": "\"Buch\" محايد → \"mein Buch\" (لا لاحقة -e للمحايد في حالة الرفع)."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-adjectives",
+        "level": "A1",
+        "order": 20,
+        "title": {
+          "de": "Adjektive (Grundform)",
+          "en": "Adjectives (Basic Form)",
+          "ar": "الصفات (الشكل الأساسي)"
+        },
+        "explanation": {
+          "de": "Nach dem Verb \"sein\" bleiben Adjektive unverändert. Das nennt man prädikativ.",
+          "en": "Adjectives used AFTER \"sein\" (predicative) have NO endings — they stay in their base form. This is easier than attributive adjectives (before a noun), which take endings (covered in A2/B1).",
+          "ar": "الصفات التي تأتي بعد الفعل \"sein\" لا تأخذ لاحقات — تبقى في شكلها الأساسي. هذا أسهل من الصفات الوصفية (قبل الاسم) التي تأخذ لاحقات (ستُدرَّس في A2/B1)."
+        },
+        "examples": [
+          {
+            "de": "Der Mann ist alt.",
+            "en": "The man is old.",
+            "ar": "الرجل عجوز."
+          },
+          {
+            "de": "Die Frau ist jung.",
+            "en": "The woman is young.",
+            "ar": "المرأة شابة."
+          },
+          {
+            "de": "Das Haus ist groß.",
+            "en": "The house is big.",
+            "ar": "المنزل كبير."
+          },
+          {
+            "de": "Die Kinder sind laut.",
+            "en": "The children are loud.",
+            "ar": "الأطفال صاخبون."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "What is the correct form: \"Die Katze ist ___\" (cute)?",
+              "ar": "ما الشكل الصحيح: \"Die Katze ist ___\" (لطيف/ة)؟"
+            },
+            "options": [
+              "süße",
+              "süßen",
+              "süß",
+              "süßer"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "After \"sein\", adjectives take NO ending: \"Die Katze ist süß.\"",
+              "ar": "بعد \"sein\"، الصفات لا تأخذ لاحقة: \"Die Katze ist süß.\""
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-prepositions",
+        "level": "A1",
+        "order": 21,
+        "title": {
+          "de": "Grundlegende Präpositionen",
+          "en": "Basic Prepositions",
+          "ar": "حروف الجر الأساسية"
+        },
+        "explanation": {
+          "de": "Präpositionen zeigen Beziehungen zwischen Wörtern. Manche stehen mit Akkusativ, manche mit Dativ.",
+          "en": "Prepositions show relationships (location, direction, time). Important: each German preposition requires a specific case. At A1, focus on: in (in/into), auf (on), mit (with), zu (to), von (from/of), aus (from/out of), bei (at/near), nach (after/to-cities), für (for), durch (through), um (around/at time).",
+          "ar": "حروف الجر تُظهر العلاقات (المكان، الاتجاه، الوقت). مهم: كل حرف جر ألماني يتطلب حالة إعرابية محددة. في المستوى A1، ركّز على: in، auf، mit، zu، von، aus، bei، nach، für، durch، um."
+        },
+        "examples": [
+          {
+            "de": "Ich bin in Berlin.",
+            "en": "I am in Berlin.",
+            "ar": "أنا في برلين."
+          },
+          {
+            "de": "Das Buch ist auf dem Tisch.",
+            "en": "The book is on the table.",
+            "ar": "الكتاب على الطاولة."
+          },
+          {
+            "de": "Ich fahre mit dem Bus.",
+            "en": "I travel by bus.",
+            "ar": "أنا أسافر بالحافلة."
+          },
+          {
+            "de": "Das ist für dich.",
+            "en": "That is for you.",
+            "ar": "هذا لك."
+          },
+          {
+            "de": "Ich komme aus Ägypten.",
+            "en": "I come from Egypt.",
+            "ar": "أنا من مصر."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "Das Buch ist ___ dem Tisch. (on the table)",
+              "en": "The book is ___ the table.",
+              "ar": "الكتاب ___ الطاولة."
+            },
+            "correct": "auf",
+            "options": [
+              "in",
+              "auf",
+              "mit",
+              "von"
+            ],
+            "explanation": {
+              "en": "\"auf\" means \"on\" (for surfaces): Das Buch ist auf dem Tisch.",
+              "ar": "\"auf\" تعني \"على\" (للأسطح): Das Buch ist auf dem Tisch."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-imperative",
+        "level": "A1",
+        "order": 22,
+        "title": {
+          "de": "Imperativ",
+          "en": "Imperative (Commands)",
+          "ar": "صيغة الأمر"
+        },
+        "explanation": {
+          "de": "Der Imperativ drückt Aufforderungen und Befehle aus. Es gibt drei Formen: du, ihr, Sie.",
+          "en": "The imperative is used for commands and requests. Three forms: informal singular (du-form, drop the \"du\" and often the -st ending), informal plural (ihr-form, same as ihr conjugation without \"ihr\"), formal (Sie-form = infinitive + Sie).",
+          "ar": "صيغة الأمر تُستخدم للأوامر والطلبات. ثلاثة أشكال: غير رسمي مفرد (صيغة du، بدون \"du\" وغالباً بدون لاحقة -st)، غير رسمي جمع (صيغة ihr بدون \"ihr\")، رسمي (مصدر + Sie)."
+        },
+        "examples": [
+          {
+            "de": "Komm her! (du)",
+            "en": "Come here! (informal singular)",
+            "ar": "تعال هنا! (غير رسمي مفرد)"
+          },
+          {
+            "de": "Kommt her! (ihr)",
+            "en": "Come here! (informal plural)",
+            "ar": "تعالوا هنا! (غير رسمي جمع)"
+          },
+          {
+            "de": "Kommen Sie her! (Sie)",
+            "en": "Come here! (formal)",
+            "ar": "تفضل/تفضلي هنا! (رسمي)"
+          },
+          {
+            "de": "Bitte sprechen Sie langsam!",
+            "en": "Please speak slowly! (formal)",
+            "ar": "من فضلك تحدث ببطء! (رسمي)"
+          },
+          {
+            "de": "Lern jeden Tag!",
+            "en": "Study every day!",
+            "ar": "ادرس كل يوم!"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "How do you say \"Drink water!\" informally (singular)?",
+              "ar": "كيف تقول \"اشرب ماءً!\" بشكل غير رسمي (مفرد)؟"
+            },
+            "options": [
+              "Trinken Sie Wasser!",
+              "Trinkt Wasser!",
+              "Trink Wasser!",
+              "Trinke du Wasser!"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "Informal singular imperative of \"trinken\": drop \"du\" and -st → \"Trink!\"",
+              "ar": "صيغة الأمر غير الرسمية المفردة لـ\"trinken\": احذف \"du\" واللاحقة -st → \"Trink!\""
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-numbers",
+        "level": "A1",
+        "order": 23,
+        "title": {
+          "de": "Zahlen",
+          "en": "Numbers",
+          "ar": "الأرقام"
+        },
+        "explanation": {
+          "de": "Grundzahlen: 0–100 und darüber hinaus.",
+          "en": "German numbers follow a logical pattern. 1–12 must be memorized. 13–19 end in -zehn. 20, 30, 40... end in -zig. For 21–99: ones before tens with \"und\" (einundzwanzig = 21). Hundreds: hundert. Thousands: tausend.",
+          "ar": "الأرقام الألمانية تتبع نمطاً منطقياً. 1-12 يجب حفظها. 13-19 تنتهي بـ-zehn. 20، 30، 40... تنتهي بـ-zig. من 21-99: الآحاد قبل العشرات مع \"und\" (einundzwanzig = 21). المئات: hundert. الآلاف: tausend."
+        },
+        "examples": [
+          {
+            "de": "1 – eins, 2 – zwei, 3 – drei, 4 – vier, 5 – fünf",
+            "en": "1-5",
+            "ar": "١-٥"
+          },
+          {
+            "de": "6 – sechs, 7 – sieben, 8 – acht, 9 – neun, 10 – zehn",
+            "en": "6-10",
+            "ar": "٦-١٠"
+          },
+          {
+            "de": "11 – elf, 12 – zwölf, 13 – dreizehn, 20 – zwanzig",
+            "en": "11, 12, 13, 20",
+            "ar": "١١، ١٢، ١٣، ٢٠"
+          },
+          {
+            "de": "21 – einundzwanzig",
+            "en": "21 = one-and-twenty",
+            "ar": "٢١ = واحد وعشرون"
+          },
+          {
+            "de": "100 – hundert, 1000 – tausend",
+            "en": "100, 1000",
+            "ar": "١٠٠، ١٠٠٠"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "How do you say \"25\" in German?",
+              "ar": "كيف تقول \"٢٥\" بالألمانية؟"
+            },
+            "options": [
+              "zwanzigfünf",
+              "fünfundzwanzig",
+              "zwanzigfünfzig",
+              "fünfzehnzig"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "German puts ones before tens: fünf + und + zwanzig = fünfundzwanzig.",
+              "ar": "الألمانية تضع الآحاد قبل العشرات: fünf + und + zwanzig = fünfundzwanzig."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-time",
+        "level": "A1",
+        "order": 24,
+        "title": {
+          "de": "Zeitausdrücke",
+          "en": "Time Expressions",
+          "ar": "تعبيرات الوقت"
+        },
+        "explanation": {
+          "de": "Wichtige Zeitausdrücke: heute, morgen, gestern, jetzt, immer, oft, manchmal, nie.",
+          "en": "Key time expressions: heute (today), morgen (tomorrow), gestern (yesterday), jetzt (now), immer (always), oft (often), manchmal (sometimes), nie (never), früh (early), spät (late). Telling time: Es ist [number] Uhr.",
+          "ar": "تعبيرات الوقت الرئيسية: heute (اليوم)، morgen (غداً)، gestern (أمس)، jetzt (الآن)، immer (دائماً)، oft (كثيراً)، manchmal (أحياناً)، nie (أبداً)، früh (مبكراً)، spät (متأخراً). قول الوقت: Es ist [رقم] Uhr."
+        },
+        "examples": [
+          {
+            "de": "Es ist zehn Uhr.",
+            "en": "It is ten o'clock.",
+            "ar": "الساعة عشرة."
+          },
+          {
+            "de": "Ich lerne jeden Tag.",
+            "en": "I study every day.",
+            "ar": "أنا أدرس كل يوم."
+          },
+          {
+            "de": "Manchmal gehe ich ins Kino.",
+            "en": "Sometimes I go to the cinema.",
+            "ar": "أحياناً أذهب إلى السينما."
+          },
+          {
+            "de": "Morgen kommt sie.",
+            "en": "She is coming tomorrow.",
+            "ar": "هي ستأتي غداً."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "How do you say \"always\" in German?",
+              "ar": "كيف تقول \"دائماً\" بالألمانية؟"
+            },
+            "options": [
+              "manchmal",
+              "nie",
+              "immer",
+              "oft"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "\"immer\" = always, \"manchmal\" = sometimes, \"nie\" = never, \"oft\" = often.",
+              "ar": "\"immer\" = دائماً، \"manchmal\" = أحياناً، \"nie\" = أبداً، \"oft\" = كثيراً."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-conjunctions",
+        "level": "A1",
+        "order": 25,
+        "title": {
+          "de": "Einfache Konjunktionen",
+          "en": "Simple Conjunctions",
+          "ar": "حروف العطف البسيطة"
+        },
+        "explanation": {
+          "de": "Koordinierende Konjunktionen verbinden Hauptsätze: und, oder, aber, denn, sondern.",
+          "en": "Coordinating conjunctions connect main clauses and do NOT change word order: und (and), oder (or), aber (but), denn (because/for), sondern (but rather). These are called \"zero-position\" conjunctions.",
+          "ar": "حروف العطف التنسيقية تربط الجمل الرئيسية ولا تغير ترتيب الكلمات: und (و)، oder (أو)، aber (لكن)، denn (لأن)، sondern (بل). تُسمى \"حروف المرتبة الصفرية\"."
+        },
+        "examples": [
+          {
+            "de": "Ich trinke Kaffee und sie trinkt Tee.",
+            "en": "I drink coffee and she drinks tea.",
+            "ar": "أنا أشرب القهوة وهي تشرب الشاي."
+          },
+          {
+            "de": "Kommst du mit oder bleibst du?",
+            "en": "Are you coming along or staying?",
+            "ar": "هل ستأتي معنا أم ستبقى؟"
+          },
+          {
+            "de": "Ich bin müde, aber ich lerne.",
+            "en": "I am tired, but I am studying.",
+            "ar": "أنا متعب، لكنني أدرس."
+          },
+          {
+            "de": "Er bleibt zu Hause, denn er ist krank.",
+            "en": "He stays at home because he is sick.",
+            "ar": "يبقى في المنزل لأنه مريض."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "sentence": {
+              "de": "Ich lerne Deutsch ___ es macht Spaß. (because)",
+              "en": "I learn German ___ it is fun.",
+              "ar": "أتعلم الألمانية ___ إنه ممتع."
+            },
+            "correct": "denn",
+            "options": [
+              "und",
+              "oder",
+              "aber",
+              "denn"
+            ],
+            "explanation": {
+              "en": "\"denn\" = because/for (in coordinating position, does not change word order).",
+              "ar": "\"denn\" = لأن (في موضع التنسيق، لا يغير ترتيب الكلمات)."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-noun-capitalization",
+        "level": "A1",
+        "order": 26,
+        "title": {
+          "de": "Großschreibung von Nomen",
+          "en": "Noun Capitalization",
+          "ar": "كتابة الأسماء بحرف كبير"
+        },
+        "explanation": {
+          "de": "Alle deutschen Nomen werden großgeschrieben. Immer. Das ist eine der wichtigsten Regeln!",
+          "en": "ALL German nouns are ALWAYS capitalized — not just proper nouns like names and places, but every single common noun too. This is unique to German among major European languages.",
+          "ar": "جميع الأسماء الألمانية تُكتب دائماً بحرف كبير — ليس فقط أسماء الأعلام مثل الأسماء والأماكن، بل كل اسم عادي أيضاً. هذه ميزة فريدة للألمانية بين اللغات الأوروبية الكبرى."
+        },
+        "examples": [
+          {
+            "de": "Das Buch ist interessant.",
+            "en": "The book is interesting. (Buch = capitalized)",
+            "ar": "الكتاب مثير للاهتمام. (Buch = بحرف كبير)"
+          },
+          {
+            "de": "Ich habe einen Hund.",
+            "en": "I have a dog. (Hund = capitalized)",
+            "ar": "لدي كلب. (Hund = بحرف كبير)"
+          },
+          {
+            "de": "Wir essen Brot und Käse.",
+            "en": "We eat bread and cheese. (Brot, Käse = capitalized)",
+            "ar": "نحن نأكل الخبز والجبن. (Brot, Käse = بحرف كبير)"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which sentence is correctly written?",
+              "ar": "أي جملة مكتوبة بشكل صحيح؟"
+            },
+            "options": [
+              "ich habe ein buch.",
+              "Ich habe ein Buch.",
+              "Ich Habe ein Buch.",
+              "ich habe ein Buch."
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "\"Ich\" is capitalized because it's the first word, \"Buch\" is capitalized because it's a noun.",
+              "ar": "\"Ich\" بحرف كبير لأنه أول كلمة في الجملة، \"Buch\" بحرف كبير لأنه اسم."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1-separable-verbs",
+        "level": "A1",
+        "order": 27,
+        "title": {
+          "de": "Trennbare Verben (Einführung)",
+          "en": "Separable Verbs (Introduction)",
+          "ar": "الأفعال القابلة للفصل (مقدمة)"
+        },
+        "explanation": {
+          "de": "Trennbare Verben haben ein Präfix, das bei der Konjugation ans Ende des Satzes geht.",
+          "en": "Separable verbs have a prefix that DETACHES and goes to the END of the sentence when the verb is conjugated. Common separable prefixes: auf-, an-, ab-, mit-, ein-, aus-, zu-, vor-. Example: aufstehen (to get up) → Ich stehe auf.",
+          "ar": "الأفعال القابلة للفصل لها بادئة تنفصل وتذهب إلى نهاية الجملة عند تصريف الفعل. البادئات الشائعة: auf-، an-، ab-، mit-، ein-، aus-، zu-، vor-. مثال: aufstehen (ينهض) → Ich stehe auf."
+        },
+        "examples": [
+          {
+            "de": "aufstehen → Ich stehe um 7 Uhr auf.",
+            "en": "to get up → I get up at 7 o'clock.",
+            "ar": "ينهض من النوم → أنا أنهض من النوم الساعة السابعة."
+          },
+          {
+            "de": "anrufen → Sie ruft ihren Freund an.",
+            "en": "to call → She calls her friend.",
+            "ar": "يتصل → هي تتصل بصديقها."
+          },
+          {
+            "de": "einkaufen → Wir kaufen heute ein.",
+            "en": "to go shopping → We go shopping today.",
+            "ar": "يتسوق → نحن نتسوق اليوم."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "sentence_builder",
+            "instruction": {
+              "en": "Place the separable prefix correctly.",
+              "ar": "ضع البادئة المنفصلة في المكان الصحيح."
+            },
+            "words": [
+              "Ich",
+              "stehe",
+              "um",
+              "6",
+              "Uhr",
+              "auf"
+            ],
+            "correct": "Ich stehe um 6 Uhr auf.",
+            "explanation": {
+              "en": "The prefix \"auf\" from \"aufstehen\" goes to the END of the sentence.",
+              "ar": "البادئة \"auf\" من \"aufstehen\" تذهب إلى نهاية الجملة."
+            }
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "a2-dativ",
+        "level": "A2",
+        "order": 1,
+        "title": {
+          "de": "Dativ (Der Dativfall)",
+          "en": "The Dative Case",
+          "ar": "حالة الجر (Dativ)"
+        },
+        "explanation": {
+          "de": "Der Dativ antwortet auf die Frage: Wem? Er zeigt den Empfänger oder Nutznießer einer Handlung.",
+          "en": "The Dative case indicates the indirect object (recipient/beneficiary) and answers the question \"Wem?\" (To whom?). Articles change: der→dem, das→dem, die→der, die(pl)→den (+n on noun).",
+          "ar": "حالة الجر Dativ تُعبر عن المفعول به غير المباشر (المستفيد أو المتلقي) وتجيب عن سؤال \"إلى مَن؟\" (Wem?). تتغير أدوات التعريف: der→dem, das→dem, die→der, die(الجمع)→den مع إضافة n للاسم."
+        },
+        "examples": [
+          {
+            "de": "Ich gebe dem Mann das Buch.",
+            "en": "I give the book to the man.",
+            "ar": "أنا أعطي الكتاب للرجل."
+          },
+          {
+            "de": "Sie hilft der Frau.",
+            "en": "She helps the woman.",
+            "ar": "هي تساعد المرأة."
+          },
+          {
+            "de": "Wir antworten den Kindern.",
+            "en": "We answer the children.",
+            "ar": "نحن نرد على الأطفال."
+          }
+        ],
+        "grammarTerms": [
+          {
+            "de": "Indirektes Objekt",
+            "en": "Indirect Object",
+            "ar": "المفعول به غير المباشر"
+          },
+          {
+            "de": "Dativergänzung",
+            "en": "Dative complement",
+            "ar": "مكمل حالة الجر"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which article replaces \"der Mann\" in Dative?",
+              "ar": "ما هي أداة التعريف لـ der Mann في حالة Dativ؟"
+            },
+            "options": [
+              "den Mann",
+              "dem Mann",
+              "des Mannes",
+              "der Mann"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Masculine \"der\" changes to \"dem\" in the Dative case.",
+              "ar": "المذكر der يتحول إلى dem في حالة Dativ."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2-two-way-preps",
+        "level": "A2",
+        "order": 2,
+        "title": {
+          "de": "Wechselpräpositionen (an, auf, in...)",
+          "en": "Two-Way Prepositions",
+          "ar": "حروف الجر ذات الاتجاهين"
+        },
+        "explanation": {
+          "de": "Wechselpräpositionen verlangen Akkusativ bei Bewegung (Wohin?) und Dativ bei Position (Wo?).",
+          "en": "9 Prepositions (an, auf, hinter, in, neben, über, unter, vor, zwischen) take Akkusativ for movement/destination (\"Wohin?\"), and Dativ for static location (\"Wo?\").",
+          "ar": "٩ حروف جر (an, auf, hinter, in, neben, über, unter, vor, zwischen) تأخذ حالة النصب Akkusativ عند الحركة وتغيير المكان (\"إلى أين؟ Wohin?\")، وتأخذ حالة الجر Dativ عند الثبات والموقع الساكن (\"أين؟ Wo?\")."
+        },
+        "examples": [
+          {
+            "de": "Ich stelle das Glas auf den Tisch. (Wohin? → Akk)",
+            "en": "I put the glass onto the table.",
+            "ar": "أضع الكوب على الطاولة (حركة → Akkusativ)."
+          },
+          {
+            "de": "Das Glas steht auf dem Tisch. (Wo? → Dat)",
+            "en": "The glass is standing on the table.",
+            "ar": "الكوب موجود فوق الطاولة (ثبات → Dativ)."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "\"Ich gehe in ___ Park.\" (Movement: Wohin?)",
+              "ar": "\"Ich gehe in ___ Park.\" (حركة: Wohin?)"
+            },
+            "options": [
+              "dem",
+              "den",
+              "der",
+              "das"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Movement towards a destination (Wohin?) requires Akkusativ: in + den = in den.",
+              "ar": "الحركة إلى وجهة معينة تتطلب Akkusativ: in + den = in den."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2-perfekt",
+        "level": "A2",
+        "order": 3,
+        "title": {
+          "de": "Perfekt mit haben & sein",
+          "en": "Present Perfect Tense",
+          "ar": "الماضي التام (Perfekt)"
+        },
+        "explanation": {
+          "de": "Das Perfekt wird mit haben oder sein + Partizip II am Satzende gebildet. Sein wird bei Orts- oder Zustandswechsel verwendet.",
+          "en": "Perfekt = conjugated auxiliary (haben or sein in position 2) + Partizip II (ge-...-t or irregular) at the very END. \"sein\" is used for verbs of movement (gehen, fahren) or change of state (aufwachen, sterben).",
+          "ar": "الماضي التام Perfekt = الفعل المساعد (haben أو sein في المرتبة 2) + اسم المفعول Partizip II في نهاية الجملة تماماً. نستخدم sein مع أفعال الانتقال والحركة أو تغير الحالة."
+        },
+        "examples": [
+          {
+            "de": "Ich habe einen Kaffee getrunken.",
+            "en": "I drank / have drunk a coffee.",
+            "ar": "شربتُ قهوة."
+          },
+          {
+            "de": "Er ist nach Berlin gefahren.",
+            "en": "He traveled to Berlin.",
+            "ar": "هو سافر إلى برلين (حركة → sein)."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which auxiliary verb does \"aufstehen\" (to wake up/get up) take in Perfekt?",
+              "ar": "ما هو الفعل المساعد لـ aufstehen في زمن الماضي Perfekt؟"
+            },
+            "options": [
+              "haben",
+              "sein",
+              "werden",
+              "tun"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Change of physical state / posture uses \"sein\": \"Ich bin aufgestanden\".",
+              "ar": "تغير الحالة والنهوض يأخذ sein: Ich bin aufgestanden."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2-weil-dass-wenn",
+        "level": "A2",
+        "order": 4,
+        "title": {
+          "de": "Nebensätze: weil, dass, wenn",
+          "en": "Subordinate Clauses: weil, dass, wenn",
+          "ar": "الجمل الجانبية: weil, dass, wenn"
+        },
+        "explanation": {
+          "de": "Subjunktionen wie weil, dass und wenn schicken das konjugierte Verb an das absolute Satzende.",
+          "en": "Subordinating conjunctions (weil = because, dass = that, wenn = if/when) kick the conjugated verb to the absolute END of the subordinate clause.",
+          "ar": "حروف العطف التابعة (weil = لأن، dass = أن، wenn = إذا/عندما) تدفع الفعل المصرف إلى نهاية الجملة الجانبية تماماً."
+        },
+        "examples": [
+          {
+            "de": "Ich bleibe zu Hause, weil ich krank bin.",
+            "en": "I stay home because I am sick.",
+            "ar": "أبقى في المنزل لأنني مريض."
+          },
+          {
+            "de": "Ich weiß, dass du Deutsch lernst.",
+            "en": "I know that you are learning German.",
+            "ar": "أعلم أنك تتعلم الألمانية."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "sentence_builder",
+            "instruction": {
+              "en": "Put the conjugated verb at the end.",
+              "ar": "ضع الفعل المصرف في نهاية الجملة."
+            },
+            "words": [
+              "...,",
+              "weil",
+              "er",
+              "keine",
+              "Zeit",
+              "hat."
+            ],
+            "correct": "..., weil er keine Zeit hat.",
+            "explanation": {
+              "en": "\"weil\" pushes the verb \"hat\" to the very end.",
+              "ar": "\"weil\" تدفع الفعل \"hat\" إلى آخر الجملة."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2-perfekt-tenses",
+        "level": "A2",
+        "order": 5,
+        "title": {
+          "de": "Das Perfekt (haben vs. sein)",
+          "en": "The Present Perfect (haben vs. sein)",
+          "ar": "زمن الماضي التام (Perfekt) 🇪🇬"
+        },
+        "explanation": {
+          "de": "Das Perfekt ist die wichtigste Zeitform für die Vergangenheit in der gesprochenen Sprache. Bewegung oder Zustandswechsel verlangen 'sein'!",
+          "en": "Perfekt is the primary past tense in spoken German. Verbs of movement or change of state take 'sein' as auxiliary.",
+          "ar": "الماضي التام هو أكثر الأزمنة استخداماً في المحادثة اليومية في الألمانية. أفعال الحركة أو تغير الحالة تأخذ الفعل المساعد sein 🇪🇬."
+        },
+        "examples": [
+          {
+            "de": "Ich habe Deutsch gelernt.",
+            "en": "I learned German.",
+            "ar": "أنا اتعلمت ألماني."
+          },
+          {
+            "de": "Er ist nach Berlin gefahren.",
+            "en": "He drove to Berlin.",
+            "ar": "هو سافر لبرلين."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "de": "Gestern ___ ich zu Hause geblieben.",
+              "en": "Yesterday I stayed at home.",
+              "ar": "أمس بقيت في المنزل."
+            },
+            "options": [
+              "habe",
+              "bin",
+              "werde",
+              "hatte"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "'bleiben' (to stay) takes 'sein' in Perfekt: 'ich bin geblieben'.",
+              "ar": "الفعل bleiben يأخذ دائماً sein في زمن Perfekt 🇪🇬."
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2-vergleiche-komparativ",
+        "level": "A2",
+        "order": 6,
+        "title": {
+          "de": "Komparativ & Superlativ",
+          "en": "Comparative & Superlative",
+          "ar": "المقارنة والتفضيل (أكبر من / الأفضل) 🇪🇬"
+        },
+        "explanation": {
+          "de": "Gleichheit drückt man mit 'so ... wie' aus. Unterschied mit Komparativ + 'als': schneller als, größer als. Superlativ: am schnellsten.",
+          "en": "Equality uses 'so ... wie' (as ... as). Difference uses comparative + 'als' (faster than). Superlative uses 'am ...-sten'.",
+          "ar": "التساوي يعبر عنه بـ 'so ... wie'. والمقارنة بـ '-er + als' (أسرع من). والتفضيل بـ 'am ...-sten' (الأسرع) 🇪🇬."
+        },
+        "examples": [
+          {
+            "de": "Der Zug ist schneller als der Bus.",
+            "en": "The train is faster than the bus.",
+            "ar": "القطار أسرع من الأتوبيس."
+          },
+          {
+            "de": "Das Flugzeug ist am schnellsten.",
+            "en": "The airplane is the fastest.",
+            "ar": "الطيارة هي الأسرع."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "de": "Berlin ist größer ___ Frankfurt.",
+              "en": "Berlin is bigger ___ Frankfurt.",
+              "ar": "برلين أكبر من فرانكفورت."
+            },
+            "options": [
+              "wie",
+              "als",
+              "von",
+              "zu"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "With comparative (größer), always use 'als'.",
+              "ar": "مع صيغة المقارنة نستخدم دائماً als 🇪🇬."
+            }
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "b1-relative-clauses",
+        "level": "B1",
+        "order": 1,
+        "title": {
+          "de": "Relativsätze im Nominativ, Akkusativ & Dativ",
+          "en": "Relative Clauses",
+          "ar": "جمل الصلة والأسماء الموصولة"
+        },
+        "explanation": {
+          "de": "Relativsätze beschreiben ein Nomen näher. Das Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort und im Kasus nach seiner Rolle im Nebensatz.",
+          "en": "Relative clauses describe a noun in detail. The relative pronoun matches the noun in gender and number, but gets its case from its function in the subordinate clause. Verb goes to the end!",
+          "ar": "جمل الصلة تصف اسماً بمزيد من التفصيل. الضمير الموصول يطابق الاسم في التذكير/التأنيث والعدد، وتتحدد حالته الإعرابية من موقعه داخل جملة الصلة. الفعل يذهب للنهاية!"
+        },
+        "examples": [
+          {
+            "de": "Der Mann, der dort steht, ist mein Lehrer. (Nom)",
+            "en": "The man who is standing there is my teacher.",
+            "ar": "الرجل الذي يقف هناك هو أستاذي."
+          },
+          {
+            "de": "Das Buch, das ich lese, ist spannend. (Akk)",
+            "en": "The book that I am reading is thrilling.",
+            "ar": "الكتاب الذي أقرأه مشوق."
+          },
+          {
+            "de": "Die Frau, der ich helfe, freut sich. (Dat)",
+            "en": "The woman whom I am helping is happy.",
+            "ar": "السيدة التي أساعدها سعيدة."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Das ist der Freund, ___ ich gestern angerufen habe. (Accusative masculine)",
+              "ar": "هذا هو الصديق الذي اتصلت به بالأمس (مذكر منصوب)"
+            },
+            "options": [
+              "der",
+              "den",
+              "dem",
+              "dessen"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Direct object of \"anrufen\" is Akkusativ masculine: \"den\".",
+              "ar": "مفعول anrufen مذكر منصوب Akkusativ: \"den\"."
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1-passive",
+        "level": "B1",
+        "order": 2,
+        "title": {
+          "de": "Vorgangspassiv (werden + Partizip II)",
+          "en": "The Passive Voice",
+          "ar": "المبني للمجهول (Passiv)"
+        },
+        "explanation": {
+          "de": "Das Vorgangspassiv betont die Handlung, nicht die handelnde Person. Bildung: werden + Partizip II.",
+          "en": "The passive voice focuses on the action rather than who performs it. Formed with conjugated \"werden\" + Partizip II at the end. The agent can be added with \"von + Dativ\".",
+          "ar": "المبني للمجهول يركز على الحدث نفسه لا على الفاعل. الصيغة: تصريف werden + اسم المفعول Partizip II في النهاية. ويمكن ذكر الفاعل بـ \"von + Dativ\"."
+        },
+        "examples": [
+          {
+            "de": "Das Auto wird repariert.",
+            "en": "The car is being repaired.",
+            "ar": "تجري صيانة السيارة."
+          },
+          {
+            "de": "Der Brief wurde gestern geschrieben.",
+            "en": "The letter was written yesterday.",
+            "ar": "كُتِب الخطاب بالأمس."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Active: \"Der Koch kocht die Suppe.\" → Passive: ?",
+              "ar": "المبني للمعلوم: الطباخ يطبخ الحساء → المبني للمجهول: ؟"
+            },
+            "options": [
+              "Die Suppe kocht.",
+              "Die Suppe wird gekocht.",
+              "Die Suppe hat gekocht.",
+              "Die Suppe ist gekocht."
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Vorgangspassiv = wird + Partizip II (gekocht).",
+              "ar": "المبني للمجهول = wird + Partizip II (gekocht)."
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1-konjunktiv2",
+        "level": "B1",
+        "order": 3,
+        "title": {
+          "de": "Konjunktiv II: Wünsche & Höflichkeit",
+          "en": "Subjunctive II (würde, hätte, wäre)",
+          "ar": "المضارع الافتراضي (Konjunktiv II)"
+        },
+        "explanation": {
+          "de": "Konjunktiv II drückt Höflichkeit, Träume, Wünsche und irreale Bedingungen aus.",
+          "en": "Konjunktiv II is used for polite requests, dreams, hypothetical situations (\"if I were rich...\"), and unfulfilled wishes. Formed with würde + infinitive, or special forms: wäre, hätte, könnte.",
+          "ar": "صيغة Konjunktiv II تُستخدم للطلب المؤدب، التمنيات، والمواقف الافتراضية غير الواقعية (\"لو كنتُ غنياً...\"). تتكون من würde + المصدر، أو الصيغ المباشرة: wäre, hätte, könnte."
+        },
+        "examples": [
+          {
+            "de": "Könnten Sie mir bitte helfen?",
+            "en": "Could you please help me?",
+            "ar": "هل بإمكانك مساعدتي من فضلك؟"
+          },
+          {
+            "de": "Wenn ich Zeit hätte, würde ich nach Ägypten fliegen.",
+            "en": "If I had time, I would fly to Egypt.",
+            "ar": "لو كان لدي وقت، لسافرتُ إلى مصر."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which is the most polite request in a bakery?",
+              "ar": "أي جملة هي الأكثر تهذيباً في المخبز؟"
+            },
+            "options": [
+              "Ich will ein Brot.",
+              "Gib mir Brot!",
+              "Ich hätte gerne ein Brot, bitte.",
+              "Ich nehme Brot."
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "\"Ich hätte gerne...\" (Konjunktiv II) is the standard polite German phrasing.",
+              "ar": "\"Ich hätte gerne...\" هي الصياغة المهذبة المعتمدة في الألمانية."
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1-infinitiv-zu",
+        "level": "B1",
+        "order": 4,
+        "title": {
+          "de": "Infinitiv mit zu (um... zu, ohne... zu)",
+          "en": "Infinitive with zu",
+          "ar": "صيغة المصدر مع zu"
+        },
+        "explanation": {
+          "de": "Infinitivgruppen mit zu stehen am Satzende. Bei trennbaren Verben schiebt sich das zu zwischen Präfix und Stamm: anzufangen.",
+          "en": "Infinitive with \"zu\" occurs after certain verbs and adjectives. \"um... zu\" expresses purpose (\"in order to\"). Separable verbs place \"zu\" between prefix and stem (e.g. einzuladen).",
+          "ar": "جمل المصدر مع zu تأتي في نهاية الجملة. مع الأفعال المنفصلة، تدخل zu بين البادئة والجذر (مثل: ein-zu-laden). و\"um... zu\" تعني \"لكي / من أجل\"."
+        },
+        "examples": [
+          {
+            "de": "Ich habe vor, Deutsch zu lernen.",
+            "en": "I intend to learn German.",
+            "ar": "أنوي أن أتعلم الألمانية."
+          },
+          {
+            "de": "Er lernt fleißig, um die Prüfung zu bestehen.",
+            "en": "He studies hard in order to pass the exam.",
+            "ar": "هو يدرس بجد من أجل اجتياز الامتحان."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "How do you insert \"zu\" into \"einkaufen\"?",
+              "ar": "كيف تدخل \"zu\" في الفعل المنفصل \"einkaufen\"؟"
+            },
+            "options": [
+              "zueinkaufen",
+              "einkaufenzu",
+              "einzukaufen",
+              "zu einkauf"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "Separable prefix + zu + verb stem = einzukaufen.",
+              "ar": "البادئة + zu + أصل الفعل = einzukaufen."
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1-infinitiv-mit-zu",
+        "level": "B1",
+        "order": 5,
+        "title": {
+          "de": "Infinitiv mit 'zu' & 'um...zu'",
+          "en": "Infinitive with 'zu' & Purpose with 'um...zu'",
+          "ar": "المصدر مع zu وصيغة الغرض um...zu 🇪🇬"
+        },
+        "explanation": {
+          "de": "'um ... zu + Infinitiv' gibt einen Zweck oder ein Ziel an ('in order to'). Bei trennbaren Verben steht 'zu' zwischen Vorsilbe und Stamm (z.B. einzukaufen).",
+          "en": "'um ... zu + Infinitiv' denotes purpose ('in order to'). For separable verbs, 'zu' goes between the prefix and stem (e.g. einzukaufen).",
+          "ar": "'um ... zu + المصدر' تعبر عن الهدف والغاية (من أجل أن). وفي الأفعال المنفصلة تأتي zu بين المقطع الأول وجذر الفعل 🇪🇬."
+        },
+        "examples": [
+          {
+            "de": "Ich lerne Deutsch, um in Deutschland zu studieren.",
+            "en": "I learn German in order to study in Germany.",
+            "ar": "أتعلم الألمانية لكي أدرس في ألمانيا."
+          },
+          {
+            "de": "Ich habe keine Zeit, heute einzukaufen.",
+            "en": "I have no time to go shopping today.",
+            "ar": "ليس لدي وقت للتسوق اليوم."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "de": "Er spart Geld, ___ ein Auto zu kaufen.",
+              "en": "He saves money in order to buy a car.",
+              "ar": "هو يوفر المال لكي يشتري سيارة."
+            },
+            "options": [
+              "um",
+              "damit",
+              "weil",
+              "zu"
+            ],
+            "correct": 0,
+            "explanation": {
+              "en": "Purpose with infinitive clause takes 'um ... zu'.",
+              "ar": "الغرض مع جملة المصدر يبدأ بـ 'um' 🇪🇬."
+            }
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "b2-passive-advanced",
+        "level": "B2",
+        "order": 1,
+        "title": {
+          "de": "Zustandspassiv & Passiversatzformen",
+          "en": "State Passive & Passive Substitutes",
+          "ar": "مبني للمجهول للحالة وبدائل المبني للمجهول"
+        },
+        "explanation": {
+          "de": "Zustandspassiv (sein + Partizip II) beschreibt den fertigen Zustand. Passiversatzformen: sich lassen + Infinitiv, sein + zu + Infinitiv.",
+          "en": "Zustandspassiv (sein + Partizip II) describes a resulting state (\"Das Fenster ist geöffnet\" = it is open). Passive substitutes like \"Das lässt sich machen\" or \"Das ist zu tun\" replace formal passives in business German.",
+          "ar": "مبني للمجهول للحالة (sein + Partizip II) يصف حالة الشيء بعد انتهاء الحدث (\"النافذة مفتوحة\"). وبدائل المبني للمجهول مثل \"Das lässt sich machen\" أو \"Das ist zu tun\" تشيع جداً في الألمانية المهنية."
+        },
+        "examples": [
+          {
+            "de": "Die Tür ist geschlossen. (Zustand)",
+            "en": "The door is closed (state).",
+            "ar": "الباب مغلق (حالة ثابتة)."
+          },
+          {
+            "de": "Das Problem lässt sich lösen. (= kann gelöst werden)",
+            "en": "The problem can be solved.",
+            "ar": "المشكلة يمكن حلها."
+          },
+          {
+            "de": "Dieser Text ist bis morgen zu übersetzen.",
+            "en": "This text has to be translated by tomorrow.",
+            "ar": "هذا النص يجب ترجمته بحلول الغد."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "\"Das Problem lässt sich leicht lösen\" means:",
+              "ar": "ماذا تعني جملة \"Das Problem lässt sich leicht lösen\"؟"
+            },
+            "options": [
+              "The problem was lost",
+              "The problem can easily be solved",
+              "The problem refuses to solve",
+              "We leave the problem"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "\"lässt sich + Infinitiv\" is an elegant substitute for \"kann + Passiv\".",
+              "ar": "\"lässt sich + مصدر\" بديل أنيق لـ \"kann + Passiv\"."
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2-konjunktiv1",
+        "level": "B2",
+        "order": 2,
+        "title": {
+          "de": "Konjunktiv I: Indirekte Rede in Medien",
+          "en": "Subjunctive I (Reported Speech)",
+          "ar": "المضارع الافتراضي I (الكلام المنقول)"
+        },
+        "explanation": {
+          "de": "Der Konjunktiv I wird in journalistischen Texten und Nachrichten verwendet, um Zitate neutral wiederzugeben.",
+          "en": "Konjunktiv I is standard in journalism and formal reports to convey reported speech neutrally without taking personal responsibility for the statement truth.",
+          "ar": "يُستخدم Konjunktiv I في الصحافة والإعلام لنقل كلام الآخرين بحيادية وموضوعية دون تبني صحة الخبر شخصياً."
+        },
+        "examples": [
+          {
+            "de": "Der Minister sagte, die Wirtschaft wachse stabil.",
+            "en": "The minister said the economy was growing stably.",
+            "ar": "صرح الوزير بأن الاقتصاد ينمو بشكل مستقر."
+          },
+          {
+            "de": "Sie behauptet, sie sei unschuldig.",
+            "en": "She claims she is innocent.",
+            "ar": "هي تدعي أنها بريئة."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Third-person singular of \"sein\" in Konjunktiv I:",
+              "ar": "تصريف الغائب المفرد لـ sein في صيغة Konjunktiv I:"
+            },
+            "options": [
+              "ist",
+              "wäre",
+              "sei",
+              "seien"
+            ],
+            "correct": 2,
+            "explanation": {
+              "en": "\"er/sie/es sei\" is the classic Konjunktiv I form of sein.",
+              "ar": "\"er/sie/es sei\" هي الصيغة القياسية لـ sein في Konjunktiv I."
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2-nominalization",
+        "level": "B2",
+        "order": 3,
+        "title": {
+          "de": "Nominalstil vs. Verbalstil",
+          "en": "Nominal Style in Professional German",
+          "ar": "الأسلوب الاسمي في الألمانية الرسمية"
+        },
+        "explanation": {
+          "de": "Im professionellen Deutsch werden Verben oft durch Nomen ersetzt (Nominalisierung) mit Präpositionen wie bei, durch, wegen.",
+          "en": "Academic and official German favors the nominal style (turning actions into nouns: \"beim Verlassen des Gebäudes\" instead of \"wenn Sie das Gebäude verlassen\").",
+          "ar": "تفضل الألمانية الأكاديمية والرسمية الأسلوب الاسمي (تحويل الأفعال إلى مصادر وأسماء: مثل \"عند مغادرة المبنى\" بدلاً من \"عندما تغادرون المبنى\")."
+        },
+        "examples": [
+          {
+            "de": "Verbal: Wenn wir ankommen → Nominal: Bei unserer Ankunft",
+            "en": "Upon our arrival",
+            "ar": "عند وصولنا"
+          },
+          {
+            "de": "Verbal: Weil es regnet → Nominal: Wegen des Regens",
+            "en": "Due to the rain",
+            "ar": "بسبب المطر"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Convert \"weil die Preise steigen\" into nominal style:",
+              "ar": "حول \"weil die Preise steigen\" إلى الأسلوب الاسمي:"
+            },
+            "options": [
+              "Beim Steigen der Preise",
+              "Wegen des Preisanstiegs",
+              "Obwohl die Preise steigen",
+              "Trotz des Preises"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "\"Wegen + Genitiv noun\" is the ideal nominal transformation of \"weil\".",
+              "ar": "\"Wegen + اسم مضاف إليه Genitiv\" هو التحويل الاسمي الأمثل لـ weil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2-nominalisierung",
+        "level": "B2",
+        "order": 4,
+        "title": {
+          "de": "Nominalisierung & Partizipialattribute",
+          "en": "Nominalization & Participial Attributes",
+          "ar": "التحويل الاسمي واستخدام اسم الفاعل كصفة 🇪🇬"
+        },
+        "explanation": {
+          "de": "Im gehobenen Deutsch und in Fachtexten werden Verben zu Nomen transformiert (behandeln ➔ die Behandlung). Partizipien werden wie Adjektive vor das Nomen gesetzt.",
+          "en": "In academic and professional German, verbs are converted to nouns (Nominalstil). Participles can precede nouns as extended adjective attributes.",
+          "ar": "في الأسلوب الأكاديمي والمهني الراقي يتم تحويل الأفعال لأسماء لتقوية التعبير وتركيز المعنى 🇪🇬."
+        },
+        "examples": [
+          {
+            "de": "Die steigenden Preise bereiten den Bürgern Sorgen.",
+            "en": "The rising prices cause worry to citizens.",
+            "ar": "الأسعار المتصاعدة تثير قلق المواطنين."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "de": "Welches Wort ist eine Nominalisierung von 'prüfen'?",
+              "en": "Which word is a nominalization of 'prüfen'?",
+              "ar": "ما هو الاسم المشتق من فعل prüft؟"
+            },
+            "options": [
+              "die Prüfung",
+              "geprüft",
+              "prüfbar",
+              "am Prüfen"
+            ],
+            "correct": 0,
+            "explanation": {
+              "en": "'die Prüfung' (the exam) is the nominalization.",
+              "ar": "'die Prüfung' (الامتحان) هو الاسم المشتق 🇪🇬."
+            }
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "c1-sophisticated-sentences",
+        "level": "C1",
+        "order": 1,
+        "title": {
+          "de": "Partizipialattribute & Komplexe Satzgefüge",
+          "en": "Extended Participial Clauses",
+          "ar": "التراكيب الوصفية المشتقة والجمل المعقدة"
+        },
+        "explanation": {
+          "de": "Erweiterte Partizipialattribute ersetzen Relativsätze und komprimieren dichte Information elegant vor das Nomen.",
+          "en": "Extended participial constructions pack subordinate clause details directly into an adjective modifier preceding the noun (e.g. \"die gestern vom Bundestag beschlossene Steuerreform\").",
+          "ar": "التراكيب النعتية المشتقة الممتدة تضغط معلومات جملة الصلة مباشرة كصفة متقدمة تسبق الاسم، وهي علامة التمكن الأسلوبي الرفيع في الألمانية."
+        },
+        "examples": [
+          {
+            "de": "Die gestern vom Parlament verabschiedeten Gesetze treten morgen in Kraft.",
+            "en": "The laws passed yesterday by parliament take effect tomorrow.",
+            "ar": "القوانين التي أقرها البرلمان أمس تدخل حيز التنفيذ غداً."
+          },
+          {
+            "de": "Der am Fenster sitzende und nachdenkende Wissenschaftler...",
+            "en": "The scientist sitting by the window and pondering...",
+            "ar": "العالم الجالس بجوار النافذة المتأمل..."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "\"Die stetig wachsende Bevölkerung\" translates to:",
+              "ar": "ترجمة \"Die stetig wachsende Bevölkerung\":"
+            },
+            "options": [
+              "The already grown population",
+              "The continuously growing population",
+              "The population that stopped growing",
+              "The overgrown city"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "Partizip I (-end) indicates an ongoing, active process.",
+              "ar": "اسم الفاعل المشتق Partizip I ينتهي بـ end ويدل على استمرارية الحدث."
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1-academic-connectors",
+        "level": "C1",
+        "order": 2,
+        "title": {
+          "de": "Konnektoren der Argumentation (inwiefern, demnach)",
+          "en": "Advanced Discourse Connectors",
+          "ar": "روابط المناقشة والحجاج المتقدمة"
+        },
+        "explanation": {
+          "de": "C1-Sprecher verknüpfen Thesen mit nuancierten Konnektoren: inwiefern, folglich, demnach, wohingegen, ungeachtet.",
+          "en": "Advanced discourse markers structure persuasive essays and debates with precision: demnach (accordingly), wohingegen (whereas), ungeachtet (+Gen = notwithstanding).",
+          "ar": "تتيح روابط الخطاب المتقدمة صياغة أطروحات ومناظرات دقيقة: demnach (بناءً على ذلك)، wohingegen (في حين أن)، ungeachtet (على الرغم من + Genitiv)."
+        },
+        "examples": [
+          {
+            "de": "Wohingegen fossile Brennstoffe endlich sind, bieten erneuerbare Energien Nachhaltigkeit.",
+            "en": "Whereas fossil fuels are finite, renewables offer sustainability.",
+            "ar": "في حين أن الوقود الأحفوري ناضب، توفر الطاقة المتجددة الاستدامة."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which connector means \"whereas / while on the other hand\"?",
+              "ar": "أي رابط يعني \"في حين أن / من جهة أخرى\"؟"
+            },
+            "options": [
+              "wohingegen",
+              "folglich",
+              "deshalb",
+              "trotzdem"
+            ],
+            "correct": 0,
+            "explanation": {
+              "en": "\"wohingegen\" sets up an explicit contrast between two parallel clauses.",
+              "ar": "\"wohingegen\" تُقيم مقابلة ومقارنة واضحة بين شقي الجملة."
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1-passiversatzformen",
+        "level": "C1",
+        "order": 3,
+        "title": {
+          "de": "Passiversatzformen (sich lassen + Infinitiv)",
+          "en": "Passive Alternatives (sich lassen, sein + zu + Infinitiv)",
+          "ar": "بدائل المبني للمجهول في الأسلوب الأدبي والأكاديمي 🇪🇬"
+        },
+        "explanation": {
+          "de": "Ausdrücke wie 'Das Problem lässt sich lösen' (= kann gelöst werden) oder 'Die Aufgabe ist zu erledigen' (= muss erledigt werden).",
+          "en": "Structures replacing standard passive: 'sich lassen + inf' (feasibility), 'sein + zu + inf' (obligation/possibility), and '-bar/-lich' adjectives.",
+          "ar": "تراكيب بلاغية بديلة للمجهول: مثل 'sich lassen + المصدر' للتعبير عن إمكانية فعل الشيء 🇪🇬."
+        },
+        "examples": [
+          {
+            "de": "Diese Frage lässt sich leicht beantworten.",
+            "en": "This question can be easily answered.",
+            "ar": "يمكن الإجابة على هذا السؤال بكل سهولة."
+          },
+          {
+            "de": "Das Dokument ist bis morgen einzureichen.",
+            "en": "The document is to be submitted by tomorrow.",
+            "ar": "يتعين تقديم هذه الوثيقة بحلول الغد."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "de": "'Das Buch lässt sich gut lesen' bedeutet:",
+              "en": "'Das Buch lässt sich gut lesen' means:",
+              "ar": "معنى هذه العبارة:"
+            },
+            "options": [
+              "Das Buch kann gut gelesen werden",
+              "Das Buch muss gelesen werden",
+              "Niemand liest das Buch",
+              "Das Buch liest sich selbst"
+            ],
+            "correct": 0,
+            "explanation": {
+              "en": "'sich lassen + Infinitiv' expresses capability/possibility (= kann ... werden).",
+              "ar": "'sich lassen' تعني إمكانية حدوث الفعل 🇪🇬."
+            }
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "c2-modal-particles",
+        "level": "C2",
+        "order": 1,
+        "title": {
+          "de": "Deutsche Modalpartikeln (ja, doch, wohl, halt, eben)",
+          "en": "Modal Particles & Emotional Nuances",
+          "ar": "الأدوات المقالية الدقيقة (Modalpartikeln)"
+        },
+        "explanation": {
+          "de": "Modalpartikeln verändern nicht den Sachgehalt, sondern die Haltung des Sprechers: Selbstverständlichkeit (ja), Widerspruch (doch), Resignation (halt/eben), Vermutung (wohl).",
+          "en": "Modal particles (ja, doch, wohl, eben, halt, mal) are the ultimate badge of native fluency. They convey attitude, tone, intimacy, shared knowledge, or resignation without changing raw facts.",
+          "ar": "أدوات الدلالة الشعورية (Modalpartikeln) مثل ja و doch و wohl و halt و eben هي سر الطلاقة الألمانية الأصلية. تنقل المشاعر والافتراضات المشتركة ونبرة الحديث بدقة متناهية دون تغيير الحقائق الأساسية."
+        },
+        "examples": [
+          {
+            "de": "Das weißt du doch! (Reminder of shared knowledge)",
+            "en": "You know that, after all!",
+            "ar": "أنت تعلم ذلك بكل تأكيد!"
+          },
+          {
+            "de": "Das ist halt so. (Acceptance/Resignation)",
+            "en": "That is just how it is.",
+            "ar": "هكذا هي الأمور ببساطة (تسليم بالواقع)."
+          },
+          {
+            "de": "Er wird wohl im Stau stehen. (Probability)",
+            "en": "He is probably stuck in traffic.",
+            "ar": "من المرجح أنه عالق في الزحام."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "Which particle expresses accepting an unchangeable reality (\"that is just how it is\")?",
+              "ar": "أي أداة تُعبر عن تقبل واقع لا يمكن تغييره؟"
+            },
+            "options": [
+              "halt",
+              "ja",
+              "mal",
+              "doch"
+            ],
+            "correct": 0,
+            "explanation": {
+              "en": "\"halt\" and \"eben\" express inevitable resignation or matter-of-fact reality.",
+              "ar": "\"halt\" و\"eben\" تعبران عن التسليم بالأمر الواقع."
+            }
+          }
+        ]
+      },
+      {
+        "id": "c2-literary-idioms",
+        "level": "C2",
+        "order": 2,
+        "title": {
+          "de": "Gehobene Rhetorik & Feste Redewendungen",
+          "en": "Literary Mastery & High Register Rhetoric",
+          "ar": "البلاغة الأدبية والتعابير الرفيعة"
+        },
+        "explanation": {
+          "de": "C2-Niveau umfasst geschliffene Sprachkompetenz, Wortspiele, Chiasmus, historische Redewendungen und stilistische Feinheiten.",
+          "en": "C2 mastery embraces subtle irony, literary eloquence, idioms (\"den Nagel auf den Kopf treffen\", \"ins Fettnäpfchen treten\"), and flawless register shifts.",
+          "ar": "مستوى C2 يتوج التمكن التام باللغة الألمانية من خلال التعبيرات المجازية، البلاغة الرفيعة، واستخدام الأمثال الشعبية والأدبية في سياقها الدقيق."
+        },
+        "examples": [
+          {
+            "de": "Er hat den Nagel auf den Kopf getroffen.",
+            "en": "He hit the nail right on the head.",
+            "ar": "أصاب عين الحقيقة / وضع يده على الجرح."
+          },
+          {
+            "de": "Wer im Glashaus sitzt, soll nicht mit Steinen werfen.",
+            "en": "People in glass houses should not throw stones.",
+            "ar": "من كان بيته من زجاج لا يقذف الناس بالحجارة."
+          }
+        ],
+        "exercises": [
+          {
+            "type": "multiple_choice",
+            "question": {
+              "en": "What does \"den Nagel auf den Kopf treffen\" mean?",
+              "ar": "ماذا يعني التعبير \"den Nagel auf den Kopf treffen\"؟"
+            },
+            "options": [
+              "To hit someone with a hammer",
+              "To state something with exact precision",
+              "To build a wooden shelf",
+              "To miss an opportunity"
+            ],
+            "correct": 1,
+            "explanation": {
+              "en": "It means hitting the point precisely and accurately.",
+              "ar": "تعني إصابة كبد الحقيقة بدقة تامة."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

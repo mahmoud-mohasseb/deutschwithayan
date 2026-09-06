@@ -1,0 +1,720 @@
+[
+  {
+    "id": "a1-restaurant",
+    "level": "A1",
+    "category": "Daily Life",
+    "title": {
+      "de": "Im Restaurant",
+      "en": "At the Restaurant",
+      "ar": "في المطعم"
+    },
+    "subtitle": {
+      "de": "Essen bestellen und bezahlen",
+      "en": "Ordering food and paying the bill",
+      "ar": "طلب الطعام ودفع الفاتورة"
+    },
+    "estimatedMinutes": 12,
+    "xpReward": 50,
+    "grammarFocus": {
+      "rule": "Ich möchte ... + Akkusativ",
+      "explanation": {
+        "de": "\"Ich möchte\" drückt einen höflichen Wunsch aus. Das Objekt danach steht im Akkusativ: der Kaffee → einen Kaffee.",
+        "en": "\"Ich möchte\" means \"I would like...\". The noun that follows is the direct object and takes the Akkusativ case: der Kaffee (masculine) becomes einen Kaffee.",
+        "ar": "\"Ich möchte\" تعني \"أود أن...\" أو \"أرغب في...\". الاسم بعدها يكون مفعولاً به مباشراً ويأخذ حالة النصب (Akkusativ): der Kaffee (مذكر) يتحول إلى einen Kaffee."
+      }
+    },
+    "vocabulary": [
+      {
+        "word": "das Restaurant",
+        "gender": "das",
+        "plural": "die Restaurants",
+        "english": "the restaurant",
+        "arabic": "المطعم",
+        "phonetic": "ʁɛstoˈʁãː",
+        "example": {
+          "de": "Wir gehen in das Restaurant.",
+          "en": "We go to the restaurant.",
+          "ar": "نحن نذهب إلى المطعم."
+        }
+      },
+      {
+        "word": "die Speisekarte",
+        "gender": "die",
+        "plural": "die Speisekarten",
+        "english": "the menu",
+        "arabic": "قائمة الطعام",
+        "phonetic": "ˈʃpaɪ̯zəˌkaʁtə",
+        "example": {
+          "de": "Haben Sie die Speisekarte?",
+          "en": "Do you have the menu?",
+          "ar": "هل لديكم قائمة الطعام؟"
+        }
+      },
+      {
+        "word": "das Wasser",
+        "gender": "das",
+        "plural": "die Wässer",
+        "english": "the water",
+        "arabic": "الماء",
+        "phonetic": "ˈvasɐ",
+        "example": {
+          "de": "Ein Glas Wasser, bitte.",
+          "en": "A glass of water, please.",
+          "ar": "كأس ماء من فضلك."
+        }
+      },
+      {
+        "word": "das Essen",
+        "gender": "das",
+        "plural": "—",
+        "english": "the food / meal",
+        "arabic": "الطعام",
+        "phonetic": "ˈɛsn̩",
+        "example": {
+          "de": "Das Essen schmeckt lecker.",
+          "en": "The food tastes delicious.",
+          "ar": "الطعام لذيذ."
+        }
+      },
+      {
+        "word": "bestellen",
+        "gender": "verb",
+        "english": "to order",
+        "arabic": "يطلب",
+        "phonetic": "bəˈʃtɛlən",
+        "example": {
+          "de": "Ich möchte jetzt bestellen.",
+          "en": "I would like to order now.",
+          "ar": "أود أن أطلب الآن."
+        }
+      },
+      {
+        "word": "bezahlen",
+        "gender": "verb",
+        "english": "to pay",
+        "arabic": "يدفع الحساب",
+        "phonetic": "bəˈtsaːlən",
+        "example": {
+          "de": "Wir möchten bitte bezahlen.",
+          "en": "We would like to pay, please.",
+          "ar": "نود دفع الحساب، من فضلك."
+        }
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "Kellner (Waiter)",
+        "de": "Guten Tag! Was möchten Sie?",
+        "en": "Good day! What would you like?",
+        "ar": "طاب يومك! ماذا تود حضرتك؟"
+      },
+      {
+        "speaker": "Gast (You)",
+        "de": "Guten Tag! Ich möchte einen Kaffee und ein Wasser, bitte.",
+        "en": "Good day! I would like a coffee and a water, please.",
+        "ar": "طاب يومك! أود قهوة وماءً، من فضلك."
+      },
+      {
+        "speaker": "Kellner (Waiter)",
+        "de": "Sehr gerne! Und zum Essen?",
+        "en": "With pleasure! And to eat?",
+        "ar": "بكل سرور! وماذا عن الطعام؟"
+      },
+      {
+        "speaker": "Gast (You)",
+        "de": "Ich nehme die Suppe.",
+        "en": "I will take the soup.",
+        "ar": "سآخذ الحساء."
+      },
+      {
+        "speaker": "Gast (You)",
+        "de": "Entschuldigung, wir möchten bitte bezahlen.",
+        "en": "Excuse me, we would like to pay, please.",
+        "ar": "عفواً، نود دفع الحساب من فضلك."
+      }
+    ],
+    "practiceQuestions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "prompt": {
+          "de": "Wie bestellen Sie einen Kaffee?",
+          "en": "How do you order a coffee?",
+          "ar": "كيف تطلب قهوة؟"
+        },
+        "options": [
+          "Ich möchte ein Kaffee.",
+          "Ich möchte einen Kaffee.",
+          "Ich möchte der Kaffee.",
+          "Ich möchte dem Kaffee."
+        ],
+        "correct": 1,
+        "explanation": {
+          "de": "\"Kaffee\" ist maskulin (der Kaffee). Im Akkusativ wird \"ein\" zu \"einen\".",
+          "en": "\"Kaffee\" is masculine (der Kaffee). In the Akkusativ (direct object of möchte), \"ein\" becomes \"einen\".",
+          "ar": "\"Kaffee\" مذكر (der Kaffee). في حالة النصب (Akkusativ) للمفعول به، تتحول \"ein\" إلى \"einen\"."
+        }
+      },
+      {
+        "id": "q2",
+        "type": "word_arrange",
+        "prompt": {
+          "de": "Bringen Sie die Wörter in die richtige Reihenfolge:",
+          "en": "Arrange the words in correct order to say \"We would like to pay, please\":",
+          "ar": "رتّب الكلمات بالترتيب الصحيح لقول \"نود أن ندفع الحساب من فضلك\":"
+        },
+        "words": [
+          "Wir",
+          "möchten",
+          "bitte",
+          "bezahlen."
+        ],
+        "correctSentence": "Wir möchten bitte bezahlen."
+      }
+    ],
+    "challenge": {
+      "title": "🎮 Restaurant Challenge",
+      "npc": "Kellner",
+      "prompt": "Was möchten Sie?",
+      "targetAnswer": "Ich möchte einen Kaffee.",
+      "chips": [
+        "Ich",
+        "möchte",
+        "einen",
+        "Kaffee.",
+        "der",
+        "Kaffee",
+        "ein"
+      ],
+      "successMessage": {
+        "de": "🎉 Fantastisch! Bestellung erfolgreich!",
+        "en": "🎉 Fantastic! Order placed successfully!",
+        "ar": "🎉 رائع جداً! تم تأكيد طلبك بنجاح!"
+      },
+      "reward": {
+        "xp": 50,
+        "badge": "☕ Café Master"
+      }
+    }
+  },
+  {
+    "id": "a1-greetings",
+    "level": "A1",
+    "category": "Foundations",
+    "title": {
+      "de": "Begrüßung & Kennenlernen",
+      "en": "Greetings & Introductions",
+      "ar": "التحيات والتعارف"
+    },
+    "subtitle": {
+      "de": "Hallo, Guten Tag und Wie geht es dir?",
+      "en": "Hello, Good day, and How are you?",
+      "ar": "مرحباً، طاب يومك، وكيف حالك؟"
+    },
+    "estimatedMinutes": 10,
+    "xpReward": 40,
+    "grammarFocus": {
+      "rule": "Verb Position & Pronouns (du vs. Sie)",
+      "explanation": {
+        "de": "Informell: \"Wie geht es dir?\" | Formell: \"Wie geht es Ihnen?\"",
+        "en": "Informal: \"Wie geht es dir?\" (friends/family) | Formal: \"Wie geht es Ihnen?\" (respectful).",
+        "ar": "غير رسمي: \"Wie geht es dir؟\" (مع الأصدقاء) | رسمي: \"Wie geht es Ihnen؟\" (باحترام)."
+      }
+    },
+    "vocabulary": [
+      {
+        "word": "Guten Tag",
+        "gender": "phrase",
+        "english": "Good day / Hello",
+        "arabic": "طاب يومك / أهلاً",
+        "phonetic": "ˌɡuːtn̩ ˈtaːk",
+        "example": {
+          "de": "Guten Tag, Herr Müller!",
+          "en": "Good day, Mr. Müller!",
+          "ar": "طاب يومك يا سيد مولر!"
+        }
+      },
+      {
+        "word": "Wie heißt du?",
+        "gender": "phrase",
+        "english": "What is your name?",
+        "arabic": "ما اسمك؟",
+        "phonetic": "viː haɪ̯st duː",
+        "example": {
+          "de": "Wie heißt du? — Ich heiße Maria.",
+          "en": "What is your name? — I am called Maria.",
+          "ar": "ما اسمك؟ — اسمي ماريا."
+        }
+      },
+      {
+        "word": "Freut mich",
+        "gender": "phrase",
+        "english": "Pleased to meet you",
+        "arabic": "تشرفت بمعرفتك / فرصة سعيدة",
+        "phonetic": "fʁɔɪ̯t mɪç",
+        "example": {
+          "de": "Freut mich, Sie kennenzulernen.",
+          "en": "Pleased to meet you.",
+          "ar": "يسعدني التعرف عليك."
+        }
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "Alex",
+        "de": "Hallo! Wie heißt du?",
+        "en": "Hello! What is your name?",
+        "ar": "مرحباً! ما اسمك؟"
+      },
+      {
+        "speaker": "Samira",
+        "de": "Hallo! Ich heiße Samira. Und du?",
+        "en": "Hello! I am named Samira. And you?",
+        "ar": "مرحباً! اسمي سميرة. وأنت؟"
+      },
+      {
+        "speaker": "Alex",
+        "de": "Ich heiße Alex. Freut mich!",
+        "en": "My name is Alex. Pleased to meet you!",
+        "ar": "اسمي أليكس. تشرفت بمعرفتك!"
+      }
+    ],
+    "practiceQuestions": [
+      {
+        "id": "g1",
+        "type": "multiple_choice",
+        "prompt": {
+          "de": "Wie antworten Sie auf \"Wie heißt du?\"",
+          "en": "How do you reply to \"Wie heißt du?\"",
+          "ar": "كيف تجيب على \"Wie heißt du؟\""
+        },
+        "options": [
+          "Ich bin heiße Peter.",
+          "Ich heiße Peter.",
+          "Du heißt Peter.",
+          "Peter heißen ich."
+        ],
+        "correct": 1,
+        "explanation": {
+          "de": "Das Verb \"heißen\" mit \"ich\": Ich heiße [Name].",
+          "en": "The verb \"heißen\" conjugated with \"ich\": Ich heiße [Name].",
+          "ar": "الفعل \"heißen\" متصرفاً مع \"ich\": Ich heiße [الاسم]."
+        }
+      }
+    ],
+    "challenge": {
+      "title": "🎮 Greeting Duel",
+      "npc": "Neighbor",
+      "prompt": "Guten Morgen! Wie heißen Sie?",
+      "targetAnswer": "Ich heiße Tariq.",
+      "chips": [
+        "Ich",
+        "heiße",
+        "Tariq.",
+        "Sie",
+        "bist",
+        "Name"
+      ],
+      "successMessage": {
+        "de": "🎉 Perfekt vorgestellt!",
+        "en": "🎉 Perfect introduction!",
+        "ar": "🎉 تقديم رائع لنفسك!"
+      },
+      "reward": {
+        "xp": 40,
+        "badge": "👋 Friendly First Step"
+      }
+    }
+  },
+  {
+    "id": "a1-einkaufen",
+    "level": "A1",
+    "category": "Einkaufen & Markt",
+    "title": {
+      "de": "Im Supermarkt & auf dem Markt",
+      "en": "At the Supermarket & Market",
+      "ar": "في السوبرماركت والسوق 🇪🇬"
+    },
+    "subtitle": {
+      "de": "Mengen, Preise und Lebensmittel erfragen",
+      "en": "Asking about quantities, prices, and groceries",
+      "ar": "السؤال عن الكميات والأسعار والمأكولات"
+    },
+    "estimatedMinutes": 14,
+    "xpReward": 60,
+    "grammarFocus": {
+      "rule": "Mengenangaben + Akkusativ: Wie viel kostet ...? / Ich brauche ...",
+      "explanation": {
+        "de": "Beim Einkaufen fragt man mit 'Wie viel kostet...?' oder 'Was kosten...?'. Das gesuchte Objekt steht im Akkusativ.",
+        "en": "When shopping, ask 'Wie viel kostet...?' (singular) or 'Was kosten...?' (plural). Goods you request take the Akkusativ case.",
+        "ar": "عند الشراء نستخدم 'Wie viel kostet...؟' (للمفرد) أو 'Was kosten...؟' (للجمع). الشيء المطلوب يأتي في حالة النصب (Akkusativ) 🇪🇬."
+      }
+    },
+    "vocabulary": [
+      {
+        "word": "der Apfel",
+        "gender": "der",
+        "plural": "die Äpfel",
+        "english": "the apple",
+        "arabic": "التفاحة",
+        "phonetic": "deːɐ̯ ˈʔapfl̩",
+        "example": {
+          "de": "Ich möchte ein Kilo Äpfel, bitte.",
+          "en": "I would like a kilo of apples, please.",
+          "ar": "أود كيلو تفاح من فضلك."
+        }
+      },
+      {
+        "word": "die Milch",
+        "gender": "die",
+        "plural": "-",
+        "english": "the milk",
+        "arabic": "الحليب / اللبن",
+        "phonetic": "diː mɪlç",
+        "example": {
+          "de": "Wo finde ich die frische Milch?",
+          "en": "Where do I find the fresh milk?",
+          "ar": "أين أجد اللبن الطازج؟"
+        }
+      },
+      {
+        "word": "das Brot",
+        "gender": "das",
+        "plural": "die Brote",
+        "english": "the bread",
+        "arabic": "الخبز / العيش",
+        "phonetic": "das bʁoːt",
+        "example": {
+          "de": "Das Brot kostet zwei Euro fünfzig.",
+          "en": "The bread costs 2.50 Euros.",
+          "ar": "العيش تمنه 2.50 يورو."
+        }
+      },
+      {
+        "word": "die Flasche",
+        "gender": "die",
+        "plural": "die Flaschen",
+        "english": "the bottle",
+        "arabic": "الزجاجة / الإزازة",
+        "phonetic": "diː ˈflaʃə",
+        "example": {
+          "de": "Eine Flasche Mineralwasser bitte.",
+          "en": "A bottle of mineral water please.",
+          "ar": "إزازة مياه معدنية من فضلك."
+        }
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "Verkäufer",
+        "text": "Guten Tag! Was darf es sein?",
+        "en": "Good day! What can I get you?",
+        "ar": "مساء الخير! تطلب إيه حضرتك؟ 🇪🇬"
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Guten Tag! Ich brauche ein Kilo Tomaten und ein Brot.",
+        "en": "Good day! I need a kilo of tomatoes and bread.",
+        "ar": "مساء الخير! محتاج كيلو طماطم ورغيف عيش."
+      },
+      {
+        "speaker": "Verkäufer",
+        "text": "Gerne. Sonst noch etwas?",
+        "en": "Gladly. Anything else?",
+        "ar": "بكل سرور. أي حاجة تانية؟"
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Nein danke, das ist alles. Wie viel kostet das?",
+        "en": "No thanks, that is all. How much does that cost?",
+        "ar": "لا شكراً، دا كل شيء. الحساب كام؟"
+      }
+    ],
+    "speakingChallenge": {
+      "npc": "Kassierer",
+      "prompt": "Das macht zusammen fünf Euro bitte.",
+      "targetAnswer": "Hier bitte, und der Beleg bitte.",
+      "chips": [
+        "Hier",
+        "bitte,",
+        "und",
+        "der",
+        "Beleg",
+        "danke."
+      ],
+      "successMessage": {
+        "de": "🎉 Super bezahlt und eingekauft!",
+        "en": "🎉 Successfully paid and shopped!",
+        "ar": "🎉 اشتريت وحاسبت بنجاح! 🇪🇬"
+      },
+      "reward": {
+        "xp": 50,
+        "badge": "🛒 Markt-Profi"
+      }
+    }
+  },
+  {
+    "id": "a1-wegbeschreibung",
+    "level": "A1",
+    "category": "Orientierung in der Stadt",
+    "title": {
+      "de": "Nach dem Weg fragen",
+      "en": "Asking for Directions",
+      "ar": "السؤال عن الاتجاهات 🇪🇬"
+    },
+    "subtitle": {
+      "de": "Links, rechts, geradeaus und der Weg zum Bahnhof",
+      "en": "Left, right, straight ahead and the way to the station",
+      "ar": "يميناً، يساراً، للأمام مباشرة والطريق إلى المحطة"
+    },
+    "estimatedMinutes": 15,
+    "xpReward": 65,
+    "grammarFocus": {
+      "rule": "Präpositionen mit Dativ: zum / zur / nach / an der Kreuzung",
+      "explanation": {
+        "de": "'Zu' verlangt immer den Dativ (zu + dem = zum Bahnhof, zu + der = zur Bank). Richtungen: nach links, nach rechts, geradeaus.",
+        "en": "'Zu' always takes Dativ (zum = zu dem, zur = zu der). Directions: nach links (turn left), nach rechts (turn right), geradeaus (straight on).",
+        "ar": "حرف الجر 'zu' يطلب حالة Dativ دائماً (zum للمذكر والمحايد، zur للمؤنث). الاتجاهات: nach links يساراً، nach rechts يميناً، geradeaus للأمام مباشرة 🇪🇬."
+      }
+    },
+    "vocabulary": [
+      {
+        "word": "der Bahnhof",
+        "gender": "der",
+        "plural": "die Bahnhöfe",
+        "english": "the train station",
+        "arabic": "محطة القطار",
+        "phonetic": "deːɐ̯ ˈbaːnˌhoːf",
+        "example": {
+          "de": "Wie komme ich zum Bahnhof?",
+          "en": "How do I get to the train station?",
+          "ar": "إزاي أوصل لمحطة القطر؟"
+        }
+      },
+      {
+        "word": "die Kreuzung",
+        "gender": "die",
+        "plural": "die Kreuzungen",
+        "english": "the intersection / crossroads",
+        "arabic": "التقاطع / الميدان",
+        "phonetic": "diː ˈkʁɔɪ̯tsʊŋ",
+        "example": {
+          "de": "Biegen Sie an der Kreuzung links ab.",
+          "en": "Turn left at the intersection.",
+          "ar": "حَوّد شمال عند التقاطع."
+        }
+      },
+      {
+        "word": "geradeaus",
+        "gender": "-",
+        "plural": "-",
+        "english": "straight ahead",
+        "arabic": "على طول / للأمام مباشرة",
+        "phonetic": "ɡəˈʁaːdəˈʔaʊ̯s",
+        "example": {
+          "de": "Gehen Sie zweihundert Meter geradeaus.",
+          "en": "Walk straight ahead for two hundred meters.",
+          "ar": "امشي 200 متر على طول."
+        }
+      }
+    ],
+    "speakingChallenge": {
+      "npc": "Passant",
+      "prompt": "Entschuldigung, wo ist die Apotheke?",
+      "targetAnswer": "Gehen Sie geradeaus und dann rechts.",
+      "chips": [
+        "Gehen",
+        "Sie",
+        "geradeaus",
+        "und",
+        "dann",
+        "rechts."
+      ],
+      "successMessage": {
+        "de": "🧭 Perfekt den Weg beschrieben!",
+        "en": "🧭 Perfect direction advice!",
+        "ar": "🧭 وصفت الطريق بشكل مثالي! 🇪🇬"
+      },
+      "reward": {
+        "xp": 55,
+        "badge": "🧭 Stadtführer"
+      }
+    }
+  },
+  {
+    "id": "a2-beim-arzt",
+    "level": "A2",
+    "category": "Gesundheit & Körper",
+    "title": {
+      "de": "Beim Arzt & Gesundheit",
+      "en": "At the Doctor & Health",
+      "ar": "عند الطبيب والصحة 🇪🇬"
+    },
+    "subtitle": {
+      "de": "Symptome beschreiben und Ratschläge verstehen",
+      "en": "Describing symptoms and understanding medical advice",
+      "ar": "وصف الأعراض وفهم نصائح الطبيب"
+    },
+    "estimatedMinutes": 16,
+    "xpReward": 70,
+    "grammarFocus": {
+      "rule": "Modalverben: müssen / sollen / dürfen + Dativ 'tut weh'",
+      "explanation": {
+        "de": "'Mein Kopf tut weh' / 'Ich habe Halsschmerzen'. Der Arzt rät mit 'Sie sollten viel trinken' und 'Sie müssen im Bett bleiben'.",
+        "en": "Express pain: 'Mein Kopf tut weh' (My head hurts) or 'Ich habe Schmerzen'. Doctor advice uses modal verbs 'sollen' (should) and 'müssen' (must).",
+        "ar": "للتعبير عن الألم نقول: 'Mein Kopf tut weh' (رأسي يؤلمني) أو 'Ich habe Kopfschmerzen'. الطبيب يقدم النصيحة بأفعال الكيفية: sollen و müssen 🇪🇬."
+      }
+    },
+    "vocabulary": [
+      {
+        "word": "der Schmerz",
+        "gender": "der",
+        "plural": "die Schmerzen",
+        "english": "the pain / ache",
+        "arabic": "الألم / الوجع",
+        "phonetic": "deːɐ̯ ʃmɛʁts",
+        "example": {
+          "de": "Ich habe seit drei Tagen Magenschmerzen.",
+          "en": "I have had stomach pain for three days.",
+          "ar": "عندي وجع في المعدة بقاله 3 أيام."
+        }
+      },
+      {
+        "word": "das Rezept",
+        "gender": "das",
+        "plural": "die Rezepte",
+        "english": "the prescription",
+        "arabic": "الروشتة الطبية",
+        "phonetic": "das ʁeˈtsɛpt",
+        "example": {
+          "de": "Der Arzt stellt ein Rezept für Antibiotika aus.",
+          "en": "The doctor issues a prescription for antibiotics.",
+          "ar": "الدكتور كتب روشتة للمضاد الحيوي."
+        }
+      },
+      {
+        "word": "die Besserung",
+        "gender": "die",
+        "plural": "-",
+        "english": "recovery / improvement",
+        "arabic": "الشفاء / التحسن",
+        "phonetic": "diː ˈbɛsəʁʊŋ",
+        "example": {
+          "de": "Gute Besserung! Werden Sie schnell gesund.",
+          "en": "Get well soon! Recover quickly.",
+          "ar": "ألف سلامة عليك! بالشفاء العاجل."
+        }
+      }
+    ],
+    "speakingChallenge": {
+      "npc": "Ärztin",
+      "prompt": "Was fehlt Ihnen denn?",
+      "targetAnswer": "Ich habe Fieber und Halsschmerzen.",
+      "chips": [
+        "Ich",
+        "habe",
+        "Fieber",
+        "und",
+        "Halsschmerzen."
+      ],
+      "successMessage": {
+        "de": "🩺 Ausgezeichnete Konsultation!",
+        "en": "🩺 Excellent consultation!",
+        "ar": "🩺 شرحت حالتك للطبيب باحتراف! 🇪🇬"
+      },
+      "reward": {
+        "xp": 60,
+        "badge": "🩺 Tapferer Patient"
+      }
+    }
+  },
+  {
+    "id": "b1-vorstellungsgespraech",
+    "level": "B1",
+    "category": "Beruf & Karriere",
+    "title": {
+      "de": "Das Vorstellungsgespräch",
+      "en": "The Job Interview",
+      "ar": "مقابلة العمل الرسمية 🇪🇬"
+    },
+    "subtitle": {
+      "de": "Qualifikationen, Stärken und Höflichkeit mit Konjunktiv II",
+      "en": "Presenting qualifications, strengths, and professional politeness",
+      "ar": "عرض الخبرات ونقاط القوة والأسلوب المهني الراقي"
+    },
+    "estimatedMinutes": 18,
+    "xpReward": 85,
+    "grammarFocus": {
+      "rule": "Höflicher Konjunktiv II + Kausalsätze (da / weil / obwohl)",
+      "explanation": {
+        "de": "Im Bewerbungsgespräch nutzt man 'Ich würde mich freuen', 'Ich könnte unterstützen' und begründet Entscheidungen mit 'da' und 'obwohl'.",
+        "en": "In professional interviews, use Konjunktiv II for elegant politeness: 'Ich würde mich freuen' (I would be delighted), 'Ich könnte beitragen' (I could contribute).",
+        "ar": "في مقابلات العمل الألمانية، يُستخدم Konjunktiv II لإظهار الاحترام واللباقة الشديدة: 'Ich würde mich freuen' (يسعدني جداً) وتبرير القرارات بـ da و obwohl 🇪🇬."
+      }
+    },
+    "vocabulary": [
+      {
+        "word": "die Erfahrung",
+        "gender": "die",
+        "plural": "die Erfahrungen",
+        "english": "experience",
+        "arabic": "الخبرة المهنية",
+        "phonetic": "diː ɛɐ̯ˈfaːʁʊŋ",
+        "example": {
+          "de": "Ich bringe fünf Jahre Erfahrung im Bereich Software mit.",
+          "en": "I bring five years of experience in software development.",
+          "ar": "لدي خمس سنوات من الخبرة في مجال البرمجيات."
+        }
+      },
+      {
+        "word": "die Stärke",
+        "gender": "die",
+        "plural": "die Stärken",
+        "english": "strength / strong point",
+        "arabic": "نقطة القوة / الميزة",
+        "phonetic": "diː ˈʃtɛʁkə",
+        "example": {
+          "de": "Meine größte Stärke ist Teamfähigkeit.",
+          "en": "My greatest strength is teamwork.",
+          "ar": "أكبر نقاط قوتي هي العمل بروح الفريق."
+        }
+      },
+      {
+        "word": "die Bewerbung",
+        "gender": "die",
+        "plural": "die Bewerbungen",
+        "english": "job application",
+        "arabic": "طلب التقديم على وظيفة",
+        "phonetic": "diː bəˈvɛʁbʊŋ",
+        "example": {
+          "de": "Vielen Dank für Ihre Einladung zum Gespräch.",
+          "en": "Thank you very much for inviting me to the interview.",
+          "ar": "شكراً جزيلاً لدعوتي إلى المقابلة الشخصية."
+        }
+      }
+    ],
+    "speakingChallenge": {
+      "npc": "Personalchef",
+      "prompt": "Warum sollten wir uns für Sie entscheiden?",
+      "targetAnswer": "Weil ich sehr motiviert und zielorientiert bin.",
+      "chips": [
+        "Weil",
+        "ich",
+        "sehr",
+        "motiviert",
+        "und",
+        "zielorientiert",
+        "bin."
+      ],
+      "successMessage": {
+        "de": "💼 Hervorragend! Die Stelle ist fast sicher!",
+        "en": "💼 Outstanding! The job offer is within reach!",
+        "ar": "💼 إجابة مقنعة وواثقة! الوظيفة في جيبك! 🇪🇬"
+      },
+      "reward": {
+        "xp": 80,
+        "badge": "💼 Karriere-Meister"
+      }
+    }
+  }
+]

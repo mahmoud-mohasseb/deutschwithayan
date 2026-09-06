@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Deutsch with Ayan",
+    "slug": "deutsch-with-ayan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ayan_logo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/ayan_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B1120"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.deutschwithayan.app"
+    },
+    "android": {
+      "package": "com.deutschwithayan.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ayan_logo.png",
+        "backgroundColor": "#0B1120"
+      }
+    },
+    "web": {
+      "favicon": "./assets/ayan_logo.png"
+    },
+    "plugins": [
+      "expo-image",
+      "expo-status-bar"
+    ]
+  }
+}

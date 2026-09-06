@@ -1,0 +1,95 @@
+[
+  {
+    "id": "dw-nicos-weg",
+    "title": "Nicos Weg (A1–B1)",
+    "provider": "Deutsche Welle (DW)",
+    "url": "https://learngerman.dw.com/",
+    "license": "Creative Commons / Educational Use with Attribution",
+    "cefrRange": [
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "description": "Thematic units, situational dialogues, vocabulary lists, and everyday communicative contexts.",
+    "descriptionAr": "سلسلة نيل الشهادات والتواصل اليومي من دويتشه فيله تغطي المستويات من A1 حتى B1 مع حوارات ومواقف واقعية 🇪🇬."
+  },
+  {
+    "id": "goethe-cefr-curriculum",
+    "title": "Goethe-Institut CEFR Framework & Practice Materials (A1–C2)",
+    "provider": "Goethe-Institut e.V.",
+    "url": "https://www.goethe.de/en/spr/kup/prf/prf.html",
+    "license": "Public Educational Resource / Exam Syllabus",
+    "cefrRange": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "description": "Core competencies for Hören (Listening), Lesen (Reading), Schreiben (Writing), and Sprechen (Speaking).",
+    "descriptionAr": "المعايير المعتمدة رسمياً لامتحانات معهد جوته في المهارات الأربع من المستوى المبتدئ وحتى الإتقان التام 🇪🇬."
+  },
+  {
+    "id": "goethe-deutschstunde",
+    "title": "Deutschstunde Teaching & Youth Materials",
+    "provider": "Goethe-Institut",
+    "url": "https://www.goethe.de/de/spr/unt/kum/dsh.html",
+    "license": "Free Educational Material for German Learning",
+    "cefrRange": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1"
+    ],
+    "description": "Interactive cultural content, games, and youth-oriented communicative modules.",
+    "descriptionAr": "مواد تعليمية تفاعلية موجهة للأطفال والشباب لتعزيز حب اللغة الألمانية بالألعاب والرسومات 🇪🇬."
+  },
+  {
+    "id": "goethe-beruf",
+    "title": "German at Work (Deutsch am Arbeitsplatz)",
+    "provider": "Goethe-Institut",
+    "url": "https://www.goethe.de/de/spr/unt/kum/dfb.html",
+    "license": "Educational Resource",
+    "cefrRange": [
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "description": "Professional workplace communication, emails, meetings, and business German.",
+    "descriptionAr": "التواصل الاحترافي في بيئة العمل الألمانية، كتابة الإيميلات الرسمية، وحضور الاجتماعات 🇪🇬."
+  },
+  {
+    "id": "canoonet-grammis",
+    "title": "Grammis & Canoonet German Grammar Reference",
+    "provider": "Leibniz-Institut für Deutsche Sprache (IDS Mannheim)",
+    "url": "https://grammis.ids-mannheim.de/",
+    "license": "Open Academic Linguistic Database",
+    "cefrRange": [
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "description": "Exhaustive scientific grammar and syntax reference for German sentence structure, valence, and morphology.",
+    "descriptionAr": "المرجع الأكاديمي النحوي الشامل لبنية الجملة الألمانية وتصريف الأفعال وعلاقات الإعراب 🇪🇬."
+  },
+  {
+    "id": "telc-language-tests",
+    "title": "Telc Deutsch Prüfungen (A1 - C2)",
+    "provider": "telc gGmbH",
+    "url": "https://www.telc.net/sprachpruefungen/deutsch/",
+    "license": "European Language Certificates Standards",
+    "cefrRange": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "description": "Standardized certification specifications, diagnostic tests, and evaluation metrics.",
+    "descriptionAr": "معايير شهادات تيلك الأوروبية المعترف بها للهجرة والعمل والدراسة الجامعية في ألمانيا 🇪🇬."
+  }
+]

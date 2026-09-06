@@ -1,0 +1,526 @@
+[
+  {
+    "id": "farben_zahlen",
+    "titleDe": "Farben & Zahlen",
+    "titleEn": "Colors & Numbers",
+    "titleAr": "الألوان والأرقام 🇪🇬",
+    "icon": "palette",
+    "badge": "KIDS 1",
+    "color": "#FF6B55",
+    "mascotTip": "Lass uns die Welt bunt malen! Zähle mit mir von 1 bis 10! 🎨",
+    "mascotTipAr": "يلا نلوّن العالم مع بعض! عد معايا من 1 لـ 10! 🇪🇬",
+    "vocab": [
+      {
+        "de": "rot",
+        "en": "red",
+        "ar": "أحمر",
+        "emoji": "🔴",
+        "sound": "rot",
+        "example": "Der Apfel ist rot."
+      },
+      {
+        "de": "blau",
+        "en": "blue",
+        "ar": "أزرق",
+        "emoji": "🔵",
+        "sound": "blau",
+        "example": "Der Himmel ist blau."
+      },
+      {
+        "de": "gelb",
+        "en": "yellow",
+        "ar": "أصفر",
+        "emoji": "🟡",
+        "sound": "gelb",
+        "example": "Die Sonne ist gelb."
+      },
+      {
+        "de": "grün",
+        "en": "green",
+        "ar": "أخضر",
+        "emoji": "🟢",
+        "sound": "grün",
+        "example": "Der Frosch ist grün."
+      },
+      {
+        "de": "eins",
+        "en": "one (1)",
+        "ar": "واحد (١)",
+        "emoji": "1️⃣",
+        "sound": "eins",
+        "example": "Ich habe einen Ball."
+      },
+      {
+        "de": "zwei",
+        "en": "two (2)",
+        "ar": "اثنان (٢)",
+        "emoji": "2️⃣",
+        "sound": "zwei",
+        "example": "Zwei kleine Katzen."
+      },
+      {
+        "de": "drei",
+        "en": "three (3)",
+        "ar": "ثلاثة (٣)",
+        "emoji": "3️⃣",
+        "sound": "drei",
+        "example": "Drei bunte Luftballons."
+      },
+      {
+        "de": "zehn",
+        "en": "ten (10)",
+        "ar": "عشرة (١٠)",
+        "emoji": "🔟",
+        "sound": "zehn",
+        "example": "Zehn fliegende Sterne!"
+      }
+    ],
+    "funChallenge": {
+      "questionDe": "Welche Farbe hat die Sonne?",
+      "questionEn": "What color is the sun?",
+      "questionAr": "ما هو لون الشمس؟ 🇪🇬",
+      "options": [
+        "rot",
+        "gelb",
+        "blau"
+      ],
+      "correct": 1,
+      "explanation": "Die Sonne ist gelb! ☀️",
+      "explanationAr": "الشمس لونها أصفر! ☀️ 🇪🇬"
+    }
+  },
+  {
+    "id": "tiere_haustiere",
+    "titleDe": "Tiere & Haustiere",
+    "titleEn": "Animals & Pets",
+    "titleAr": "الحيوانات الأليفة 🇪🇬",
+    "icon": "paw",
+    "badge": "KIDS 2",
+    "color": "#36C5A0",
+    "mascotTip": "Wuff! Miau! Hörst du die Tiere im Zauberwald? 🐶",
+    "mascotTipAr": "هوهو! مياو! سامع أصوات الحيوانات في الغابة السحرية؟ 🇪🇬",
+    "vocab": [
+      {
+        "de": "der Hund",
+        "en": "the dog",
+        "ar": "الكلب",
+        "emoji": "🐕",
+        "sound": "der Hund",
+        "gender": "der",
+        "example": "Der Hund bellt laut."
+      },
+      {
+        "de": "die Katze",
+        "en": "the cat",
+        "ar": "القطة",
+        "emoji": "🐈",
+        "sound": "die Katze",
+        "gender": "die",
+        "example": "Die Katze schläft süß."
+      },
+      {
+        "de": "der Vogel",
+        "en": "the bird",
+        "ar": "العصفور",
+        "emoji": "🐦",
+        "sound": "der Vogel",
+        "gender": "der",
+        "example": "Der Vogel singt ein Lied."
+      },
+      {
+        "de": "der Löwe",
+        "en": "the lion",
+        "ar": "الأسد",
+        "emoji": "🦁",
+        "sound": "der Löwe",
+        "gender": "der",
+        "example": "Der Löwe ist der König."
+      },
+      {
+        "de": "der Hase",
+        "en": "the rabbit",
+        "ar": "الأرنب",
+        "emoji": "🐇",
+        "sound": "der Hase",
+        "gender": "der",
+        "example": "Der Hase hüpft schnell."
+      },
+      {
+        "de": "das Pferd",
+        "en": "the horse",
+        "ar": "الحصان",
+        "emoji": "🐎",
+        "sound": "das Pferd",
+        "gender": "das",
+        "example": "Das Pferd rennt auf der Wiese."
+      }
+    ],
+    "funChallenge": {
+      "questionDe": "Wer macht \"Miau\"?",
+      "questionEn": "Who says \"Meow\"?",
+      "questionAr": "مين اللي بيقول \"مياو\"؟ 🇪🇬",
+      "options": [
+        "Der Hund",
+        "Die Katze",
+        "Der Vogel"
+      ],
+      "correct": 1,
+      "explanation": "Die Katze sagt Miau! 🐈",
+      "explanationAr": "القطة هي اللي بتقول مياو! 🐈 🇪🇬"
+    }
+  },
+  {
+    "id": "spielzeug_hobbys",
+    "titleDe": "Spielzeug & Hobbys",
+    "titleEn": "Toys & Hobbies",
+    "titleAr": "الألعاب والهوايات 🇪🇬",
+    "icon": "gamepad-variant",
+    "badge": "KIDS 3",
+    "color": "#7D72FA",
+    "mascotTip": "Zeit zum Spielen! Was ist dein Lieblingsspielzeug? ⚽",
+    "mascotTipAr": "وقت اللعب! إيه هي لعبتك المفضلة؟ 🇪🇬",
+    "vocab": [
+      {
+        "de": "der Ball",
+        "en": "the ball",
+        "ar": "الكرة",
+        "emoji": "⚽",
+        "sound": "der Ball",
+        "gender": "der",
+        "example": "Ich kicke den Ball ins Tor."
+      },
+      {
+        "de": "die Puppe",
+        "en": "the doll",
+        "ar": "العروسة اللعبة",
+        "emoji": "🪆",
+        "sound": "die Puppe",
+        "gender": "die",
+        "example": "Die Puppe hat ein schönes Kleid."
+      },
+      {
+        "de": "das Auto",
+        "en": "the toy car",
+        "ar": "عربية اللعبة",
+        "emoji": "🚗",
+        "sound": "das Auto",
+        "gender": "das",
+        "example": "Das kleine Auto fährt schnell."
+      },
+      {
+        "de": "das Buch",
+        "en": "the picture book",
+        "ar": "كتاب القصص المصور",
+        "emoji": "📚",
+        "sound": "das Buch",
+        "gender": "das",
+        "example": "Ich lese ein Bilderbuch."
+      },
+      {
+        "de": "das Flugzeug",
+        "en": "the toy airplane",
+        "ar": "الطيارة",
+        "emoji": "✈️",
+        "sound": "das Flugzeug",
+        "gender": "das",
+        "example": "Das Flugzeug fliegt hoch."
+      }
+    ],
+    "funChallenge": {
+      "questionDe": "Was rollt und wird im Fußball geschossen?",
+      "questionEn": "What rolls and is kicked in soccer?",
+      "questionAr": "إيه اللي بيتدحرج وبنشوطه في كورة القدم؟ 🇪🇬",
+      "options": [
+        "Das Buch",
+        "Der Ball",
+        "Die Puppe"
+      ],
+      "correct": 1,
+      "explanation": "Der Ball rollt ins Tor! ⚽",
+      "explanationAr": "الكرة هي اللي بنشوطها في المرمى! ⚽ 🇪🇬"
+    }
+  },
+  {
+    "id": "essen_lecker",
+    "titleDe": "Essen & Leckereien",
+    "titleEn": "Food & Yummy Treats",
+    "titleAr": "الأكل والحلويات اللذيذة 🇪🇬",
+    "icon": "food-apple",
+    "badge": "KIDS 4",
+    "color": "#F9B845",
+    "mascotTip": "Hmm, lecker! Ich habe Hunger auf Pizza und Eis! 🍕",
+    "mascotTipAr": "هممم، لذيذ! نفسي في بيتزا وآيس كريم! 🇪🇬",
+    "vocab": [
+      {
+        "de": "der Apfel",
+        "en": "the apple",
+        "ar": "التفاحة",
+        "emoji": "🍎",
+        "sound": "der Apfel",
+        "gender": "der",
+        "example": "Der rote Apfel schmeckt süß."
+      },
+      {
+        "de": "die Pizza",
+        "en": "the pizza",
+        "ar": "البيتزا",
+        "emoji": "🍕",
+        "sound": "die Pizza",
+        "gender": "die",
+        "example": "Die Pizza mit Käse ist heiß."
+      },
+      {
+        "de": "das Eis",
+        "en": "the ice cream",
+        "ar": "الآيس كريم",
+        "emoji": "🍦",
+        "sound": "das Eis",
+        "gender": "das",
+        "example": "Schokoladeneis ist mein Favorit."
+      },
+      {
+        "de": "das Wasser",
+        "en": "the water",
+        "ar": "الماء",
+        "emoji": "💧",
+        "sound": "das Wasser",
+        "gender": "das",
+        "example": "Kaltes Wasser erfrischt."
+      },
+      {
+        "de": "die Milch",
+        "en": "the milk",
+        "ar": "اللبن (الحليب)",
+        "emoji": "🥛",
+        "sound": "die Milch",
+        "gender": "die",
+        "example": "Katzen mögen warme Milch."
+      },
+      {
+        "de": "die Banane",
+        "en": "the banana",
+        "ar": "الموزة",
+        "emoji": "🍌",
+        "sound": "die Banane",
+        "gender": "die",
+        "example": "Affen essen gerne Bananen."
+      }
+    ],
+    "funChallenge": {
+      "questionDe": "Was ist kalt und süß im Sommer?",
+      "questionEn": "What is cold and sweet in summer?",
+      "questionAr": "إيه اللي بارد ولذيذ ومسكر في الصيف؟ 🇪🇬",
+      "options": [
+        "Die Pizza",
+        "Das Eis",
+        "Das Brot"
+      ],
+      "correct": 1,
+      "explanation": "Das Eis ist herrlich kalt! 🍦",
+      "explanationAr": "الآيس كريم بارد ومنعش! 🍦 🇪🇬"
+    }
+  },
+  {
+    "id": "schule_familie",
+    "titleDe": "Schule & Familie",
+    "titleEn": "School & Family",
+    "titleAr": "المدرسة والعائلة 🇪🇬",
+    "icon": "school",
+    "badge": "KIDS 5",
+    "color": "#4AA9FF",
+    "mascotTip": "Mama, Papa und mein Schulrucksack sind bereit! 🎒",
+    "mascotTipAr": "ماما وبابا وشنطة المدرسة جاهزين! 🇪🇬",
+    "vocab": [
+      {
+        "de": "die Mama",
+        "en": "the mom",
+        "ar": "ماما",
+        "emoji": "👩",
+        "sound": "die Mama",
+        "gender": "die",
+        "example": "Meine Mama ist die Beste."
+      },
+      {
+        "de": "der Papa",
+        "en": "the dad",
+        "ar": "بابا",
+        "emoji": "👨",
+        "sound": "der Papa",
+        "gender": "der",
+        "example": "Mein Papa baut ein Baumhaus."
+      },
+      {
+        "de": "die Schule",
+        "en": "the school",
+        "ar": "المدرسة",
+        "emoji": "🏫",
+        "sound": "die Schule",
+        "gender": "die",
+        "example": "In der Schule lerne ich Deutsch."
+      },
+      {
+        "de": "der Stift",
+        "en": "the pen/pencil",
+        "ar": "القلم",
+        "emoji": "✏️",
+        "sound": "der Stift",
+        "gender": "der",
+        "example": "Ich male mit dem Stift."
+      },
+      {
+        "de": "die Tasche",
+        "en": "the school backpack",
+        "ar": "حقيبة المدرسة",
+        "emoji": "🎒",
+        "sound": "die Tasche",
+        "gender": "die",
+        "example": "Meine Tasche ist voll mit Büchern."
+      }
+    ],
+    "funChallenge": {
+      "questionDe": "Womit schreibst du im Heft?",
+      "questionEn": "What do you write with in a notebook?",
+      "questionAr": "بتكتب بإيه في الكشكول؟ 🇪🇬",
+      "options": [
+        "Mit dem Stift",
+        "Mit dem Ball",
+        "Mit dem Apfel"
+      ],
+      "correct": 0,
+      "explanation": "Mit dem Stift schreibt man wunderbar! ✏️",
+      "explanationAr": "بالقلم بنكتب ونرسم! ✏️ 🇪🇬"
+    }
+  },
+  {
+    "id": "wetter_jahreszeiten",
+    "titleDe": "Wetter & Jahreszeiten",
+    "titleEn": "Weather & Seasons",
+    "titleAr": "الطقس وفصول السنة ☀️❄️ 🇪🇬",
+    "icon": "weather-partly-cloudy",
+    "badge": "KIDS 6",
+    "color": "#38BDF8",
+    "mascotTip": "Scheint die Sonne oder schneit es heute? Zieh deine Jacke an! 🧥",
+    "mascotTipAr": "الشمس طالعة ولا الدنيا بتمطر تلج؟ البس الجاكيت يلا! 🇪🇬",
+    "vocab": [
+      {
+        "de": "die Sonne",
+        "en": "the sun",
+        "ar": "الشمس",
+        "emoji": "☀️",
+        "sound": "die Sonne",
+        "example": "Die Sonne scheint warm."
+      },
+      {
+        "de": "der Regen",
+        "en": "the rain",
+        "ar": "المطر",
+        "emoji": "🌧️",
+        "sound": "der Regen",
+        "example": "Ich mag den Regen."
+      },
+      {
+        "de": "der Schnee",
+        "en": "the snow",
+        "ar": "الثلج",
+        "emoji": "❄️",
+        "sound": "der Schnee",
+        "example": "Wir bauen einen Schneemann!"
+      },
+      {
+        "de": "der Sommer",
+        "en": "the summer",
+        "ar": "الصيف",
+        "emoji": "🏖️",
+        "sound": "der Sommer",
+        "example": "Im Sommer schwimmen wir im See."
+      },
+      {
+        "de": "der Winter",
+        "en": "the winter",
+        "ar": "الشتاء",
+        "emoji": "⛄",
+        "sound": "der Winter",
+        "example": "Im Winter ist es kalt."
+      }
+    ],
+    "funChallenge": {
+      "questionDe": "Was bauen Kinder gerne im Winter aus Schnee?",
+      "questionEn": "What do kids love building out of snow in winter?",
+      "questionAr": "الأطفال بيحبوا يبنوا إيه من الثلج في الشتاء؟ 🇪🇬",
+      "options": [
+        "Einen Schneemann",
+        "Einen Apfel",
+        "Ein Fahrrad"
+      ],
+      "correct": 0,
+      "explanation": "Genau! Einen lustigen Schneemann mit Karottennase! ⛄",
+      "explanationAr": "صح جداً! رجل ثلج ظريف وبمنخار جزرة! ⛄ 🇪🇬"
+    }
+  },
+  {
+    "id": "mein_koerper",
+    "titleDe": "Mein Körper",
+    "titleEn": "My Body & Health",
+    "titleAr": "جسمي وحواسي 👀👂 🇪🇬",
+    "icon": "human",
+    "badge": "KIDS 7",
+    "color": "#F472B6",
+    "mascotTip": "Zwei Augen zum Sehen, zwei Ohren zum Hören! 🌟",
+    "mascotTipAr": "عينين عشان نشوف، وودنين عشان نسمع الكلام الحلو! 🇪🇬",
+    "vocab": [
+      {
+        "de": "der Kopf",
+        "en": "the head",
+        "ar": "الرأس",
+        "emoji": "👤",
+        "sound": "der Kopf",
+        "example": "Ich nicke mit dem Kopf."
+      },
+      {
+        "de": "das Auge",
+        "en": "the eye",
+        "ar": "العين",
+        "emoji": "👀",
+        "sound": "das Auge",
+        "example": "Zwei blaue Augen."
+      },
+      {
+        "de": "das Ohr",
+        "en": "the ear",
+        "ar": "الأذن / الودن",
+        "emoji": "👂",
+        "sound": "das Ohr",
+        "example": "Ich höre Musik mit den Ohren."
+      },
+      {
+        "de": "die Nase",
+        "en": "the nose",
+        "ar": "الأنف / المناخير",
+        "emoji": "👃",
+        "sound": "die Nase",
+        "example": "Die Blume riecht so gut!"
+      },
+      {
+        "de": "der Mund",
+        "en": "the mouth",
+        "ar": "الفم / البق",
+        "emoji": "👄",
+        "sound": "der Mund",
+        "example": "Ein strahlendes Lächeln!"
+      }
+    ],
+    "funChallenge": {
+      "questionDe": "Womit riechst du Blumen?",
+      "questionEn": "What do you smell flowers with?",
+      "questionAr": "بتشم الورد بإيه؟ 🇪🇬",
+      "options": [
+        "Mit den Ohren",
+        "Mit der Nase",
+        "Mit den Füßen"
+      ],
+      "correct": 1,
+      "explanation": "Richtig! Mit der Nase riecht man die schönsten Düfte! 👃",
+      "explanationAr": "مظبوط! بالمناخير بنشم أحلى روايح الورد! 👃 🇪🇬"
+    }
+  }
+]

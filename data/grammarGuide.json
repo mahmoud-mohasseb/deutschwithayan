@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cases_overview",
+    "level": "A1-A2",
+    "titleDe": "Die 4 Fälle im Deutschen",
+    "titleEn": "The 4 German Cases (Cases Master)",
+    "titleAr": "الحالات الإعرابية الأربع في الألمانية",
+    "summaryEn": "German uses 4 grammatical cases to define the role of a noun in a sentence.",
+    "summaryAr": "تستخدم اللغة الألمانية 4 حالات إعرابية لتحديد وظيفة الاسم في الجملة.",
+    "cases": [
+      {
+        "name": "Nominativ",
+        "question": "Wer? / Was? (Who? / What?)",
+        "roleEn": "Subject of the sentence (the one performing the action).",
+        "roleAr": "الفاعل (من يقوم بالفعل في الجملة).",
+        "articles": {
+          "der": "der",
+          "die": "die",
+          "das": "das",
+          "plural": "die"
+        },
+        "example": {
+          "de": "Der Lehrer erklärt die Grammatik.",
+          "en": "The teacher explains the grammar.",
+          "ar": "المعلم يشرح القواعد."
+        }
+      },
+      {
+        "name": "Akkusativ",
+        "question": "Wen? / Was? (Whom? / What?)",
+        "roleEn": "Direct object (the receiver of the action). Only masculine changes: der ➔ den!",
+        "roleAr": "المفعول به المباشر. يتغير المذكر فقط: der تصبح den!",
+        "articles": {
+          "der": "den",
+          "die": "die",
+          "das": "das",
+          "plural": "die"
+        },
+        "example": {
+          "de": "Ich habe einen neuen Computer.",
+          "en": "I have a new computer.",
+          "ar": "لدي حاسوب جديد."
+        }
+      },
+      {
+        "name": "Dativ",
+        "question": "Wem? (To whom? / For whom?)",
+        "roleEn": "Indirect object (beneficiary, location \"wo?\"). All articles change!",
+        "roleAr": "المفعول به غير المباشر (المستفيد، أو السؤال عن المكان \"أين؟\"). كل الأدوات تتغير!",
+        "articles": {
+          "der": "dem",
+          "die": "der",
+          "das": "dem",
+          "plural": "den (+n)"
+        },
+        "example": {
+          "de": "Ich helfe dem Freund und der Mutter.",
+          "en": "I help the friend and the mother.",
+          "ar": "أنا أساعد الصديق والأم."
+        }
+      },
+      {
+        "name": "Genitiv",
+        "question": "Wessen? (Whose?)",
+        "roleEn": "Possession / ownership (of the...).",
+        "roleAr": "المضاف إليه / الملكية (خاص بـ...).",
+        "articles": {
+          "der": "des (+s/es)",
+          "die": "der",
+          "das": "des (+s/es)",
+          "plural": "der"
+        },
+        "example": {
+          "de": "Das Auto des Vaters ist sehr schnell.",
+          "en": "The father's car is very fast.",
+          "ar": "سيارة الوالد سريعة جداً."
+        }
+      }
+    ]
+  },
+  {
+    "id": "two_way_prepositions",
+    "level": "A2-B1",
+    "titleDe": "Wechselpräpositionen (Akkusativ vs. Dativ)",
+    "titleEn": "Two-Way Prepositions (Movement vs. Position)",
+    "titleAr": "حروف الجر الثنائية (الحركة مقابل الثبات)",
+    "summaryEn": "9 prepositions change case depending on movement (Wohin? ➔ Akkusativ) or location (Wo? ➔ Dativ): an, auf, hinter, in, neben, über, unter, vor, zwischen.",
+    "summaryAr": "تسعة حروف جر يتغير إعرابها حسب الحركة (إلى أين؟ ➔ Akkusativ) أو الثبات في المكان (أين؟ ➔ Dativ).",
+    "prepositions": [
+      "in",
+      "auf",
+      "an",
+      "vor",
+      "hinter",
+      "über",
+      "unter",
+      "neben",
+      "zwischen"
+    ],
+    "rules": [
+      {
+        "type": "Wohin? (Movement / Direction) ➔ Akkusativ",
+        "typeAr": "إلى أين؟ (حركة / تغيير مكان) ➔ حالة النصب (Akkusativ)",
+        "example": {
+          "de": "Ich lege das Buch auf den Tisch.",
+          "en": "I put the book onto the table. (Action of placing)",
+          "ar": "أضع الكتاب على الطاولة. (فعل وضع / حركة)"
+        }
+      },
+      {
+        "type": "Wo? (Stationary Location) ➔ Dativ",
+        "typeAr": "أين؟ (ثبات في المكان) ➔ حالة المجرور (Dativ)",
+        "example": {
+          "de": "Das Buch liegt auf dem Tisch.",
+          "en": "The book is lying on the table. (Static position)",
+          "ar": "الكتاب موجود على الطاولة. (موقع ثابت)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "modal_verbs",
+    "level": "A1-A2",
+    "titleDe": "Modalverben im Deutschen",
+    "titleEn": "German Modal Verbs",
+    "titleAr": "الأفعال الناقصة / المساعدة (Modalverben)",
+    "summaryEn": "Modal verbs express ability, necessity, permission, or desire. The main verb goes to the end in INFINITIVE form.",
+    "summaryAr": "تعبر عن القدرة، الإلزام، الإذن أو الرغبة. الفعل الأساسي ينتقل إلى نهاية الجملة في صيغة المصدر.",
+    "verbs": [
+      {
+        "verb": "können (can / to be able to)",
+        "verbAr": "يستطيع / يمكنه",
+        "ich": "kann",
+        "du": "kannst",
+        "er": "kann",
+        "wir": "können",
+        "example": {
+          "de": "Ich kann sehr gut Deutsch sprechen.",
+          "en": "I can speak German very well.",
+          "ar": "أستطيع التحدث بالألمانية جيداً."
+        }
+      },
+      {
+        "verb": "müssen (must / have to)",
+        "verbAr": "يجب / يلزم",
+        "ich": "muss",
+        "du": "musst",
+        "er": "muss",
+        "wir": "müssen",
+        "example": {
+          "de": "Wir müssen heute fleißig lernen.",
+          "en": "We must study diligently today.",
+          "ar": "يجب علينا أن ندرس باجتهاد اليوم."
+        }
+      },
+      {
+        "verb": "wollen (to want to)",
+        "verbAr": "يريد",
+        "ich": "will",
+        "du": "willst",
+        "er": "will",
+        "wir": "wollen",
+        "example": {
+          "de": "Er will nach Berlin reisen.",
+          "en": "He wants to travel to Berlin.",
+          "ar": "هو يريد السفر إلى برلين."
+        }
+      },
+      {
+        "verb": "dürfen (may / to be allowed)",
+        "verbAr": "يُسمح له / يجوز",
+        "ich": "darf",
+        "du": "darfst",
+        "er": "darf",
+        "wir": "dürfen",
+        "example": {
+          "de": "Hier darf man nicht rauchen.",
+          "en": "One is not allowed to smoke here.",
+          "ar": "غير مسموح بالتدخين هنا."
+        }
+      },
+      {
+        "verb": "möchten (would like to)",
+        "verbAr": "يود / يرغب بلطف",
+        "ich": "möchte",
+        "du": "möchtest",
+        "er": "möchte",
+        "wir": "möchten",
+        "example": {
+          "de": "Ich möchte bitte einen Kaffee bestellen.",
+          "en": "I would like to order a coffee, please.",
+          "ar": "أود أن أطلب قهوة من فضلك."
+        }
+      }
+    ]
+  },
+  {
+    "id": "separable_verbs",
+    "level": "A2",
+    "titleDe": "Trennbare Verben (Separable Verbs)",
+    "titleEn": "Separable Prefix Verbs",
+    "titleAr": "الأفعال المنفصلة (Trennbare Verben)",
+    "summaryEn": "In main clauses (present tense), the prefix splits off and moves to the very end of the sentence.",
+    "summaryAr": "في الجملة الرئيسية بالزمن الحاضر، تنفصل البادئة وتذهب إلى نهاية الجملة تماماً.",
+    "prefixes": [
+      "auf-",
+      "an-",
+      "ab-",
+      "ein-",
+      "aus-",
+      "mit-",
+      "vor-",
+      "fern-"
+    ],
+    "examples": [
+      {
+        "verb": "aufstehen (to get up / wake up)",
+        "verbAr": "يستيقظ / ينهض",
+        "de": "Ich stehe jeden Tag um 7 Uhr auf.",
+        "en": "I get up at 7 o'clock every day.",
+        "ar": "أستيقظ كل يوم في الساعة السابعة صباحاً."
+      },
+      {
+        "verb": "einkaufen (to shop / buy groceries)",
+        "verbAr": "يتسوق",
+        "de": "Sie kauft frisches Obst im Supermarkt ein.",
+        "en": "She buys fresh fruit at the supermarket.",
+        "ar": "هي تتسوق الفواكه الطازجة من السوبرماركت."
+      },
+      {
+        "verb": "fernsehen (to watch TV)",
+        "verbAr": "يشاهد التلفاز",
+        "de": "Am Abend sehen wir zusammen fern.",
+        "en": "In the evening we watch TV together.",
+        "ar": "في المساء نشاهد التلفاز معاً."
+      },
+      {
+        "verb": "anfangen (to start / begin)",
+        "verbAr": "يبدأ",
+        "de": "Der Deutschkurs fängt morgen an.",
+        "en": "The German course begins tomorrow.",
+        "ar": "تبدأ دورة اللغة الألمانية غداً."
+      }
+    ]
+  },
+  {
+    "id": "sentence_order_v2",
+    "level": "A1-B1",
+    "titleDe": "Satzbau & Verbposition (V2-Regel)",
+    "titleEn": "German Word Order & Verb Second Rule (V2)",
+    "titleAr": "ترتيب الجملة وموقع الفعل (قاعدة الفعل الثاني V2)",
+    "summaryEn": "In a standard German main clause, the conjugated verb ALWAYS occupies Position 2.",
+    "summaryAr": "في الجملة الألمانية الرئيسية، الفعل المصرف يأتي دائماً في الموقع الثاني (Position 2).",
+    "rules": [
+      {
+        "name": "Normal Word Order (Subject First)",
+        "nameAr": "الترتيب المعتاد (الفاعل أولاً)",
+        "structure": "Subject (1) + Verb (2) + Time/Manner/Place",
+        "example": {
+          "de": "Ich lerne heute Deutsch.",
+          "en": "I am learning German today.",
+          "ar": "أنا أتعلم الألمانية اليوم."
+        }
+      },
+      {
+        "name": "Inversion (Time / Place First)",
+        "nameAr": "التقديم والتأخير (الوقت أو المكان أولاً)",
+        "structure": "Time (1) + Verb (2) + Subject (3) + Object",
+        "example": {
+          "de": "Heute lerne ich Deutsch.",
+          "en": "Today I am learning German.",
+          "ar": "اليوم أتعلم الألمانية."
+        }
+      },
+      {
+        "name": "Subordinate Clause with \"weil / dass\" (Verb Last)",
+        "nameAr": "الجملة الفرعية مع \"weil\" أو \"dass\" (الفعل في النهاية)",
+        "structure": "Main Clause, weil + Subject + ... + Verb (End)",
+        "example": {
+          "de": "Ich lerne, weil ich in Deutschland arbeiten will.",
+          "en": "I learn because I want to work in Germany.",
+          "ar": "أتعلم لأنني أريد العمل في ألمانيا."
+        }
+      }
+    ]
+  },
+  {
+    "id": "passiv_system",
+    "level": "B1-B2",
+    "titleDe": "Das Passiv (Vorgangs- & Zustandspassiv)",
+    "titleEn": "The Passive Voice in German",
+    "titleAr": "المبني للمجهول في الألمانية (Passiv) 🇪🇬",
+    "summaryEn": "German passive focuses on the action itself rather than who did it. Formed with 'werden' + Partizip II.",
+    "summaryAr": "المبني للمجهول يركز على الحدث نفسه وليس على الفاعل. يتكون من تصريف werden + اسم المفعول في نهاية الجملة 🇪🇬.",
+    "sections": [
+      {
+        "title": "Vorgangspassiv (Präsens & Präteritum)",
+        "rule": "werden (konjugiert) + ... + Partizip II",
+        "explanationEn": "Emphasizes the ongoing process or action. The agent can be included with 'von + Dativ'.",
+        "explanationAr": "يعبر عن وقوع الحدث. وإذا أردنا ذكر الفاعل نستخدم 'von + Dativ' 🇪🇬.",
+        "examples": [
+          {
+            "de": "Das Auto wird vom Mechaniker repariert.",
+            "en": "The car is being repaired by the mechanic.",
+            "ar": "السيارة تُصلّح بواسطة الميكانيكي."
+          },
+          {
+            "de": "Der Brief wurde gestern abgeschickt.",
+            "en": "The letter was sent yesterday.",
+            "ar": "الخطاب تم إرساله بالأمس."
+          }
+        ]
+      },
+      {
+        "title": "Zustandspassiv",
+        "rule": "sein (konjugiert) + ... + Partizip II",
+        "explanationEn": "Focuses on the resulting state after an action is completed.",
+        "explanationAr": "يعبر عن الحالة الناتجة بعد اكتمال الفعل (مبني للمجهول للنتيجة) 🇪🇬.",
+        "examples": [
+          {
+            "de": "Das Geschäft ist sonntags geschlossen.",
+            "en": "The store is closed on Sundays.",
+            "ar": "المحل مغلق أيام الأحد."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "konjunktiv_ii_system",
+    "level": "B1-B2",
+    "titleDe": "Konjunktiv II (Höflichkeit, Wünsche & Irreales)",
+    "titleEn": "Subjunctive II: Wishes, Politeness & Hypotheticals",
+    "titleAr": "صيغة التمني والافتراض والأدب الرفيع (Konjunktiv II) 🇪🇬",
+    "summaryEn": "Used for extremely polite requests, expressing dreams/wishes, and hypothetical conditional sentences.",
+    "summaryAr": "تُستخدم للطلب بأقصى درجات اللباقة، وللتعبير عن الأمنيات المستحيلة والافتراضات غير الواقعية 🇪🇬.",
+    "sections": [
+      {
+        "title": "Häufigste Formen (hätte, wäre, würde)",
+        "rule": "haben ➔ hätte | sein ➔ wäre | andere Verben ➔ würde + Infinitiv",
+        "explanationEn": "'würde + Infinitive' works for almost all regular verbs. 'hätte' and 'wäre' are used directly.",
+        "explanationAr": "الفعل werden يتحول إلى würde + المصدر لجميع الأفعال، بينما haben تصبح hätte و sein تصبح wäre 🇪🇬.",
+        "examples": [
+          {
+            "de": "Ich hätte gerne einen Kaffee.",
+            "en": "I would like to have a coffee (polite).",
+            "ar": "أود لو سمحت أن أحصل على قهوة."
+          },
+          {
+            "de": "Wenn ich reich wäre, würde ich eine Weltreise machen.",
+            "en": "If I were rich, I would take a trip around the world.",
+            "ar": "لو كنت غنياً، لكنت قمت برحلة حول العالم."
+          },
+          {
+            "de": "Könnten Sie mir bitte helfen?",
+            "en": "Could you please help me?",
+            "ar": "هل بإمكان حضرتك مساعدتي من فضلك؟"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "relativsaetze_system",
+    "level": "A2-B1",
+    "titleDe": "Relativsätze (Nominativ, Akkusativ, Dativ)",
+    "titleEn": "Relative Clauses with Pronouns & Prepositions",
+    "titleAr": "الجمل الموصولة (الذي / التي / الذين) 🇪🇬",
+    "summaryEn": "Relative clauses give extra information about a noun. The relative pronoun matches gender/number of the noun, and case from its role in the sub-clause.",
+    "summaryAr": "الجمل الموصولة تضيف تفاصيل عن الاسم السابق. الضمير الموصول يأخذ نوع وعَدَد الاسم الأصلي، وحالته الإعرابية من دوره داخل جملة الصلة 🇪🇬.",
+    "sections": [
+      {
+        "title": "Der / Die / Das als Relativpronomen",
+        "rule": "Hauptsatz, [Relativpronomen + ... + Verb am Ende].",
+        "explanationEn": "The verb of the relative clause ALWAYS moves to the very end.",
+        "explanationAr": "الفعل في جملة الصلة يرجع دائماً إلى آخر الجملة تماماً 🇪🇬.",
+        "examples": [
+          {
+            "de": "Das ist der Mann, der in Berlin wohnt. (Nominativ)",
+            "en": "That is the man who lives in Berlin.",
+            "ar": "هذا هو الرجل الذي يسكن في برلين."
+          },
+          {
+            "de": "Das ist das Buch, das ich gerade lese. (Akkusativ)",
+            "en": "That is the book that I am currently reading.",
+            "ar": "هذا هو الكتاب الذي أقرأه حالياً."
+          },
+          {
+            "de": "Das ist die Kollegin, der ich geholfen habe. (Dativ)",
+            "en": "That is the colleague whom I helped.",
+            "ar": "هذه هي الزميلة التي ساعدتها."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zweiteilige_konnektoren",
+    "level": "B2",
+    "titleDe": "Zweiteilige Konnektoren",
+    "titleEn": "Two-Part Connectors (Correlative Conjunctions)",
+    "titleAr": "الروابط المزدوجة ثنائية الأجزاء 🇪🇬",
+    "summaryEn": "Essential for sophisticated writing and speech at B2 level to link complex ideas.",
+    "summaryAr": "روابط بلاغية متقدمة في مستوى B2 لربط الأفكار المركبة بأسلوب رفيع 🇪🇬.",
+    "sections": [
+      {
+        "title": "Die wichtigsten Paare",
+        "rule": "sowohl ... als auch | weder ... noch | entweder ... oder | nicht nur ... sondern auch",
+        "explanationEn": "Add nuance: addition ('sowohl...als auch'), double negation ('weder...noch'), alternatives ('entweder...oder').",
+        "explanationAr": "تفيد الجمع والإضافة (سواء... أو / ليس فقط... بل أيضاً)، أو النفي المزدوج (لا هذا... ولا ذاك) 🇪🇬.",
+        "examples": [
+          {
+            "de": "Er spricht sowohl Deutsch als auch Arabisch fließend.",
+            "en": "He speaks both German and Arabic fluently.",
+            "ar": "هو يتحدث الألمانية وكذلك العربية بطلاقة."
+          },
+          {
+            "de": "Sie lernt nicht nur Grammatik, sondern trainiert auch das Sprechen.",
+            "en": "She not only learns grammar, but also trains speaking.",
+            "ar": "هي لا تتعلم القواعد فقط، بل تدرب المحادثة أيضاً."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1589 @@
+{
+  "version": "2.0.0",
+  "appName": "Deutsch Quest",
+  "description": "Comprehensive German Learning Curriculum from CEFR A1 to C2 with strict Egyptian Arabic (🇪🇬) and English Scaffolding",
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "summaryStats": {
+    "totalGrammarModules": 12,
+    "totalVocabularyItems": 68,
+    "totalAudioExercises": 120,
+    "totalInteractiveQuizzes": 96,
+    "offlineAvailable": true,
+    "totalIrregularVerbs": 21,
+    "totalPrepositions": 9,
+    "totalNomenVerbVerbindungen": 10
+  },
+  "grammarCurriculum": [
+    {
+      "id": "a1-articles-genders",
+      "level": "A1",
+      "topic": "Artikel & Nomen-Geschlechter",
+      "titleEn": "Articles & Noun Genders",
+      "titleAr": "أدوات التعريف والتنكير وجنس الأسماء 🇪🇬",
+      "icon": "bookmark",
+      "color": "#FF6B55",
+      "summary": "Der (Maskulin), Die (Feminin), Das (Neutral) und unbestimmte Artikel.",
+      "summaryEn": "Definite and indefinite articles in German and how to recognize noun genders.",
+      "summaryAr": "كيفية تمييز المذكر والمؤنث والمحايد وأدوات التعريف والتنكير 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Maskulin (Der)",
+          "clues": "Endungen: -or, -ling, -ismus, -ist, -er (oft Personen). Tage, Monate, Jahreszeiten, Wochentage.",
+          "examples": [
+            "der Motor",
+            "der Frühling",
+            "der Montag",
+            "der Lehrer"
+          ],
+          "arExplanation": "الأسماء المنتهية بـ or, ling, ismus وأيام الأسبوع والشهور تكون مذكرة der 🇪🇬."
+        },
+        {
+          "rule": "Feminin (Die)",
+          "clues": "Endungen: -ung, -heit, -keit, -schaft, -tion, -tät, -ik, -ei, -ur.",
+          "examples": [
+            "die Wohnung",
+            "die Freiheit",
+            "die Freundschaft",
+            "die Station",
+            "die Musik"
+          ],
+          "arExplanation": "الأسماء المنتهية بـ ung, heit, keit, schaft, tion مؤنثة die دائماً 🇪🇬."
+        },
+        {
+          "rule": "Neutral (Das)",
+          "clues": "Endungen: -chen, -lein, -ment, -um, -tum, -ma. Verben als Nomen (das Essen, das Leben).",
+          "examples": [
+            "das Mädchen",
+            "das Dokument",
+            "das Zentrum",
+            "das Museum",
+            "das Essen"
+          ],
+          "arExplanation": "صيغ التصغير chen, lein والكلمات المنتهية بـ ment, um والأفعال المحولة لأسماء محايدة das 🇪🇬."
+        },
+        {
+          "rule": "Plural-Bildung (Die)",
+          "clues": "Fast alle Pluralformen haben den Artikel 'die'. Endungen: -e, -(e)n, -er, -s oder nur Umlaut.",
+          "examples": [
+            "der Tag -> die Tage",
+            "die Frau -> die Frauen",
+            "das Kind -> die Kinder",
+            "das Auto -> die Autos",
+            "der Apfel -> die Äpfel"
+          ],
+          "arExplanation": "كل جموع اللغة الألمانية تأخذ أداة التعريف die مع نهايات محددة مثل en أو er أو s 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "a1-verbs-v2",
+      "level": "A1",
+      "topic": "Präsens & Satzbau (V2-Regel)",
+      "titleEn": "Present Tense & V2 Sentence Rule",
+      "titleAr": "المضارع وقاعدة الفعل في المركز الثاني (V2) 🇪🇬",
+      "icon": "flag",
+      "color": "#F59E0B",
+      "summary": "Regelmäßige & unregelmäßige Verben und die goldene V2-Regel.",
+      "summaryEn": "Conjugation of verbs in present tense and the core V2 sentence word order.",
+      "summaryAr": "تصريف الأفعال في الحاضر وقاعدة موقع الفعل الثاني في الجملة 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Regelmäßige Konjugation",
+          "clues": "ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en",
+          "examples": [
+            "ich lerne",
+            "du lernst",
+            "er lernt",
+            "wir lernen"
+          ],
+          "arExplanation": "النهايات القياسية للأفعال المنتظمة في المضارع 🇪🇬."
+        },
+        {
+          "rule": "Vokalwechsel (e -> i/ie, a -> ä)",
+          "clues": "Wechsel nur in der 2. (du) und 3. Person (er/sie/es) Singular!",
+          "examples": [
+            "sehen -> du siehst, er sieht",
+            "fahren -> du fährst, er fährt",
+            "sprechen -> du sprichst"
+          ],
+          "arExplanation": "تغيير حرف العلة يحدث فقط مع du ومع er/sie/es 🇪🇬."
+        },
+        {
+          "rule": "Die V2-Regel (Verb an Position 2)",
+          "clues": "Im Hauptsatz steht das konjugierte Verb IMMER an Position 2, egal was an Position 1 steht!",
+          "examples": [
+            "Ich lerne heute Deutsch.",
+            "Heute lerne ich Deutsch.",
+            "Deutsch lerne ich heute."
+          ],
+          "arExplanation": "مهما بدأت الجملة بفاعل أو ظرف زمان، الفعل المصرف مكانه رقم 2 دائماً 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "a2-dativ-wechselpraep",
+      "level": "A2",
+      "topic": "Der Dativ & Die 9 Wechselpräpositionen",
+      "titleEn": "Dative Case & Two-Way Prepositions",
+      "titleAr": "حالة المجرور (الداتيف) وحروف الجر المشتركة التسعة 🇪🇬",
+      "icon": "chatbubbles-outline",
+      "color": "#10B981",
+      "summary": "dem, der, dem, den (+n) und Wo? (Dativ) vs. Wohin? (Akkusativ).",
+      "summaryEn": "Mastering indirect objects (Dative) and location vs. destination prepositions.",
+      "summaryAr": "إعراب الداتيف والفرق الجوهري بين أين (ثبات = مجرور) وإلى أين (حركة = منصوب) 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Dativ-Artikel",
+          "clues": "Maskulin: dem | Neutral: dem | Feminin: der | Plural: den (+ Nomen-Endung -n)",
+          "examples": [
+            "Ich helfe dem Mann.",
+            "Sie dankt der Lehrerin.",
+            "Wir spielen mit den Kindern."
+          ],
+          "arExplanation": "تحول der/das إلى dem، و die المؤنثة إلى der، والجمع إلى den مع إضافة n للاسم 🇪🇬."
+        },
+        {
+          "rule": "Die 9 Wechselpräpositionen",
+          "clues": "an, auf, hinter, in, neben, über, unter, vor, zwischen",
+          "examples": [
+            "an der Wand (Dativ)",
+            "an die Wand (Akkusativ)",
+            "auf dem Tisch",
+            "auf den Tisch"
+          ],
+          "arExplanation": "الحروف التسعة التي تأخذ الداتيف عند السؤال بـ Wo (أين) والأكوزاتيف بـ Wohin (إلى أين) 🇪🇬."
+        },
+        {
+          "rule": "Feste Dativ-Verben",
+          "clues": "helfen, danken, gehören, gefallen, passen, schmecken, gratulieren, antworten",
+          "examples": [
+            "Das Buch gehört mir.",
+            "Das Essen schmeckt dem Kind gut."
+          ],
+          "arExplanation": "أفعال تجر المفعول بها مباشرة دون حرف جر 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "a2-perfekt-trennbare",
+      "level": "A2",
+      "topic": "Das Perfekt & Trennbare Verben",
+      "titleEn": "Present Perfect & Separable Verbs",
+      "titleAr": "الماضي التام (Perfekt) والأفعال المنفصلة 🇪🇬",
+      "icon": "flash",
+      "color": "#6366F1",
+      "summary": "haben / sein + Partizip II (Satzklammer) und trennbare Vorsilben.",
+      "summaryEn": "Everyday past tense conversation and separable verb prefixes.",
+      "summaryAr": "زمن الماضي المحكي اليومي وتفكك الأفعال المنفصلة في الجملة 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Perfekt mit sein",
+          "clues": "1. Ortswechsel (gehen, fahren, fliegen, kommen) 2. Zustandswechsel (aufwachen, einschlafen) 3. sein, werden, bleiben",
+          "examples": [
+            "Ich bin nach Berlin gefahren.",
+            "Er ist um 7 Uhr aufgewacht.",
+            "Wir sind zu Hause geblieben."
+          ],
+          "arExplanation": "نستخدم الفعل المساعد sein إذا كان الفعل يعبر عن حركة وانتقال أو تغير في الحالة 🇪🇬."
+        },
+        {
+          "rule": "Perfekt mit haben",
+          "clues": "Alle transitiven Verben (mit Akkusativ-Objekt), reflexive Verben, Modalverben.",
+          "examples": [
+            "Ich habe ein Buch gelesen.",
+            "Er hat sich gefreut.",
+            "Wir haben Deutsch gelernt."
+          ],
+          "arExplanation": "معظم الأفعال تأخذ haben، خاصة الأفعال التي تحتاج مفعولاً به مباشراً 🇪🇬."
+        },
+        {
+          "rule": "Trennbare Verben (Satzklammer)",
+          "clues": "Vorsilbe geht ans Satzende im Präsens: aufstehen -> Ich stehe um 6 Uhr auf. Im Perfekt: aufgestanden.",
+          "examples": [
+            "ankommen -> Der Zug kommt pünktlich an.",
+            "einkaufen -> Sie hat im Supermarkt eingekauft."
+          ],
+          "arExplanation": "المقطع الأمامي ينفصل ويرمي نفسه في آخر الجملة الرئيسية 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "b1-genitiv-praeteritum",
+      "level": "B1",
+      "topic": "Der Genitiv & Das Präteritum",
+      "titleEn": "Genitive Case & Narrative Simple Past",
+      "titleAr": "حالة المضاف إليه (الجينيتيف) والماضي البسيط 🇪🇬",
+      "icon": "medal-outline",
+      "color": "#EC4899",
+      "summary": "des (+s/es), der, des (+s/es), der und schriftsprachliches Präteritum.",
+      "summaryEn": "Expressing possession, genitive prepositions, and written narrative past.",
+      "summaryAr": "الملكية والإضافة وحروف الجر الخاصة بالجينيتيف والماضي الروائي 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Genitiv-Formen",
+          "clues": "Maskulin/Neutral: des Vaters / des Kindes (+s oder +es). Feminin/Plural: der Mutter / der Kinder (ohne Endung).",
+          "examples": [
+            "Das Auto des Lehrers ist neu.",
+            "Die Tasche der Frau ist rot."
+          ],
+          "arExplanation": "يتحول المذكر والمحايد إلى des مع إضافة s/es للاسم، والمؤنث والجمع إلى der 🇪🇬."
+        },
+        {
+          "rule": "Genitiv-Präpositionen",
+          "clues": "während (during), wegen (because of), trotz (despite), (an)statt (instead of)",
+          "examples": [
+            "Wegen des Regens bleiben wir hier.",
+            "Trotz der Kälte geht er spazieren.",
+            "Während der Reise."
+          ],
+          "arExplanation": "أشهر 4 حروف جر تطلب حالة الجينيتيف في اللغة الفصيحة 🇪🇬."
+        },
+        {
+          "rule": "Präteritum im Alltag",
+          "clues": "Für sein (war), haben (hatte) und alle Modalverben (musste, konnte, wollte, durfte) ist Präteritum auch mündlich Pflicht!",
+          "examples": [
+            "Ich war gestern krank.",
+            "Hattest du Zeit?",
+            "Wir konnten nicht kommen."
+          ],
+          "arExplanation": "الأفعال المساعدة وأفعال الكيفية يجب استخدامها في الماضي البسيط حتى في الكلام اليومي 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "b1-nebensaetze-konjunktiv2",
+      "level": "B1",
+      "topic": "Nebensätze (Konnektoren) & Konjunktiv II",
+      "titleEn": "Subordinate Clauses & Subjunctive II",
+      "titleAr": "الجمل التابعة (الرابطة) وصيغة التمني Konjunktiv II 🇪🇬",
+      "icon": "planet",
+      "color": "#8B5CF6",
+      "summary": "weil, dass, obwohl, wenn, als (Verb am Ende) und würde + Infinitiv.",
+      "summaryEn": "Complex clauses with kick-to-end verb placement, plus polite requests and unreal wishes.",
+      "summaryAr": "ترتيب الكلمات في الجمل المعقدة وصياغة الطلب المهذب والتمني الافتراضي 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Konnektoren mit Verb-Endstellung",
+          "clues": "weil (because), dass (that), obwohl (although), wenn (if/when), als (single past event), da (since), damit (so that)",
+          "examples": [
+            "Ich lerne Deutsch, weil ich in München arbeiten will.",
+            "Obwohl es regnet, gehen wir raus."
+          ],
+          "arExplanation": "أدوات الربط هذه تجعل الفعل المصرف يقف في نهاية الجملة تماماً 🇪🇬."
+        },
+        {
+          "rule": "TeKaMoLo-Regel im Mittelfeld",
+          "clues": "Reihenfolge der Angaben: Temporal (Wann?) -> Kausal (Warum?) -> Modal (Wie?) -> Lokal (Wo/Wohin?)",
+          "examples": [
+            "Ich fahre heute (Te) wegen des Termins (Ka) mit dem Zug (Mo) nach Berlin (Lo)."
+          ],
+          "arExplanation": "قاعدة تيكامولو: الزمان أولاً، ثم السبب، ثم الكيفية والوسيلة، ثم المكان في الأخير 🇪🇬."
+        },
+        {
+          "rule": "Konjunktiv II: Höflichkeit & Wünsche",
+          "clues": "Höfliche Bitten: 'Könnten Sie mir helfen?', 'Ich hätte gern einen Kaffee'. Irreale Wünsche: 'Wenn ich Zeit hätte, würde ich reisen.'",
+          "examples": [
+            "Würden Sie das bitte wiederholen?",
+            "Ich wäre jetzt gern am Strand."
+          ],
+          "arExplanation": "صيغة هامة جداً للتعامل بأعلى درجات الأدب في المحلات والعمل والمواقف الرسمية 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "b2-passiv-formen",
+      "level": "B2",
+      "topic": "Das Passiv (Vorgang & Zustand)",
+      "titleEn": "The Passive Voice (Process & State)",
+      "titleAr": "المبني للمجهول في الألمانية (الحدث والحالة) 🇪🇬",
+      "icon": "shield",
+      "color": "#0EA5E9",
+      "summary": "werden + Partizip II (Vorgangspassiv) und sein + Partizip II (Zustandspassiv).",
+      "summaryEn": "Mastering action-oriented and state-oriented passive constructions.",
+      "summaryAr": "التركيز على الفعل والمفعول بدلاً من الفاعل مع تحديد الوسيلة والفاعل 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Vorgangspassiv (werden + Partizip II)",
+          "clues": "Präsens: wird gebaut | Präteritum: wurde gebaut | Perfekt: ist gebaut worden | Modal: muss gebaut werden",
+          "examples": [
+            "Das Haus wird gebaut.",
+            "Der Brief wurde gestern abgeschickt.",
+            "Das Auto muss repariert werden."
+          ],
+          "arExplanation": "يبنى للمجهول بـ werden + التصريف الثالث. في التام نستخدم worden وليس geworden 🇪🇬."
+        },
+        {
+          "rule": "Agens-Angaben: von vs. durch",
+          "clues": "von + Dativ: Personen, Urheber (Handelnde). durch + Akkusativ: Mittel, Ursache, Instrumente.",
+          "examples": [
+            "Das Buch wurde von Goethe geschrieben.",
+            "Das Feuer wurde durch einen Kurzschluss verursacht."
+          ],
+          "arExplanation": "نستخدم von مع الأشخاص والفاعلين، ونستخدم durch مع الوسائط والأسباب والأدوات 🇪🇬."
+        },
+        {
+          "rule": "Zustandspassiv (sein + Partizip II)",
+          "clues": "Beschreibt das fertige Resultat, keine laufende Handlung!",
+          "examples": [
+            "Das Geschäft ist geöffnet.",
+            "Die Tür war geschlossen.",
+            "Die Rechnung ist bezahlt."
+          ],
+          "arExplanation": "يصف النتيجة المستقرة (المحل مفتوح، الفاتورة مدفوعة) باستخدام sein 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "b2-konjunktiv1-partizipien",
+      "level": "B2",
+      "topic": "Konjunktiv I & Partizipialkonstruktionen",
+      "titleEn": "Subjunctive I & Participial Attributes",
+      "titleAr": "أسلوب النقل الصحفي (Konjunktiv I) واستخدام التصريف كصفة 🇪🇬",
+      "icon": "book",
+      "color": "#14B8A6",
+      "summary": "Indirekte Rede in Nachrichten und Partizip I (-end) / Partizip II als Adjektiv.",
+      "summaryEn": "Reported speech in professional journalism and participles used as adjectives.",
+      "summaryAr": "الكلام غير المباشر في الصحف واستخدام اسم الفاعل والمفعول كصفات معربة 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Konjunktiv I (Indirekte Rede)",
+          "clues": "Basis ist der Verbstamm + Endungen: -e, -est, -e, -en, -et, -en. Meist in der 3. Person: er/sie habe, sei, wisse.",
+          "examples": [
+            "Der Minister sagte, die Wirtschaftskrise sei überwunden.",
+            "Sie meinte, er habe recht."
+          ],
+          "arExplanation": "يستخدم في نقل الأخبار بدقة لإثبات أن الكلام على لسان المصدر 🇪🇬."
+        },
+        {
+          "rule": "Partizip I als Adjektiv (Aktiv, gleichzeitig)",
+          "clues": "Infinitiv + -d + Adjektivendung: singen -> das singende Kind (the singing child)",
+          "examples": [
+            "Die steigenden Kosten",
+            "Der schlafende Hund",
+            "Die dringend benötigten Fachkräfte"
+          ],
+          "arExplanation": "إضافة d لمصدر الفعل ليعبر عن الفاعل أثناء حدوث الفعل (مثل التكاليف المتصاعدة) 🇪🇬."
+        },
+        {
+          "rule": "Partizip II als Adjektiv (Passiv, vergangen)",
+          "clues": "Partizip II + Adjektivendung: reparieren -> das reparierte Auto (the repaired car)",
+          "examples": [
+            "Das geschlossene Fenster",
+            "Die gebuchte Reise",
+            "Die geprüften Unterlagen"
+          ],
+          "arExplanation": "استخدام التصريف الثالث كصفة تعبر عما تم فعله (النافذة المغلقة، الرحلة المحجوزة) 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "c1-nomen-verb-verbindungen",
+      "level": "C1",
+      "topic": "Nomen-Verb-Verbindungen (Funktionsverbgefüge)",
+      "titleEn": "Noun-Verb Collocations & Academic Style",
+      "titleAr": "المتلازمات اللفظية (الأسلوب الأكاديمي والمهني) 🇪🇬",
+      "icon": "briefcase",
+      "color": "#3B82F6",
+      "summary": "Feste Kollokationen wie 'Entscheidung treffen' und Passiversatzformen.",
+      "summaryEn": "High-register bureaucratic, academic, and business German expressions.",
+      "summaryAr": "تراكيب لغوية رفيعة المستوى لا غنى عنها في امتحانات C1 والعمل في الشركات الألمانية 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Klassische Nomen-Verb-Verbindungen",
+          "clues": "Ersetzen einfache Verben durch [Nomen + Funktionsverb]:",
+          "examples": [
+            "eine Entscheidung treffen (= entscheiden)",
+            "zur Verfügung stehen (= verfügbar sein)",
+            "in Betracht ziehen (= berücksichtigen)",
+            "Kritik üben an (+ Dat) (= kritisieren)",
+            "Abschied nehmen von (+ Dat) (= sich verabschieden)"
+          ],
+          "arExplanation": "استبدال الفعل البسيط بتركيب اسمي رسمي يعطي المقال والحديث طابعاً احترافياً 🇪🇬."
+        },
+        {
+          "rule": "Passiversatzformen",
+          "clues": "1. sein + zu + Infinitiv (= müssen/können + Passiv): Das Problem ist zu lösen. 2. sich lassen + Infinitiv: Es lässt sich machen. 3. Endungen -bar, -lich: machbar, verständlich.",
+          "examples": [
+            "Diese Frage ist leicht zu beantworten.",
+            "Die Datei lässt sich nicht öffnen."
+          ],
+          "arExplanation": "بدائل للمبني للمجهول شائعة جداً في النصوص العلمية والتقنية والقانونية 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "c1-feste-praepositionen",
+      "level": "C1",
+      "topic": "Verben mit festen Präpositionen",
+      "titleEn": "Verbs with Fixed Prepositions",
+      "titleAr": "الأفعال المتعدية بحروف جر ثابتة 🇪🇬",
+      "icon": "link",
+      "color": "#6D28D9",
+      "summary": "Worauf? Darauf! Verben mit festen Kasus-Zuordnungen im C1-Register.",
+      "summaryEn": "Mastery of prepositional objects and pronominal adverbs (da-/wo- compounds).",
+      "summaryAr": "ربط الأفعال بحروف جرها المحددة وتكوين الضمائر الظرفية 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Präpositional-Adverbien (da- & wo-)",
+          "clues": "Sachen: Worauf wartest du? Ich warte darauf. Personen: Auf wen wartest du? Ich warte auf ihn.",
+          "examples": [
+            "Woran denkst du? Ich denke an die Prüfung.",
+            "Über wen lachst du? Über den Clown."
+          ],
+          "arExplanation": "استخدام da-/wo- مع الجماد، وحرف الجر مع الضمير المنفصل مع الأشخاص 🇪🇬."
+        },
+        {
+          "rule": "Schlüssel-Verben im C1-Bereich",
+          "clues": "abhängen von + Dat, beitragen zu + Dat, basieren auf + Dat, tendieren zu + Dat, sich abfinden mit + Dat",
+          "examples": [
+            "Der Erfolg hängt vom Engagement ab.",
+            "Wir müssen zur Lösung beitragen."
+          ],
+          "arExplanation": "أفعال أساسية لصياغة مقالات C1 الأكاديمية ونقاشات العمل المعقدة 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "c2-redewendungen-nuancen",
+      "level": "C2",
+      "topic": "Redewendungen, Sprichwörter & Modalpartikeln",
+      "titleEn": "Idioms, Proverbs & Modal Particles",
+      "titleAr": "التعبيرات الاصطلاحية والأمثال الشعبية وجسيمات النبرة 🇪🇬",
+      "icon": "trophy",
+      "color": "#E11D48",
+      "summary": "Muttersprachliche Nuancen, Redewendungen und feine Abtönungspartikeln.",
+      "summaryEn": "Near-native mastery of idiomatic German and conversational tone particles.",
+      "summaryAr": "الوصول لدرجة المتحدث الأصلي بالأمثال والتعابير اليومية وجسيمات النبرة doch, ja, mal 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Bedeutende deutsche Redewendungen",
+          "clues": "Kulturell tief verankerte Redensarten mit übertragener Bedeutung:",
+          "examples": [
+            "zwei Fliegen mit einer Klappe schlagen (= zwei Dinge gleichzeitig lösen)",
+            "die Kirche im Dorf lassen (= nicht übertreiben)",
+            "um den heißen Brei herumreden (= das Wesentliche vermeiden)",
+            "jemandem die Daumen drücken (= viel Glück wünschen)",
+            "ins Gras beißen (= sterben, umgangssprachlich)"
+          ],
+          "arExplanation": "أشهر التعبيرات الألمانية اليومية ومعانيها البلاغية التي ترفع مستوى لغتك للقمة 🇪🇬."
+        },
+        {
+          "rule": "Modalpartikeln (Abtönungspartikeln)",
+          "clues": "ja (wie bekannt), doch (Widerspruch/Freundlichkeit), mal (kurz/beiläufig), denn (Neugier/Interesse)",
+          "examples": [
+            "Das ist ja toll!",
+            "Komm doch mal vorbei!",
+            "Was machst du denn hier?"
+          ],
+          "arExplanation": "كلمات صغيرة تغير نغمة الجملة وتجعل كلامك يبدو طبيعياً كالألمان تماماً 🇪🇬."
+        }
+      ]
+    },
+    {
+      "id": "c2-pruefungs-strategie",
+      "level": "C2",
+      "topic": "Goethe / Telc / TestDaF Examen-Mastery",
+      "titleEn": "Exam Mastery: Argumentation & Oral Strategy",
+      "titleAr": "استراتيجيات اجتياز الامتحانات الرسمية للشهادات الدولية 🇪🇬",
+      "icon": "school-outline",
+      "color": "#D97706",
+      "summary": "Strukturierte Aufsatz-Gliederung, Rede-Mittel und Prüfer-Überzeugung.",
+      "summaryEn": "Templates, connectors, and presentation strategies for C1/C2 Goethe & Telc certificates.",
+      "summaryAr": "قوالب وأدوات الربط الحصرية لكتابة المقال والمحادثة بدرجات تفوق 🇪🇬.",
+      "rules": [
+        {
+          "rule": "Argumentations-Scharniere",
+          "clues": "Einerseits... andererseits, Nicht nur... sondern auch, Zwar... aber, Demgegenüber ist einzuwenden",
+          "examples": [
+            "Einerseits birgt die KI Risiken, andererseits bietet sie enorme Chancen.",
+            "Zusammenfassend lässt sich konstatieren, dass..."
+          ],
+          "arExplanation": "تراكيب التباين والإضافة التي تبهر لجان تحكيم امتحانات اللغات 🇪🇬."
+        },
+        {
+          "rule": "Mündliche Prüfung & Vortragsstruktur",
+          "clues": "Einleitung (Thema definieren) -> Hauptteil (Pro & Contra abwägen) -> Eigene Position -> Fazit",
+          "examples": [
+            "Ich möchte meinen Vortrag in drei Hauptpunkte gliedern...",
+            "Aus meiner persönlichen Erfahrung kann ich berichten, dass..."
+          ],
+          "arExplanation": "الهيكل المثالي للحديث الشفوي أمام الممتحنين في معهد جوته ومراكز تيلك 🇪🇬."
+        }
+      ]
+    }
+  ],
+  "vocabularyCatalog": [
+    {
+      "category": "Farben & Formen",
+      "categoryAr": "الألوان والأشكال 🇪🇬",
+      "items": [
+        {
+          "de": "rot",
+          "en": "red",
+          "ar": "أحمر 🇪🇬",
+          "gender": null,
+          "example": "Die Rose ist rot."
+        },
+        {
+          "de": "blau",
+          "en": "blue",
+          "ar": "أزرق 🇪🇬",
+          "gender": null,
+          "example": "Der Himmel ist blau."
+        },
+        {
+          "de": "gelb",
+          "en": "yellow",
+          "ar": "أصفر 🇪🇬",
+          "gender": null,
+          "example": "Die Sonne ist gelb."
+        },
+        {
+          "de": "grün",
+          "en": "green",
+          "ar": "أخضر 🇪🇬",
+          "gender": null,
+          "example": "Das Gras ist grün."
+        },
+        {
+          "de": "schwarz",
+          "en": "black",
+          "ar": "أسود 🇪🇬",
+          "gender": null,
+          "example": "Die Nacht ist schwarz."
+        },
+        {
+          "de": "weiß",
+          "en": "white",
+          "ar": "أبيض 🇪🇬",
+          "gender": null,
+          "example": "Der Schnee ist weiß."
+        },
+        {
+          "de": "der Kreis",
+          "en": "circle",
+          "ar": "الدائرة 🇪🇬",
+          "gender": "der",
+          "example": "Ein runder Kreis."
+        },
+        {
+          "de": "das Quadrat",
+          "en": "square",
+          "ar": "المربع 🇪🇬",
+          "gender": "das",
+          "example": "Das Quadrat hat vier Ecken."
+        }
+      ]
+    },
+    {
+      "category": "Zahlen & Zählen",
+      "categoryAr": "الأرقام والعد 🇪🇬",
+      "items": [
+        {
+          "de": "eins",
+          "en": "one",
+          "ar": "واحد 🇪🇬",
+          "gender": null,
+          "example": "Eins, zwei, drei!"
+        },
+        {
+          "de": "zwei",
+          "en": "two",
+          "ar": "اثنان 🇪🇬",
+          "gender": null,
+          "example": "Zwei Augen."
+        },
+        {
+          "de": "drei",
+          "en": "three",
+          "ar": "ثلاثة 🇪🇬",
+          "gender": null,
+          "example": "Drei Freunde."
+        },
+        {
+          "de": "vier",
+          "en": "four",
+          "ar": "أربعة 🇪🇬",
+          "gender": null,
+          "example": "Vier Jahreszeiten."
+        },
+        {
+          "de": "fünf",
+          "en": "five",
+          "ar": "خمسة 🇪🇬",
+          "gender": null,
+          "example": "Fünf Sterne."
+        },
+        {
+          "de": "zehn",
+          "en": "ten",
+          "ar": "عشرة 🇪🇬",
+          "gender": null,
+          "example": "Zehn Finger."
+        },
+        {
+          "de": "hundert",
+          "en": "hundred",
+          "ar": "مائة 🇪🇬",
+          "gender": null,
+          "example": "Hundert Prozent."
+        }
+      ]
+    },
+    {
+      "category": "Tiere & Natur",
+      "categoryAr": "الحيوانات والطبيعة 🇪🇬",
+      "items": [
+        {
+          "de": "der Adler",
+          "en": "eagle",
+          "ar": "النسر (فالكو) 🇪🇬",
+          "gender": "der",
+          "example": "Der Adler fliegt hoch."
+        },
+        {
+          "de": "der Hund",
+          "en": "dog",
+          "ar": "الكلب 🇪🇬",
+          "gender": "der",
+          "example": "Der Hund bellt treu."
+        },
+        {
+          "de": "die Katze",
+          "en": "cat",
+          "ar": "القطة 🇪🇬",
+          "gender": "die",
+          "example": "Die Katze schnurrt."
+        },
+        {
+          "de": "das Pferd",
+          "en": "horse",
+          "ar": "الحصان 🇪🇬",
+          "gender": "das",
+          "example": "Das Pferd galoppiert schnell."
+        },
+        {
+          "de": "der Vogel",
+          "en": "bird",
+          "ar": "العصفور 🇪🇬",
+          "gender": "der",
+          "example": "Der Vogel singt im Baum."
+        },
+        {
+          "de": "der Baum",
+          "en": "tree",
+          "ar": "الشجرة 🇪🇬",
+          "gender": "der",
+          "example": "Der grüne Baum im Garten."
+        },
+        {
+          "de": "die Blume",
+          "en": "flower",
+          "ar": "الزهرة 🇪🇬",
+          "gender": "die",
+          "example": "Eine duftende Blume."
+        }
+      ]
+    },
+    {
+      "category": "Essen & Trinken",
+      "categoryAr": "الطعام والشراب والمطعم 🇪🇬",
+      "items": [
+        {
+          "de": "der Apfel",
+          "en": "apple",
+          "ar": "التفاحة 🇪🇬",
+          "gender": "der",
+          "example": "Ich esse einen süßen Apfel."
+        },
+        {
+          "de": "das Brot",
+          "en": "bread",
+          "ar": "الخبز 🇪🇬",
+          "gender": "das",
+          "example": "Frisches deutsches Brot."
+        },
+        {
+          "de": "das Wasser",
+          "en": "water",
+          "ar": "الماء 🇪🇬",
+          "gender": "das",
+          "example": "Ein Glas kaltes Wasser."
+        },
+        {
+          "de": "der Kaffee",
+          "en": "coffee",
+          "ar": "القهوة 🇪🇬",
+          "gender": "der",
+          "example": "Heißer Kaffee am Morgen."
+        },
+        {
+          "de": "der Käse",
+          "en": "cheese",
+          "ar": "الجبن 🇪🇬",
+          "gender": "der",
+          "example": "Käse aus der Schweiz."
+        },
+        {
+          "de": "die Suppe",
+          "en": "soup",
+          "ar": "الشوربة 🇪🇬",
+          "gender": "die",
+          "example": "Eine warme Gemüsesuppe."
+        }
+      ]
+    },
+    {
+      "category": "Beruf, Büro & Business",
+      "categoryAr": "العمل والشركات والمكتب 🇪🇬",
+      "items": [
+        {
+          "de": "die Besprechung",
+          "en": "meeting",
+          "ar": "الاجتماع 🇪🇬",
+          "gender": "die",
+          "example": "Die Besprechung beginnt um 10 Uhr."
+        },
+        {
+          "de": "der Vertrag",
+          "en": "contract",
+          "ar": "العقد 🇪🇬",
+          "gender": "der",
+          "example": "Wir unterzeichnen den Vertrag."
+        },
+        {
+          "de": "das Gehalt",
+          "en": "salary",
+          "ar": "الراتب 🇪🇬",
+          "gender": "das",
+          "example": "Ein angemessenes Gehalt."
+        },
+        {
+          "de": "die Bewerbung",
+          "en": "application",
+          "ar": "طلب التقديم على وظيفة 🇪🇬",
+          "gender": "die",
+          "example": "Ich sende meine Bewerbung ab."
+        },
+        {
+          "de": "der Kollege",
+          "en": "colleague",
+          "ar": "الزميل في العمل 🇪🇬",
+          "gender": "der",
+          "example": "Mein freundlicher Kollege hilft mir."
+        }
+      ]
+    },
+    {
+      "category": "Wissenschaft & Hochschule",
+      "categoryAr": "الجامعة والبحث العلمي (C1) 🇪🇬",
+      "items": [
+        {
+          "de": "die Forschung",
+          "en": "research",
+          "ar": "البحث العلمي 🇪🇬",
+          "gender": "die",
+          "example": "Spitzenforschung an der Universität."
+        },
+        {
+          "de": "die Dissertation",
+          "en": "doctoral thesis",
+          "ar": "أطروحة الدكتوراه 🇪🇬",
+          "gender": "die",
+          "example": "Sie schreibt ihre Dissertation."
+        },
+        {
+          "de": "die Vorlesung",
+          "en": "lecture",
+          "ar": "المحاضرة الجامعية 🇪🇬",
+          "gender": "die",
+          "example": "Eine interessante Vorlesung über KI."
+        },
+        {
+          "de": "die Erkenntnis",
+          "en": "insight/finding",
+          "ar": "المعرفة أو النتيجة العلمية 🇪🇬",
+          "gender": "die",
+          "example": "Eine bahnbrechende Erkenntnis."
+        }
+      ]
+    },
+    {
+      "category": "Essen & Trinken",
+      "categoryAr": "الأطعمة والمشروبات 🇪🇬",
+      "items": [
+        {
+          "de": "das Brot",
+          "en": "bread",
+          "ar": "الخبز / العيش 🇪🇬",
+          "gender": "das",
+          "example": "Frisches deutsches Vollkornbrot."
+        },
+        {
+          "de": "das Wasser",
+          "en": "water",
+          "ar": "الماء / الميّة 🇪🇬",
+          "gender": "das",
+          "example": "Ein Glas stilles Wasser, bitte."
+        },
+        {
+          "de": "der Kaffee",
+          "en": "coffee",
+          "ar": "القهوة 🇪🇬",
+          "gender": "der",
+          "example": "Ich trinke morgens einen heißen Kaffee."
+        },
+        {
+          "de": "der Tee",
+          "en": "tea",
+          "ar": "الشاي 🇪🇬",
+          "gender": "der",
+          "example": "Möchtest du schwarzen oder grünen Tee?"
+        },
+        {
+          "de": "der Apfel",
+          "en": "apple",
+          "ar": "التفاحة 🇪🇬",
+          "gender": "der",
+          "example": "Ein knackiger roter Apfel."
+        },
+        {
+          "de": "die Banane",
+          "en": "banana",
+          "ar": "الموزة 🇪🇬",
+          "gender": "die",
+          "example": "Die Banane ist reif und süß."
+        },
+        {
+          "de": "der Käse",
+          "en": "cheese",
+          "ar": "الجبن 🇪🇬",
+          "gender": "der",
+          "example": "Leckerer Schweizer Käse."
+        },
+        {
+          "de": "die Milch",
+          "en": "milk",
+          "ar": "الحليب / اللبن 🇪🇬",
+          "gender": "die",
+          "example": "Kalte Milch zum Frühstück."
+        },
+        {
+          "de": "das Fleisch",
+          "en": "meat",
+          "ar": "اللحم 🇪🇬",
+          "gender": "das",
+          "example": "Rindfleisch mit Gemüse."
+        },
+        {
+          "de": "das Gemüse",
+          "en": "vegetables",
+          "ar": "الخضار 🇪🇬",
+          "gender": "das",
+          "example": "Frisches Gemüse vom Markt."
+        }
+      ]
+    },
+    {
+      "category": "Familie & Menschen",
+      "categoryAr": "العائلة والأشخاص 🇪🇬",
+      "items": [
+        {
+          "de": "die Mutter",
+          "en": "mother",
+          "ar": "الأم / ماما 🇪🇬",
+          "gender": "die",
+          "example": "Meine Mutter kocht fantastisch."
+        },
+        {
+          "de": "der Vater",
+          "en": "father",
+          "ar": "الأب / بابا 🇪🇬",
+          "gender": "der",
+          "example": "Mein Vater liest die Zeitung."
+        },
+        {
+          "de": "die Eltern",
+          "en": "parents",
+          "ar": "الوالدان 🇪🇬",
+          "gender": "die",
+          "example": "Meine Eltern wohnen in Berlin."
+        },
+        {
+          "de": "der Bruder",
+          "en": "brother",
+          "ar": "الأخ 🇪🇬",
+          "gender": "der",
+          "example": "Mein älterer Bruder studiert Medizin."
+        },
+        {
+          "de": "die Schwester",
+          "en": "sister",
+          "ar": "الأخت 🇪🇬",
+          "gender": "die",
+          "example": "Meine Schwester spielt Klavier."
+        },
+        {
+          "de": "das Kind",
+          "en": "child",
+          "ar": "الطفل 🇪🇬",
+          "gender": "das",
+          "example": "Das Kind lacht fröhlich."
+        },
+        {
+          "de": "der Freund",
+          "en": "friend (male)",
+          "ar": "الصديق 🇪🇬",
+          "gender": "der",
+          "example": "Er ist mein bester Freund."
+        },
+        {
+          "de": "die Freundin",
+          "en": "friend (female)",
+          "ar": "الصديقة 🇪🇬",
+          "gender": "die",
+          "example": "Sie ist eine nette Freundin."
+        }
+      ]
+    },
+    {
+      "category": "Reisen, Verkehr & Stadt",
+      "categoryAr": "السفر والمواصلات والمدينة 🇪🇬",
+      "items": [
+        {
+          "de": "der Bahnhof",
+          "en": "train station",
+          "ar": "محطة القطار 🇪🇬",
+          "gender": "der",
+          "example": "Der Zug fährt vom Hauptbahnhof ab."
+        },
+        {
+          "de": "der Flughafen",
+          "en": "airport",
+          "ar": "المطار 🇪🇬",
+          "gender": "der",
+          "example": "Wir treffen uns am Flughafen."
+        },
+        {
+          "de": "das Ticket",
+          "en": "ticket",
+          "ar": "التذكرة 🇪🇬",
+          "gender": "das",
+          "example": "Haben Sie ein gültiges Ticket?"
+        },
+        {
+          "de": "die Straße",
+          "en": "street",
+          "ar": "الشارع 🇪🇬",
+          "gender": "die",
+          "example": "Überqueren Sie die Straße an der Ampel."
+        },
+        {
+          "de": "die U-Bahn",
+          "en": "subway / metro",
+          "ar": "مترو الأنفاق 🇪🇬",
+          "gender": "die",
+          "example": "Die U-Bahn kommt in zwei Minuten."
+        },
+        {
+          "de": "der Bus",
+          "en": "bus",
+          "ar": "الأتوبيس / الحافلة 🇪🇬",
+          "gender": "der",
+          "example": "Der Bus Linie 100 hält hier."
+        },
+        {
+          "de": "das Fahrrad",
+          "en": "bicycle",
+          "ar": "العجلة / الدراجة 🇪🇬",
+          "gender": "das",
+          "example": "In Deutschland fährt man viel Fahrrad."
+        }
+      ]
+    },
+    {
+      "category": "Gesundheit & Körper",
+      "categoryAr": "الصحة وأعضاء الجسم 🇪🇬",
+      "items": [
+        {
+          "de": "der Arzt",
+          "en": "doctor (male)",
+          "ar": "الطبيب / الدكتور 🇪🇬",
+          "gender": "der",
+          "example": "Ich habe einen Termin beim Arzt."
+        },
+        {
+          "de": "die Ärztin",
+          "en": "doctor (female)",
+          "ar": "الطبيبة 🇪🇬",
+          "gender": "die",
+          "example": "Die Ärztin verschreibt ein Medikament."
+        },
+        {
+          "de": "die Apotheke",
+          "en": "pharmacy",
+          "ar": "الصيدلية 🇪🇬",
+          "gender": "die",
+          "example": "Das Rezept lösen wir in der Apotheke ein."
+        },
+        {
+          "de": "das Krankenhaus",
+          "en": "hospital",
+          "ar": "المستشفى 🇪🇬",
+          "gender": "das",
+          "example": "Das moderne Universitätskrankenhaus."
+        },
+        {
+          "de": "der Kopf",
+          "en": "head",
+          "ar": "الرأس 🇪🇬",
+          "gender": "der",
+          "example": "Mein Kopf tut weh (Kopfschmerzen)."
+        },
+        {
+          "de": "der Bauch",
+          "en": "belly/stomach",
+          "ar": "البطن / المعدة 🇪🇬",
+          "gender": "der",
+          "example": "Bauchschmerzen nach dem Essen."
+        }
+      ]
+    }
+  ],
+  "irregularVerbsTable": [
+    {
+      "infinitive": "sein",
+      "meaningEn": "to be",
+      "meaningAr": "يكون 🇪🇬",
+      "presens3rd": "ist",
+      "prateritum": "war",
+      "perfekt": "ist gewesen",
+      "example": "Ich bin in Deutschland gewesen."
+    },
+    {
+      "infinitive": "haben",
+      "meaningEn": "to have",
+      "meaningAr": "يملك / عنده 🇪🇬",
+      "presens3rd": "hat",
+      "prateritum": "hatte",
+      "perfekt": "hat gehabt",
+      "example": "Er hat viel Glück gehabt."
+    },
+    {
+      "infinitive": "werden",
+      "meaningEn": "to become",
+      "meaningAr": "يصبح / يصير 🇪🇬",
+      "presens3rd": "wird",
+      "prateritum": "wurde",
+      "perfekt": "ist geworden",
+      "example": "Sie ist eine hervorragende Ärztin geworden."
+    },
+    {
+      "infinitive": "gehen",
+      "meaningEn": "to go / walk",
+      "meaningAr": "يذهب / يمشي 🇪🇬",
+      "presens3rd": "geht",
+      "prateritum": "ging",
+      "perfekt": "ist gegangen",
+      "example": "Wir sind gestern ins Kino gegangen."
+    },
+    {
+      "infinitive": "kommen",
+      "meaningEn": "to come",
+      "meaningAr": "يأتي / ييجي 🇪🇬",
+      "presens3rd": "kommt",
+      "prateritum": "kam",
+      "perfekt": "ist gekommen",
+      "example": "Wann bist du nach Hause gekommen?"
+    },
+    {
+      "infinitive": "sehen",
+      "meaningEn": "to see",
+      "meaningAr": "يرى / يشوف 🇪🇬",
+      "presens3rd": "sieht",
+      "prateritum": "sah",
+      "perfekt": "hat gesehen",
+      "example": "Hast du den neuen Film gesehen?"
+    },
+    {
+      "infinitive": "lesen",
+      "meaningEn": "to read",
+      "meaningAr": "يقرأ 🇪🇬",
+      "presens3rd": "liest",
+      "prateritum": "las",
+      "perfekt": "hat gelesen",
+      "example": "Sie hat das ganze Buch an einem Tag gelesen."
+    },
+    {
+      "infinitive": "sprechen",
+      "meaningEn": "to speak",
+      "meaningAr": "يتحدث / يتكلم 🇪🇬",
+      "presens3rd": "spricht",
+      "prateritum": "sprach",
+      "perfekt": "hat gesprochen",
+      "example": "Er hat fließend Deutsch gesprochen."
+    },
+    {
+      "infinitive": "nehmen",
+      "meaningEn": "to take",
+      "meaningAr": "يأخذ 🇪🇬",
+      "presens3rd": "nimmt",
+      "prateritum": "nahm",
+      "perfekt": "hat genommen",
+      "example": "Ich habe die U-Bahn genommen."
+    },
+    {
+      "infinitive": "fahren",
+      "meaningEn": "to drive / travel",
+      "meaningAr": "يقود / يسافر بالسيارة أو القطار 🇪🇬",
+      "presens3rd": "fährt",
+      "prateritum": "fuhr",
+      "perfekt": "ist gefahren",
+      "example": "Wir sind mit dem ICE nach München gefahren."
+    },
+    {
+      "infinitive": "schlafen",
+      "meaningEn": "to sleep",
+      "meaningAr": "ينام 🇪🇬",
+      "presens3rd": "schläft",
+      "prateritum": "schlief",
+      "perfekt": "hat geschlafen",
+      "example": "Das Baby hat die ganze Nacht ruhig geschlafen."
+    },
+    {
+      "infinitive": "schreiben",
+      "meaningEn": "to write",
+      "meaningAr": "يكتب 🇪🇬",
+      "presens3rd": "schreibt",
+      "prateritum": "schrieb",
+      "perfekt": "hat geschrieben",
+      "example": "Er hat eine E-Mail an den Chef geschrieben."
+    },
+    {
+      "infinitive": "essen",
+      "meaningEn": "to eat",
+      "meaningAr": "يأكل 🇪🇬",
+      "presens3rd": "isst",
+      "prateritum": "aß",
+      "perfekt": "hat gegessen",
+      "example": "Wir haben leckere Brezeln gegessen."
+    },
+    {
+      "infinitive": "trinken",
+      "meaningEn": "to drink",
+      "meaningAr": "يشرب 🇪🇬",
+      "presens3rd": "trinkt",
+      "prateritum": "trank",
+      "perfekt": "hat getrunken",
+      "example": "Hast du genug Wasser getrunken?"
+    },
+    {
+      "infinitive": "wissen",
+      "meaningEn": "to know (facts)",
+      "meaningAr": "يعلم / يعرف 🇪🇬",
+      "presens3rd": "weiß",
+      "prateritum": "wusste",
+      "perfekt": "hat gewusst",
+      "example": "Ich habe die Antwort genau gewusst."
+    },
+    {
+      "infinitive": "denken",
+      "meaningEn": "to think",
+      "meaningAr": "يفكر 🇪🇬",
+      "presens3rd": "denkt",
+      "prateritum": "dachte",
+      "perfekt": "hat gedacht",
+      "example": "Ich habe an dich gedacht."
+    },
+    {
+      "infinitive": "bringen",
+      "meaningEn": "to bring",
+      "meaningAr": "يُحضر / يجيب 🇪🇬",
+      "presens3rd": "bringt",
+      "prateritum": "brachte",
+      "perfekt": "hat gebracht",
+      "example": "Der Kellner hat die Rechnung gebracht."
+    },
+    {
+      "infinitive": "finden",
+      "meaningEn": "to find",
+      "meaningAr": "يجد 🇪🇬",
+      "presens3rd": "findet",
+      "prateritum": "fand",
+      "perfekt": "hat gefunden",
+      "example": "Ich habe meinen Schlüssel im Rucksack gefunden."
+    },
+    {
+      "infinitive": "geben",
+      "meaningEn": "to give",
+      "meaningAr": "يعطي 🇪🇬",
+      "presens3rd": "gibt",
+      "prateritum": "gab",
+      "perfekt": "hat gegeben",
+      "example": "Er hat mir einen guten Ratschlag gegeben."
+    },
+    {
+      "infinitive": "helfen",
+      "meaningEn": "to help (+ Dativ)",
+      "meaningAr": "يساعد (تتطلب Dativ) 🇪🇬",
+      "presens3rd": "hilft",
+      "prateritum": "half",
+      "perfekt": "hat geholfen",
+      "example": "Sie hat dem verletzten Mann sofort geholfen."
+    },
+    {
+      "infinitive": "bleiben",
+      "meaningEn": "to stay / remain",
+      "meaningAr": "يبقى / يظل 🇪🇬",
+      "presens3rd": "bleibt",
+      "prateritum": "blieb",
+      "perfekt": "ist geblieben",
+      "example": "Wir sind wegen des Regens zu Hause geblieben."
+    }
+  ],
+  "twoWayPrepositionsMaster": {
+    "titleDe": "Die 9 Wechselpräpositionen (an, auf, hinter, in, neben, über, unter, vor, zwischen)",
+    "titleEn": "The 9 Two-Way Prepositions: Position vs. Motion",
+    "titleAr": "حروف الجر المشتركة التسعة: السكون مقابل الحركة 🇪🇬",
+    "ruleExplanationEn": "Use DATIV when answering 'Wo?' (Stationary position / location). Use AKKUSATIV when answering 'Wohin?' (Direction / motion towards a target).",
+    "ruleExplanationAr": "استخدم حالة الـ Dativ عندما تسأل بـ 'أين؟ Wo' (موقع ثابت). واستخدم حالة الـ Akkusativ عندما تسأل بـ 'إلى أين؟ Wohin' (حركة وتوجّه لهدف) 🇪🇬.",
+    "mnemonicDe": "Wo = Dativ (Ort / Ruhe) | Wohin = Akkusativ (Richtung / Dynamik)",
+    "prepositions": [
+      {
+        "prep": "in",
+        "meaning": "in / inside",
+        "woDativ": {
+          "de": "Ich bin in der Schule.",
+          "case": "Dativ (die Schule -> der Schule)",
+          "ar": "أنا في المدرسة (سكون) 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Ich gehe in die Schule.",
+          "case": "Akkusativ (die Schule bleibt die)",
+          "ar": "أنا أذهب إلى المدرسة (حركة) 🇪🇬"
+        }
+      },
+      {
+        "prep": "auf",
+        "meaning": "on / on top of (horizontal surface)",
+        "woDativ": {
+          "de": "Das Buch liegt auf dem Tisch.",
+          "case": "Dativ (der Tisch -> dem Tisch)",
+          "ar": "الكتاب موضوع على الطاولة 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Ich lege das Buch auf den Tisch.",
+          "case": "Akkusativ (der Tisch -> den Tisch)",
+          "ar": "أنا أضع الكتاب على الطاولة 🇪🇬"
+        }
+      },
+      {
+        "prep": "unter",
+        "meaning": "under / below",
+        "woDativ": {
+          "de": "Die Katze schläft unter dem Sofa.",
+          "case": "Dativ (das Sofa -> dem Sofa)",
+          "ar": "القطة نائمة تحت الأريكة 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Die Katze rennt unter das Sofa.",
+          "case": "Akkusativ (das Sofa -> das Sofa)",
+          "ar": "القطة تجري تحت الأريكة 🇪🇬"
+        }
+      },
+      {
+        "prep": "über",
+        "meaning": "over / above",
+        "woDativ": {
+          "de": "Die Lampe hängt über dem Esstisch.",
+          "case": "Dativ (der Esstisch -> dem Esstisch)",
+          "ar": "المصباح معلق فوق مائدة الطعام 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Er hängt die Lampe über den Esstisch.",
+          "case": "Akkusativ (der Esstisch -> den Esstisch)",
+          "ar": "هو يعلق المصباح فوق مائدة الطعام 🇪🇬"
+        }
+      },
+      {
+        "prep": "neben",
+        "meaning": "beside / next to",
+        "woDativ": {
+          "de": "Der Stuhl steht neben dem Schrank.",
+          "case": "Dativ (der Schrank -> dem Schrank)",
+          "ar": "الكرسي بجوار الخزانة 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Ich stelle den Stuhl neben den Schrank.",
+          "case": "Akkusativ (der Schrank -> den Schrank)",
+          "ar": "أنا أضع الكرسي بجوار الخزانة 🇪🇬"
+        }
+      },
+      {
+        "prep": "vor",
+        "meaning": "in front of",
+        "woDativ": {
+          "de": "Das Auto parkt vor dem Haus.",
+          "case": "Dativ (das Haus -> dem Haus)",
+          "ar": "السيارة متوقفة أمام البيت 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Er fährt das Auto vor das Haus.",
+          "case": "Akkusativ (das Haus -> das Haus)",
+          "ar": "يقود السيارة إلى أمام البيت 🇪🇬"
+        }
+      },
+      {
+        "prep": "hinter",
+        "meaning": "behind",
+        "woDativ": {
+          "de": "Der Garten liegt hinter dem Gebäude.",
+          "case": "Dativ (das Gebäude -> dem Gebäude)",
+          "ar": "الحديقة تقع خلف المبنى 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Die Kinder laufen hinter das Gebäude.",
+          "case": "Akkusativ (das Gebäude -> das Gebäude)",
+          "ar": "الأطفال يركضون إلى خلف المبنى 🇪🇬"
+        }
+      },
+      {
+        "prep": "an",
+        "meaning": "at / on (vertical contact / water boundary)",
+        "woDativ": {
+          "de": "Das Bild hängt an der Wand.",
+          "case": "Dativ (die Wand -> der Wand)",
+          "ar": "الصورة معلقة على الحائط 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Ich hänge das Bild an die Wand.",
+          "case": "Akkusativ (die Wand -> die Wand)",
+          "ar": "أنا أعلق الصورة على الحائط 🇪🇬"
+        }
+      },
+      {
+        "prep": "zwischen",
+        "meaning": "between",
+        "woDativ": {
+          "de": "Ich sitze zwischen den beiden Freunden.",
+          "case": "Dativ Plural (die -> den +n)",
+          "ar": "أنا جالس بين الصديقين 🇪🇬"
+        },
+        "wohinAkku": {
+          "de": "Ich setze mich zwischen die Freunde.",
+          "case": "Akkusativ Plural (die Freunde)",
+          "ar": "أنا أجلس بين الأصدقاء 🇪🇬"
+        }
+      }
+    ]
+  },
+  "adjectiveEndingsTable": {
+    "titleDe": "Die komplette Adjektivdeklination (Schwache, Gemischte, Starke)",
+    "titleEn": "Complete German Adjective Endings Matrix",
+    "titleAr": "جدول نهايات الصفات الكامل في الألمانية (الضعيفة، المختلطة، والقوية) 🇪🇬",
+    "weakDeclension": {
+      "description": "Nach bestimmtem Artikel (der, die, das, den, dem, des). Almost all endings are -en, except Nom Sg and Akk Sg Fem/Neut (-e)!",
+      "arDescription": "بعد أداة المعرفة (der, die, das). معظم النهايات هي -en ما عدا الفاعل المفرد والمفعول به المؤنث والمحايد (-e) 🇪🇬.",
+      "table": {
+        "Nominativ": {
+          "maskulin": "-e (der gute Mann)",
+          "feminin": "-e (die gute Frau)",
+          "neutral": "-e (das gute Kind)",
+          "plural": "-en (die guten Menschen)"
+        },
+        "Akkusativ": {
+          "maskulin": "-en (den guten Mann)",
+          "feminin": "-e (die gute Frau)",
+          "neutral": "-e (das gute Kind)",
+          "plural": "-en (die guten Menschen)"
+        },
+        "Dativ": {
+          "maskulin": "-en (dem guten Mann)",
+          "feminin": "-en (der guten Frau)",
+          "neutral": "-en (dem guten Kind)",
+          "plural": "-en (den guten Menschen)"
+        },
+        "Genitiv": {
+          "maskulin": "-en (des guten Mannes)",
+          "feminin": "-en (der guten Frau)",
+          "neutral": "-en (des guten Kindes)",
+          "plural": "-en (der guten Menschen)"
+        }
+      }
+    },
+    "mixedDeclension": {
+      "description": "Nach unbestimmtem Artikel (ein, eine) und Possessivartikeln (mein, dein, etc.). Shows the gender marker (-er, -e, -es) in Nominativ!",
+      "arDescription": "بعد أداة النكرة (ein, eine) والملكية (mein, dein). تظهر علامة الجنس في حالة الفاعل 🇪🇬.",
+      "table": {
+        "Nominativ": {
+          "maskulin": "-er (ein guter Mann)",
+          "feminin": "-e (eine gute Frau)",
+          "neutral": "-es (ein gutes Kind)",
+          "plural": "-en (meine guten Freunde)"
+        },
+        "Akkusativ": {
+          "maskulin": "-en (einen guten Mann)",
+          "feminin": "-e (eine gute Frau)",
+          "neutral": "-es (ein gutes Kind)",
+          "plural": "-en (meine guten Freunde)"
+        },
+        "Dativ": {
+          "maskulin": "-en (einem guten Mann)",
+          "feminin": "-en (einer guten Frau)",
+          "neutral": "-en (einem guten Kind)",
+          "plural": "-en (meinen guten Freunden)"
+        },
+        "Genitiv": {
+          "maskulin": "-en (eines guten Mannes)",
+          "feminin": "-en (einer guten Frau)",
+          "neutral": "-en (eines guten Kindes)",
+          "plural": "-en (meiner guten Freunde)"
+        }
+      }
+    },
+    "strongDeclension": {
+      "description": "Ohne Artikel (Zero article, Nullartikel). The adjective carries the strong article ending (except Genitiv Mask/Neut which takes -en due to -(e)s on noun)!",
+      "arDescription": "بدون أداة نهائياً. الصفة تأخذ نهاية أداة التعريف مباشرة 🇪🇬.",
+      "table": {
+        "Nominativ": {
+          "maskulin": "-er (guter Wein)",
+          "feminin": "-e (frische Milch)",
+          "neutral": "-es (kaltes Wasser)",
+          "plural": "-e (gute Freunde)"
+        },
+        "Akkusativ": {
+          "maskulin": "-en (guten Wein)",
+          "feminin": "-e (frische Milch)",
+          "neutral": "-es (kaltes Wasser)",
+          "plural": "-e (gute Freunde)"
+        },
+        "Dativ": {
+          "maskulin": "-em (gutem Wein)",
+          "feminin": "-er (frischer Milch)",
+          "neutral": "-em (kaltem Wasser)",
+          "plural": "-en (guten Freunden)"
+        },
+        "Genitiv": {
+          "maskulin": "-en (guten Weines)",
+          "feminin": "-er (frischer Milch)",
+          "neutral": "-en (kalten Wassers)",
+          "plural": "-er (guter Freunde)"
+        }
+      }
+    }
+  },
+  "nomenVerbVerbindungen": [
+    {
+      "phrase": "eine Entscheidung treffen",
+      "simpleVerb": "entscheiden",
+      "meaningEn": "to make a decision",
+      "meaningAr": "يتخذ قراراً 🇪🇬",
+      "example": "Die Kommission hat endlich eine wichtige Entscheidung getroffen."
+    },
+    {
+      "phrase": "zur Verfügung stehen",
+      "simpleVerb": "verfügbar sein",
+      "meaningEn": "to be available / at one's disposal",
+      "meaningAr": "يكون تحت التصرّف أو متاحاً 🇪🇬",
+      "example": "Ich stehe Ihnen für weitere Fragen jederzeit gern zur Verfügung."
+    },
+    {
+      "phrase": "zur Verfügung stellen",
+      "simpleVerb": "bereitstellen",
+      "meaningEn": "to provide / make something available",
+      "meaningAr": "يوفّر أو يضع شيئاً تحت التصرف 🇪🇬",
+      "example": "Das Unternehmen stellt den Mitarbeitern Laptops zur Verfügung."
+    },
+    {
+      "phrase": "in Betracht ziehen",
+      "simpleVerb": "berücksichtigen / überlegen",
+      "meaningEn": "to take into consideration",
+      "meaningAr": "يأخذ بعين الاعتبار / يفكر في الأمر 🇪🇬",
+      "example": "Wir müssen alle Risiken und Eventualitäten in Betracht ziehen."
+    },
+    {
+      "phrase": "Rücksicht nehmen auf (+ Akk)",
+      "simpleVerb": "berücksichtigen",
+      "meaningEn": "to show consideration for",
+      "meaningAr": "يراعي / يأخذ مشاعر أو ظروف الآخرين في الحسبان 🇪🇬",
+      "example": "Bitte nehmen Sie Rücksicht auf die schlafenden Nachbarn."
+    },
+    {
+      "phrase": "Abschied nehmen von (+ Dat)",
+      "simpleVerb": "sich verabschieden",
+      "meaningEn": "to take leave of / say goodbye",
+      "meaningAr": "يودع شخصاً ما 🇪🇬",
+      "example": "Er nahm am Flughafen schweren Herzens Abschied von seiner Familie."
+    },
+    {
+      "phrase": "in Frage kommen",
+      "simpleVerb": "möglich sein / denkbar sein",
+      "meaningEn": "to be out of the question / to be possible",
+      "meaningAr": "يكون مطروحاً أو وارداً 🇪🇬",
+      "example": "Ein Aufgeben kommt für uns überhaupt nicht in Frage!"
+    },
+    {
+      "phrase": "Kritik üben an (+ Dat)",
+      "simpleVerb": "kritisieren",
+      "meaningEn": "to criticize",
+      "meaningAr": "يوجه انتقاداً لـ 🇪🇬",
+      "example": "Die Opposition übte scharfe Kritik an den neuen Gesetzesplänen."
+    },
+    {
+      "phrase": "Bescheid wissen über (+ Akk) / geben",
+      "simpleVerb": "informiert sein / informieren",
+      "meaningEn": "to be informed / to inform",
+      "meaningAr": "يكون على علم / يبلّغ بالمعلومات 🇪🇬",
+      "example": "Gib mir bitte Bescheid, sobald du in Berlin ankommst."
+    },
+    {
+      "phrase": "zur Sprache bringen",
+      "simpleVerb": "ansprechen",
+      "meaningEn": "to bring up for discussion",
+      "meaningAr": "يطرح مسألة للنقاش 🇪🇬",
+      "example": "Sie brachte das heikle Thema in der Vorstandssitzung zur Sprache."
+    }
+  ],
+  "examMasteryGuide": {
+    "titleDe": "Offizieller Goethe & Telc Prüfungsleitfaden (A1 bis C2)",
+    "titleEn": "Official Goethe & Telc Exam Success Strategies",
+    "titleAr": "دليل اجتياز امتحانات معهد جوته وتيلك من A1 حتى C2 🇪🇬",
+    "coreExamTips": [
+      {
+        "section": "Hören (Listening)",
+        "tipEn": "Read questions and keywords before the audio starts. Focus on signal words and negation ('nicht', 'kein', 'aber').",
+        "tipAr": "اقرأ الأسئلة والكلمات المفتاحية قبل تشغيل التسجيل الصوتي. انتبه بشدة لكلمات النفي مثل nicht و kein والاستدراك aber 🇪🇬."
+      },
+      {
+        "section": "Lesen (Reading)",
+        "tipEn": "Skim titles and first sentences. Avoid getting stuck on unknown words; deduce meaning from context.",
+        "tipAr": "امسح العناوين والفقرات الأولى بنظرة سريعة. لا تتوقف عند كل كلمة صعبة؛ استنتج المعنى العام من السياق 🇪🇬."
+      },
+      {
+        "section": "Schreiben (Writing)",
+        "tipEn": "Always cover all required bullet points (Leitpunkte). Use appropriate salutation ('Sehr geehrte Damen und Herren' vs 'Liebe/r') and connectors ('deshalb', 'weil', 'obwohl').",
+        "tipAr": "أجب على جميع النقاط الإلزامية المطلوبة (Leitpunkte). استخدم التحية المناسبة رسمية أو غير رسمية وروابط الجمل المناسبة 🇪🇬."
+      },
+      {
+        "section": "Sprechen (Speaking)",
+        "tipEn": "Structure your talk: Einleitung -> Argumente -> Eigene Meinung -> Abschluss. Ask your partner follow-up questions active interaction.",
+        "tipAr": "قسّم حديثك بدقة: مقدمة -> حجج مع وضد -> رأيك الشخصي -> خاتمة. تفاعل بحيوية مع زميلك في الامتحان واطرح عليه أسئلة 🇪🇬."
+      }
+    ],
+    "levelSpecificAdvice": {
+      "A1": "Focus on personal intro, spelling names, numbers, simple requests (Bitte/Danke), and basic daily vocabulary.",
+      "A2": "Focus on past tense (Perfekt), giving directions, making appointments, and simple email writing.",
+      "B1": "Master connectors (weil, dass, obwohl, trotzdem), expressing opinions, and the 3-part presentation format.",
+      "B2": "Showcase passive voice, Konjunktiv II, formal complaint letters (Beschwerdebrief), and debate skills.",
+      "C1": "Use Nomen-Verb-Verbindungen, nuanced synonyms, passive alternatives, and complex academic texts.",
+      "C2": "Flawless stylistic precision, idioms in natural context, rhetorical nuance, and handling rapid native speech."
+    }
+  }
+}

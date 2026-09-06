@@ -1,0 +1,448 @@
+[
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "count": 36,
+    "subCategories": [
+      "das kaufhaus"
+    ]
+  },
+  {
+    "id": "art-materials",
+    "name": "Art Materials",
+    "count": 24,
+    "subCategories": [
+      "sewing accessories"
+    ]
+  },
+  {
+    "id": "at-the-shops",
+    "name": "At The Shops",
+    "count": 4,
+    "subCategories": [
+      "im laden"
+    ]
+  },
+  {
+    "id": "baby-goods",
+    "name": "Baby Goods",
+    "count": 32,
+    "subCategories": [
+      "für das baby"
+    ]
+  },
+  {
+    "id": "beauty",
+    "name": "Beauty",
+    "count": 30,
+    "subCategories": [
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "body-front",
+    "name": "Body – Front",
+    "count": 39,
+    "subCategories": [
+      "body – back"
+    ]
+  },
+  {
+    "id": "boxing",
+    "name": "Boxing",
+    "count": 27,
+    "subCategories": [
+      "other combat sports"
+    ]
+  },
+  {
+    "id": "bus",
+    "name": "Bus",
+    "count": 30,
+    "subCategories": [
+      "mit dem bus"
+    ]
+  },
+  {
+    "id": "celebrations-and-festivals",
+    "name": "Celebrations And Festivals",
+    "count": 3,
+    "subCategories": [
+      "feste und festtage"
+    ]
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "count": 31,
+    "subCategories": [
+      "der käse"
+    ]
+  },
+  {
+    "id": "classic-german-dishes",
+    "name": "Classic German Dishes",
+    "count": 31,
+    "subCategories": [
+      "desserts"
+    ]
+  },
+  {
+    "id": "communication-and-it",
+    "name": "Communication And It",
+    "count": 35,
+    "subCategories": [
+      "die kommunikation und die informationstechnologie"
+    ]
+  },
+  {
+    "id": "day-to-day",
+    "name": "Day-To-Day",
+    "count": 4,
+    "subCategories": [
+      "der alltag"
+    ]
+  },
+  {
+    "id": "department-store",
+    "name": "Department Store",
+    "count": 35,
+    "subCategories": [
+      "das kaufhaus"
+    ]
+  },
+  {
+    "id": "equipment",
+    "name": "Equipment",
+    "count": 33,
+    "subCategories": [
+      "musical instruments"
+    ]
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "count": 39,
+    "subCategories": [
+      "car"
+    ]
+  },
+  {
+    "id": "family-and-friends",
+    "name": "Family And Friends",
+    "count": 40,
+    "subCategories": [
+      "familie und freunde"
+    ]
+  },
+  {
+    "id": "fish",
+    "name": "Fish",
+    "count": 39,
+    "subCategories": [
+      "seafood"
+    ]
+  },
+  {
+    "id": "flowers",
+    "name": "Flowers",
+    "count": 33,
+    "subCategories": [
+      "plants and trees"
+    ]
+  },
+  {
+    "id": "footwear",
+    "name": "Footwear",
+    "count": 33,
+    "subCategories": [
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "general",
+    "name": "General",
+    "count": 294,
+    "subCategories": [
+      "bathroom",
+      "bedroom",
+      "boats",
+      "garden",
+      "skiing and snowboarding",
+      "table settings",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "general-health-and-wellbeing",
+    "name": "General Health And Wellbeing",
+    "count": 35,
+    "subCategories": [
+      "gesundheit und wohlbefinden"
+    ]
+  },
+  {
+    "id": "hand",
+    "name": "Hand",
+    "count": 30,
+    "subCategories": [
+      "foot"
+    ]
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "count": 5,
+    "subCategories": [
+      "gesundheit"
+    ]
+  },
+  {
+    "id": "high-days-and-holidays",
+    "name": "High Days And Holidays",
+    "count": 33,
+    "subCategories": [
+      "festtage"
+    ]
+  },
+  {
+    "id": "hotel",
+    "name": "Hotel",
+    "count": 31,
+    "subCategories": [
+      "im hotel"
+    ]
+  },
+  {
+    "id": "in-the-home",
+    "name": "In The Home",
+    "count": 4,
+    "subCategories": [
+      "im haus"
+    ]
+  },
+  {
+    "id": "injuries",
+    "name": "Injuries",
+    "count": 29,
+    "subCategories": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "interior",
+    "name": "Interior",
+    "count": 31,
+    "subCategories": [
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "leisure",
+    "name": "Leisure",
+    "count": 5,
+    "subCategories": [
+      "in der freizeit"
+    ]
+  },
+  {
+    "id": "market",
+    "name": "Market",
+    "count": 39,
+    "subCategories": [
+      "der markt"
+    ]
+  },
+  {
+    "id": "miscellaneous-items",
+    "name": "Miscellaneous Items",
+    "count": 29,
+    "subCategories": [
+      "the kitchen"
+    ]
+  },
+  {
+    "id": "outside",
+    "name": "Outside",
+    "count": 27,
+    "subCategories": [
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "places-of-importance",
+    "name": "Places Of Importance",
+    "count": 32,
+    "subCategories": [
+      "in town"
+    ]
+  },
+  {
+    "id": "planet-earth",
+    "name": "Planet Earth",
+    "count": 4,
+    "subCategories": [
+      "die erde"
+    ]
+  },
+  {
+    "id": "rail-travel",
+    "name": "Rail Travel",
+    "count": 33,
+    "subCategories": [
+      "mit dem zug"
+    ]
+  },
+  {
+    "id": "sea",
+    "name": "Sea",
+    "count": 12,
+    "subCategories": [
+      "sky"
+    ]
+  },
+  {
+    "id": "skeleton",
+    "name": "Skeleton",
+    "count": 31,
+    "subCategories": [
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "snacks",
+    "name": "Snacks",
+    "count": 29,
+    "subCategories": [
+      "drinks"
+    ]
+  },
+  {
+    "id": "sport",
+    "name": "Sport",
+    "count": 4,
+    "subCategories": [
+      "der sport"
+    ]
+  },
+  {
+    "id": "the-basics",
+    "name": "The Basics",
+    "count": 51,
+    "subCategories": [
+      "das wesentliche"
+    ]
+  },
+  {
+    "id": "the-dentist-s-surgery",
+    "name": "The Dentist’S Surgery",
+    "count": 32,
+    "subCategories": [
+      "beim zahnarzt"
+    ]
+  },
+  {
+    "id": "the-entrance",
+    "name": "The Entrance",
+    "count": 33,
+    "subCategories": [
+      "der eingang"
+    ]
+  },
+  {
+    "id": "the-essentials",
+    "name": "The Essentials",
+    "count": 6,
+    "subCategories": [
+      "das wesentliche"
+    ]
+  },
+  {
+    "id": "time",
+    "name": "Time",
+    "count": 77,
+    "subCategories": [
+      "die uhrzeit"
+    ]
+  },
+  {
+    "id": "transport",
+    "name": "Transport",
+    "count": 6,
+    "subCategories": [
+      "verkehrsmittel"
+    ]
+  },
+  {
+    "id": "vegetables",
+    "name": "Vegetables",
+    "count": 33,
+    "subCategories": [
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "vocabulary",
+    "name": "Vocabulary",
+    "count": 1561,
+    "subCategories": [
+      "athletics",
+      "badminton",
+      "bakery and patisserie",
+      "breakfast",
+      "bus",
+      "butcher’s",
+      "carnival",
+      "cheese",
+      "driving",
+      "eating out",
+      "education",
+      "ferry and boat travel",
+      "football",
+      "general",
+      "general crafts",
+      "hotel",
+      "housework",
+      "ice hockey",
+      "illness",
+      "inside",
+      "kitchen utensils",
+      "land",
+      "marine creatures",
+      "minibeasts",
+      "other common mammals",
+      "other shops",
+      "other sports",
+      "pets",
+      "pool",
+      "sightseeing",
+      "starters",
+      "the basics",
+      "the dentist’s surgery",
+      "the gym",
+      "the hospital",
+      "the office",
+      "the post office",
+      "the vet",
+      "types of building",
+      "vocabulary",
+      "winter sports"
+    ]
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "count": 38,
+    "subCategories": [
+      "das wetter"
+    ]
+  },
+  {
+    "id": "work",
+    "name": "Work",
+    "count": 55,
+    "subCategories": [
+      "arbeit"
+    ]
+  }
+]
