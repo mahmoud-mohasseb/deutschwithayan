@@ -37,7 +37,7 @@
     "react-native-screens": "~4.26.0",
     "react-native-svg": "15.15.4",
     "react-native-web": "^0.21.2",
-    "three": "^0.154.0",
+    "three": "^0.166.1",
     "zustand": "^5.0.15"
   },
   "private": true,
