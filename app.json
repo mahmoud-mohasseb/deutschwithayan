@@ -28,6 +28,12 @@
     "plugins": [
       "expo-image",
       "expo-status-bar"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d1ca78b1-0fe4-4c3b-b8a7-d775cee3800d"
+      }
+    },
+    "owner": "mahmoud_mohasseb"
   }
 }
