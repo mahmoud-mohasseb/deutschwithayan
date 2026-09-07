@@ -17,6 +17,7 @@
     },
     "android": {
       "package": "com.deutschwithayan.app",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/ayan_logo.png",
         "backgroundColor": "#0B1120"
